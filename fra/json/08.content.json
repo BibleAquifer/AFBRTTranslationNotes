@@ -1,0 +1,1716 @@
+[
+{
+"content_id": "08001001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.1 (#1)",
+"media_type": "Text",
+"index_reference": "08001001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’époque des juges est celle qui suit la conquête de Canaan sous Josué et qui finit avec le prophète Samuel, dernier juge d’Israël.  Samuel instaure la monarchie quand il oint Saül comme premier roi d’Israël.  Le livre des Juges raconte l’histoire du peuple d’Israël pendant la période des juges jusque avant Samuel.  (Noter que le livre de Josué raconte la conquête de Canaan, mais qu’Israël n’arrive pas à conquérir tout le pays pendant la vie de Josué.  La conquête continue même pendant l’époque des juges : voir <a href=\"https://ref.ly/Judg18:1-Judg18:2\">Juges 18.1–2</a>, <a href=\"https://ref.ly/Judg18:7-Judg18:12\">7–12</a>, <a href=\"https://ref.ly/Judg18:27-Judg18:29\">27–29</a>.)  Le récit de Ruth se passe vers la fin de l’époque des juges.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001001",
+"start_ref_usfm": "RUT 1:1",
+"end_ref": "08001001",
+"end_ref_usfm": "RUT 1:1"
+},
+{
+"start_ref": "07018001",
+"start_ref_usfm": "JDG 18:1",
+"end_ref": "07018002",
+"end_ref_usfm": "JDG 18:2"
+},
+{
+"start_ref": "07018007",
+"start_ref_usfm": "JDG 18:7",
+"end_ref": "07018012",
+"end_ref_usfm": "JDG 18:12"
+},
+{
+"start_ref": "07018027",
+"start_ref_usfm": "JDG 18:27",
+"end_ref": "07018029",
+"end_ref_usfm": "JDG 18:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001001-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.1 (#2)",
+"media_type": "Text",
+"index_reference": "08001001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est sous-entendu qu’il s’agit du pays d’Israël.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001001",
+"start_ref_usfm": "RUT 1:1",
+"end_ref": "08001001",
+"end_ref_usfm": "RUT 1:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001001-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.1 (#3)",
+"media_type": "Text",
+"index_reference": "08001001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom « Bethléhem » signifie « maison du pain ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001001",
+"start_ref_usfm": "RUT 1:1",
+"end_ref": "08001001",
+"end_ref_usfm": "RUT 1:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001001-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.1 (#4)",
+"media_type": "Text",
+"index_reference": "08001001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « séjourner » signifie ici séjourner, demeurer, habiter.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001001",
+"start_ref_usfm": "RUT 1:1",
+"end_ref": "08001001",
+"end_ref_usfm": "RUT 1:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.2 (#1)",
+"media_type": "Text",
+"index_reference": "08001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom « Élimélec » signifie « l’Éternel est roi ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001002",
+"start_ref_usfm": "RUT 1:2",
+"end_ref": "08001002",
+"end_ref_usfm": "RUT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001002-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.2 (#2)",
+"media_type": "Text",
+"index_reference": "08001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom « Noami » évoque la douceur, les délices.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001002",
+"start_ref_usfm": "RUT 1:2",
+"end_ref": "08001002",
+"end_ref_usfm": "RUT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001002-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.2 (#3)",
+"media_type": "Text",
+"index_reference": "08001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom « Makhlon » évoque la maladie.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001002",
+"start_ref_usfm": "RUT 1:2",
+"end_ref": "08001002",
+"end_ref_usfm": "RUT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001002-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.2 (#4)",
+"media_type": "Text",
+"index_reference": "08001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La signification du nom « Kilyon » est incertaine.  Ce nom pourrait évoquer la destruction, la beauté / la perfection ou encore le manquement / languissement.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001002",
+"start_ref_usfm": "RUT 1:2",
+"end_ref": "08001002",
+"end_ref_usfm": "RUT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.3 (#1)",
+"media_type": "Text",
+"index_reference": "08001003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire qu’il ne reste qu’elle et ses deux fils.  Le verbe hébreu traduit « resta » signifie survivre, demeurer comme reste.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001003",
+"start_ref_usfm": "RUT 1:3",
+"end_ref": "08001003",
+"end_ref_usfm": "RUT 1:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.4 (#1)",
+"media_type": "Text",
+"index_reference": "08001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La signification du nom « Orpah » est incertaine.  Ce nom pourrait évoquer le brouillard, des ténèbres épaisses ou l’obstination.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001004",
+"start_ref_usfm": "RUT 1:4",
+"end_ref": "08001004",
+"end_ref_usfm": "RUT 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001004-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.4 (#2)",
+"media_type": "Text",
+"index_reference": "08001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom « Ruth » pourrait évoquer la beauté ou l’amitié.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001004",
+"start_ref_usfm": "RUT 1:4",
+"end_ref": "08001004",
+"end_ref_usfm": "RUT 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001004-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.4 (#3)",
+"media_type": "Text",
+"index_reference": "08001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « là ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001004",
+"start_ref_usfm": "RUT 1:4",
+"end_ref": "08001004",
+"end_ref_usfm": "RUT 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.5 (#1)",
+"media_type": "Text",
+"index_reference": "08001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"08001003-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante au verset 3.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001005",
+"start_ref_usfm": "RUT 1:5",
+"end_ref": "08001005",
+"end_ref_usfm": "RUT 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.6 (#1)",
+"media_type": "Text",
+"index_reference": "08001006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que Naomi se trouvait encore à Moab quand elle a entendu dire que le Seigneur avait pourvu du pain pour son peuple.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001006",
+"start_ref_usfm": "RUT 1:6",
+"end_ref": "08001006",
+"end_ref_usfm": "RUT 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001006-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.6 (#2)",
+"media_type": "Text",
+"index_reference": "08001006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ce verbe signifie que l’Éternel est intervenu en faveur de son peuple (voir Segond 21, Nouvelle Francis courant, Colombe, Nouvelle Bible Segond, et d’autres).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001006",
+"start_ref_usfm": "RUT 1:6",
+"end_ref": "08001006",
+"end_ref_usfm": "RUT 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.9 (#1)",
+"media_type": "Text",
+"index_reference": "08001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Que l’Éternel vous donne et que vous trouviez du repos, chacune dans la maison de son mari ! »</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001009",
+"start_ref_usfm": "RUT 1:9",
+"end_ref": "08001009",
+"end_ref_usfm": "RUT 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.13 (#1)",
+"media_type": "Text",
+"index_reference": "08001013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Naomi fait référence au mariage lévirat.  Voir note correspondante à « conserver le nom du défunt » au verset <a href=\"https://ref.ly/Ruth4:5\">4.5</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001013",
+"start_ref_usfm": "RUT 1:13",
+"end_ref": "08001013",
+"end_ref_usfm": "RUT 1:13"
+},
+{
+"start_ref": "08004005",
+"start_ref_usfm": "RUT 4:5",
+"end_ref": "08004005",
+"end_ref_usfm": "RUT 4:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001013-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.13 (#2)",
+"media_type": "Text",
+"index_reference": "08001013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Naomi ne sous-entend pas ici que c’est de la faute de ses belles-filles que « la main de l’Éternel s’est étendue contre [elle] ».  Elle dit plutôt qu’elle est amère/triste pour ses belles-filles, qui se retrouvent maintenant seules, sans maris, puisque ses fils sont morts.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001013",
+"start_ref_usfm": "RUT 1:13",
+"end_ref": "08001013",
+"end_ref_usfm": "RUT 1:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.14 (#1)",
+"media_type": "Text",
+"index_reference": "08001014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est sous-entendu qu’elle l’embrasse pour lui dire adieu.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001014",
+"start_ref_usfm": "RUT 1:14",
+"end_ref": "08001014",
+"end_ref_usfm": "RUT 1:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.17 (#1)",
+"media_type": "Text",
+"index_reference": "08001017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit d’une formule de serment solennel.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001017",
+"start_ref_usfm": "RUT 1:17",
+"end_ref": "08001017",
+"end_ref_usfm": "RUT 1:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001018-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.18 (#1)",
+"media_type": "Text",
+"index_reference": "08001018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « renonça à lui parler ».  Il est sous-entendu que Naomi renonce à convaincre Ruth de retourner vers sa famille, son peuple et ses dieux, et non à lui parler tout court.  Dans certaines langues, il sera préférable de traduire « arrêta d’essayer de la convaincre » ou « arrêta d’insister auprès d’elle ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001018",
+"start_ref_usfm": "RUT 1:18",
+"end_ref": "08001018",
+"end_ref_usfm": "RUT 1:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08001020-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 1.20 (#1)",
+"media_type": "Text",
+"index_reference": "08001020",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « Mara » signifie « amère ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001020",
+"start_ref_usfm": "RUT 1:20",
+"end_ref": "08001020",
+"end_ref_usfm": "RUT 1:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.2 (#1)",
+"media_type": "Text",
+"index_reference": "08002002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « grâce » décrit habituellement une disposition favorable et compatissante envers quelqu’un d’autre, souvent de la part de quelqu'un en position de force par rapport à autrui (par exemple quelqu’un qui a une position sociale supérieure envers quelqu’un qui est dans le besoin).  Ce mot n’est pas toujours facile à traduire en français. Une langue n’a pas toujours de mot qui a exactement le même sens qu’un autre mot dans une autre langue, et c’est le cas ici : il n'y a pas de mot français qui a toujours exactement le même sens que le mot hébreu traduit ici par « grâce ».  Ainsi, ce mot peut avoir plusieurs équivalents en français : « grâce », « faveur », « bonté », « pitié », « miséricorde », « clémence », « compassion ».</p>\n      <p>Le sens est que Ruth espère que quelqu’un lui montrera de la compassion et la laissera ramasser des épis d’orge dans son champ.  C’est le mot que Ruth utilisera pour parler de la bonté de Boaz envers elle, pourtant une étrangère (voir verset 10).  À titre d’exemple, ce mot est également utilisé pour décrire la disposition favorable du roi Assuérus envers Esther (voir par exemple <a href=\"https://ref.ly/Esth2:17\">Esther 2.17</a>).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002002",
+"start_ref_usfm": "RUT 2:2",
+"end_ref": "08002002",
+"end_ref_usfm": "RUT 2:2"
+},
+{
+"start_ref": "17002017",
+"start_ref_usfm": "EST 2:17",
+"end_ref": "17002017",
+"end_ref_usfm": "EST 2:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.8 (#1)",
+"media_type": "Text",
+"index_reference": "08002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Les expressions « mon fils » ou « ma fille » étaient souvent utilisées par quelqu’un en position de supériorité pour s’adresser à une personne de façon bienveillante.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002008",
+"start_ref_usfm": "RUT 2:8",
+"end_ref": "08002008",
+"end_ref_usfm": "RUT 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.9 (#1)",
+"media_type": "Text",
+"index_reference": "08002009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Boaz assure ainsi la protection de Ruth.  Une jeune femme étrangère et seule aurait été particulièrement vulnérable ; n’importe quel homme aurait facilement pu l’insulter, l’empêcher de ramasser des épis, la chasser, la maltraiter ou même la violer.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002009",
+"start_ref_usfm": "RUT 2:9",
+"end_ref": "08002009",
+"end_ref_usfm": "RUT 2:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.10 (#1)",
+"media_type": "Text",
+"index_reference": "08002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « se prosterna » signifie se courber, s’abaisser.  Dépendamment des contextes et de la présence d’autres mots dans la phrase, il peut décrire l’action de se prosterner de façon plus ou moins prononcée.  Noter que ce verbe peut décrire (1) une action qui reflète une dévotion à Dieu (voir par exemple Ésaïe <a href=\"https://ref.ly/Ruth44:15\">44.15</a> ou <a href=\"https://ref.ly/Neh8:6\">Néhémie 8.6</a>) ou (2) une action qui reflète le respect envers quelqu’un.  À titre d’exemple, ce verbe est utilisé pour décrire une prostration en signe de respect envers une autre personne dans les passages suivants : </p>\n      <ul>\n      <li><a href=\"https://ref.ly/Gen23:7\">Genèse 23.7</a>, <a href=\"https://ref.ly/Gen23:12\">12</a> : Abraham devant le peuple du pays dans lequel il séjourne.</li>\n      <li><a href=\"https://ref.ly/Gen27:29\">Genèse 27.29</a> : les nations et les peuples devant Jacob.</li>\n      <li><a href=\"https://ref.ly/Gen33:3\">Genèse 33.3</a>, <a href=\"https://ref.ly/Gen33:6\">6</a>, <a href=\"https://ref.ly/Gen33:7\">7</a> : Jacob, ses femmes, ses concubines et leurs enfants devant Ésaü.</li>\n      <li><a href=\"https://ref.ly/Gen42:6\">Genèse 42.6</a> : les frères de Joseph devant lui en tant que dirigeant d’Égypte.</li>\n      <li><a href=\"https://ref.ly/Exod18:7\">Exode 18.7</a> : Moïse devant son beau-père.</li>\n      <li><a href=\"https://ref.ly/Ruth2:10\">Ruth 2.10</a> : Ruth devant Boaz.</li>\n      <li><a href=\"https://ref.ly/1Sam20:41\">1 Samuel 20.41</a> : David devant Jonathan.</li>\n      <li><a href=\"https://ref.ly/1Sam24:9\">1 Samuel 24.9</a> : David devant Saül.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002010",
+"start_ref_usfm": "RUT 2:10",
+"end_ref": "08002010",
+"end_ref_usfm": "RUT 2:10"
+},
+{
+"start_ref": "08044015",
+"start_ref_usfm": "RUT 44:15",
+"end_ref": "08044015",
+"end_ref_usfm": "RUT 44:15"
+},
+{
+"start_ref": "16008006",
+"start_ref_usfm": "NEH 8:6",
+"end_ref": "16008006",
+"end_ref_usfm": "NEH 8:6"
+},
+{
+"start_ref": "01023007",
+"start_ref_usfm": "GEN 23:7",
+"end_ref": "01023007",
+"end_ref_usfm": "GEN 23:7"
+},
+{
+"start_ref": "01023012",
+"start_ref_usfm": "GEN 23:12",
+"end_ref": "01023012",
+"end_ref_usfm": "GEN 23:12"
+},
+{
+"start_ref": "01027029",
+"start_ref_usfm": "GEN 27:29",
+"end_ref": "01027029",
+"end_ref_usfm": "GEN 27:29"
+},
+{
+"start_ref": "01033003",
+"start_ref_usfm": "GEN 33:3",
+"end_ref": "01033003",
+"end_ref_usfm": "GEN 33:3"
+},
+{
+"start_ref": "01033006",
+"start_ref_usfm": "GEN 33:6",
+"end_ref": "01033006",
+"end_ref_usfm": "GEN 33:6"
+},
+{
+"start_ref": "01033007",
+"start_ref_usfm": "GEN 33:7",
+"end_ref": "01033007",
+"end_ref_usfm": "GEN 33:7"
+},
+{
+"start_ref": "01042006",
+"start_ref_usfm": "GEN 42:6",
+"end_ref": "01042006",
+"end_ref_usfm": "GEN 42:6"
+},
+{
+"start_ref": "02018007",
+"start_ref_usfm": "EXO 18:7",
+"end_ref": "02018007",
+"end_ref_usfm": "EXO 18:7"
+},
+{
+"start_ref": "09020041",
+"start_ref_usfm": "1SA 20:41",
+"end_ref": "09020041",
+"end_ref_usfm": "1SA 20:41"
+},
+{
+"start_ref": "09024009",
+"start_ref_usfm": "1SA 24:9",
+"end_ref": "09024009",
+"end_ref_usfm": "1SA 24:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002010-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.10 (#2)",
+"media_type": "Text",
+"index_reference": "08002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"08002002-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante au verset 2.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002010",
+"start_ref_usfm": "RUT 2:10",
+"end_ref": "08002010",
+"end_ref_usfm": "RUT 2:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.11 (#1)",
+"media_type": "Text",
+"index_reference": "08002011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « naissance » signifie littéralement « naissance ».  Ce mot indique une relation familiale, qu’elle soit étroite ou large.  Selon les contextes, il pourrait être traduit « patrie », « enfants », « parenté », « famille », « descendance », « origine » ou « ethnie » en français.  À titre d’exemple, ce mot est également utilisé dans <a href=\"https://ref.ly/Esth2:10\">Esther 2.10</a> (« famille »), 20 (« naissance ») ; <a href=\"https://ref.ly/Esth8:6\">8.6</a> (« les miens »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002011",
+"start_ref_usfm": "RUT 2:11",
+"end_ref": "08002011",
+"end_ref_usfm": "RUT 2:11"
+},
+{
+"start_ref": "17002010",
+"start_ref_usfm": "EST 2:10",
+"end_ref": "17002010",
+"end_ref_usfm": "EST 2:10"
+},
+{
+"start_ref": "17008006",
+"start_ref_usfm": "EST 8:6",
+"end_ref": "17008006",
+"end_ref_usfm": "EST 8:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002012-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.12 (#1)",
+"media_type": "Text",
+"index_reference": "08002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Voir <a href=\"https://ref.ly/Exod19:4\">Exode 19.4</a>, où l’Éternel se compare à un aigle portant son peuple Israël.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002012",
+"start_ref_usfm": "RUT 2:12",
+"end_ref": "08002012",
+"end_ref_usfm": "RUT 2:12"
+},
+{
+"start_ref": "02019004",
+"start_ref_usfm": "EXO 19:4",
+"end_ref": "02019004",
+"end_ref_usfm": "EXO 19:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.13 (#1)",
+"media_type": "Text",
+"index_reference": "08002013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"08002002-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante au verset 2.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002013",
+"start_ref_usfm": "RUT 2:13",
+"end_ref": "08002013",
+"end_ref_usfm": "RUT 2:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002015-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.15 (#1)",
+"media_type": "Text",
+"index_reference": "08002015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe traduit « faites honte » signifie insulter, faire honte, humilier, outrager, déshonorer.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002015",
+"start_ref_usfm": "RUT 2:15",
+"end_ref": "08002015",
+"end_ref_usfm": "RUT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002015-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.15 (#2)",
+"media_type": "Text",
+"index_reference": "08002015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ceux qui étaient dans le besoin avaient le droit de ramasser des épis derrière les moissonneurs, c’est-à-dire qu’ils avaient le droit de ramasser <em>ce qui restait après que les moissonneurs avaient fini leur travail de moisson</em> (voir <a href=\"https://ref.ly/Lev19:9\">Lévitique 19.9</a>, <a href=\"https://ref.ly/Lev19:10\">10</a> ; <a href=\"https://ref.ly/Lev23:22\">23.22</a>).  Ceux qui passaient ainsi derrière les moissonneurs n’étaient pas censés aller entre les gerbes qui n’avaient pas encore été moissonnées.  Boaz donne donc des instructions à ses serviteurs pour que même si Ruth ramasse des épis là où elle n’est pas censée le faire, ils ne lui fassent pas de reproches (ce qu’ils auraient normalement eu le droit et même l’obligation de faire).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002015",
+"start_ref_usfm": "RUT 2:15",
+"end_ref": "08002015",
+"end_ref_usfm": "RUT 2:15"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019009",
+"end_ref_usfm": "LEV 19:9"
+},
+{
+"start_ref": "03019010",
+"start_ref_usfm": "LEV 19:10",
+"end_ref": "03019010",
+"end_ref_usfm": "LEV 19:10"
+},
+{
+"start_ref": "03023022",
+"start_ref_usfm": "LEV 23:22",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002016-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.16 (#1)",
+"media_type": "Text",
+"index_reference": "08002016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ceux qui étaient dans le besoin avaient le droit de ramasser des épis derrière les moissonneurs, c’est-à-dire de ramasser <em>ce qui restait après que les moissonneurs avaient fini leur travail de moisson</em> (<span data-bnType=\"resourceReference\" data-resourceId=\"08002015-02\" data-resourceType=\"AFBRTTranslationNotes\">voir note précédente</span>).  Ce que Boaz ordonne à ses moissonneurs est non seulement de ne pas empêcher Ruth de ramasser des épis derrière eux, mais également <em>d’en laisser tomber volontairement</em> pour qu’elle les trouve et qu’elle puisse en ramasser plus.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002016",
+"start_ref_usfm": "RUT 2:16",
+"end_ref": "08002016",
+"end_ref_usfm": "RUT 2:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.17 (#1)",
+"media_type": "Text",
+"index_reference": "08002017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit d’une grande quantité pour une journée de travail par une jeune femme seule.  La réaction de Naomi en voyant ce que Ruth a pu ramener à la maison souligne ce fait : il y a tellement d’orge qu’elle présuppose tout de suite que quelqu’un « s’est intéressé » à Ruth et l’a aidée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002017",
+"start_ref_usfm": "RUT 2:17",
+"end_ref": "08002017",
+"end_ref_usfm": "RUT 2:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002020-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.20 (#1)",
+"media_type": "Text",
+"index_reference": "08002020",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « il fait partie de nos rédempteurs [potentiels] ».  Le verbe hébreu traduit « ont droit de rachat » signifie être rédempteur ou racheter (voir <a href=\"https://ref.ly/Lev25:25\">Lévitique 25.25</a> [voir aussi verset 49] et <a href=\"https://ref.ly/Deut25:5-Deut25:6\">Deutéronome 25.5–6</a>).  Ce verbe peut être traduit « être rédempteur », « racheter » ou « avoir droit de rachat ».  Il apparaît 22 fois dans le livre de Ruth : <a href=\"https://ref.ly/Ruth2:20\">2.20</a> ; <a href=\"https://ref.ly/Ruth3:9\">3.9</a> ; <a href=\"https://ref.ly/Ruth3:12\">3.12</a> (3x) ; <a href=\"https://ref.ly/Ruth3:13\">3.13</a> (4x) ; <a href=\"https://ref.ly/Ruth4:1\">4.1</a>, <a href=\"https://ref.ly/Ruth4:3\">3</a>, <a href=\"https://ref.ly/Ruth4:4\">4</a> (5x), 6 (5x), 8, 14.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002020",
+"start_ref_usfm": "RUT 2:20",
+"end_ref": "08002020",
+"end_ref_usfm": "RUT 2:20"
+},
+{
+"start_ref": "03025025",
+"start_ref_usfm": "LEV 25:25",
+"end_ref": "03025025",
+"end_ref_usfm": "LEV 25:25"
+},
+{
+"start_ref": "05025005",
+"start_ref_usfm": "DEU 25:5",
+"end_ref": "05025006",
+"end_ref_usfm": "DEU 25:6"
+},
+{
+"start_ref": "08003009",
+"start_ref_usfm": "RUT 3:9",
+"end_ref": "08003009",
+"end_ref_usfm": "RUT 3:9"
+},
+{
+"start_ref": "08003012",
+"start_ref_usfm": "RUT 3:12",
+"end_ref": "08003012",
+"end_ref_usfm": "RUT 3:12"
+},
+{
+"start_ref": "08003013",
+"start_ref_usfm": "RUT 3:13",
+"end_ref": "08003013",
+"end_ref_usfm": "RUT 3:13"
+},
+{
+"start_ref": "08004001",
+"start_ref_usfm": "RUT 4:1",
+"end_ref": "08004001",
+"end_ref_usfm": "RUT 4:1"
+},
+{
+"start_ref": "08004003",
+"start_ref_usfm": "RUT 4:3",
+"end_ref": "08004003",
+"end_ref_usfm": "RUT 4:3"
+},
+{
+"start_ref": "08004004",
+"start_ref_usfm": "RUT 4:4",
+"end_ref": "08004004",
+"end_ref_usfm": "RUT 4:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08002022-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 2.22 (#1)",
+"media_type": "Text",
+"index_reference": "08002022",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire qu’elle ne doit pas aller dans d’autres champs que ceux de Boaz.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002022",
+"start_ref_usfm": "RUT 2:22",
+"end_ref": "08002022",
+"end_ref_usfm": "RUT 2:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.1 (#1)",
+"media_type": "Text",
+"index_reference": "08003001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Souvent traduit « pour que tu sois heureuse » dans les versions françaises.  Ce verbe est utilisé trois fois dans Ruth : <a href=\"https://ref.ly/Ruth3:1\">3.1</a>, <a href=\"https://ref.ly/Ruth3:7\">7</a> (« joyeux »), 10 (2x).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003001",
+"start_ref_usfm": "RUT 3:1",
+"end_ref": "08003001",
+"end_ref_usfm": "RUT 3:1"
+},
+{
+"start_ref": "08003007",
+"start_ref_usfm": "RUT 3:7",
+"end_ref": "08003007",
+"end_ref_usfm": "RUT 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.2 (#1)",
+"media_type": "Text",
+"index_reference": "08003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit d’une question rhétorique.  Naomi ne s’attend pas à une réponse.  Si nécessaire, il est possible de traduire par une phrase affirmative : « Boaz est notre parent ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003002-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.2 (#2)",
+"media_type": "Text",
+"index_reference": "08003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « Vanner » signifie débarrasser les céréales des impuretés (en général en secouant les grains dans un van pour que les impuretés s’envolent).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003002-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.2 (#3)",
+"media_type": "Text",
+"index_reference": "08003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « aire de battage » ; c’était l’endroit réservé au vannage des céréales.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.3 (#1)",
+"media_type": "Text",
+"index_reference": "08003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’huile (ici, sûrement parfumée) faisait partie des soins cosmétiques. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003003",
+"start_ref_usfm": "RUT 3:3",
+"end_ref": "08003003",
+"end_ref_usfm": "RUT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003003-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.3 (#2)",
+"media_type": "Text",
+"index_reference": "08003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est également possible de traduire : « Tu te feras connaître à lui seulement après qu’il a fini de manger et de boire » ou « Tu attendras qu’il ait fini de manger et de boire avant de te faire connaître à lui ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003003",
+"start_ref_usfm": "RUT 3:3",
+"end_ref": "08003003",
+"end_ref_usfm": "RUT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.4 (#1)",
+"media_type": "Text",
+"index_reference": "08003004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Probablement pour que l’air frais sur ses pieds, qui ne sont plus couverts, le réveille.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003004",
+"start_ref_usfm": "RUT 3:4",
+"end_ref": "08003004",
+"end_ref_usfm": "RUT 3:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.7 (#1)",
+"media_type": "Text",
+"index_reference": "08003007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"08003001-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante au verset 1.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003007",
+"start_ref_usfm": "RUT 3:7",
+"end_ref": "08003007",
+"end_ref_usfm": "RUT 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.8 (#1)",
+"media_type": "Text",
+"index_reference": "08003008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Boaz a probablement fait un cauchemar.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003008",
+"start_ref_usfm": "RUT 3:8",
+"end_ref": "08003008",
+"end_ref_usfm": "RUT 3:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.9 (#1)",
+"media_type": "Text",
+"index_reference": "08003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « ton aile ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003009",
+"start_ref_usfm": "RUT 3:9",
+"end_ref": "08003009",
+"end_ref_usfm": "RUT 3:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003009-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.9 (#2)",
+"media_type": "Text",
+"index_reference": "08003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que Boaz fait partie de ceux qui ont droit de rachat de tout ce qui appartenait à Élimélec (voir <a href=\"https://ref.ly/Ruth2:20\">2.20</a>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003009",
+"start_ref_usfm": "RUT 3:9",
+"end_ref": "08003009",
+"end_ref_usfm": "RUT 3:9"
+},
+{
+"start_ref": "08002020",
+"start_ref_usfm": "RUT 2:20",
+"end_ref": "08002020",
+"end_ref_usfm": "RUT 2:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.10 (#1)",
+"media_type": "Text",
+"index_reference": "08003010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire les « jeunes hommes ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003010",
+"start_ref_usfm": "RUT 3:10",
+"end_ref": "08003010",
+"end_ref_usfm": "RUT 3:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.11 (#1)",
+"media_type": "Text",
+"index_reference": "08003011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> À cette époque-là, les dirigeants de la ville se réunissaient à la porte de la ville pour discuter des affaires communautaires.  D’autres affaires y étaient également traitées (commerciales, légales, etc.).  Si cette expression est utilisée au sens propre, Boaz dit ici que même les dirigeants de la ville ont entendu dire ou ont constaté eux-mêmes que Ruth est une femme vertueuse.  Si cette expression est utilisée dans un sens métaphorique pour représenter toute la ville, elle signifie sûrement quelque chose d’équivalent à « tout le monde en ville » ou « tous les gens qui vivent ici ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003011",
+"start_ref_usfm": "RUT 3:11",
+"end_ref": "08003011",
+"end_ref_usfm": "RUT 3:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003011-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.11 (#2)",
+"media_type": "Text",
+"index_reference": "08003011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « vertueuse » peut signifier la puissance, la force ou la valeur.  Quand ce mot décrit une femme, il signifie valeur, excellence.  Ce mot apparaît trois fois dans Ruth : <a href=\"https://ref.ly/Ruth2:1\">2.1</a> (« puissant ») ; <a href=\"https://ref.ly/Ruth3:11\">3.11</a> ; <a href=\"https://ref.ly/Ruth4:11\">4.11</a>.  À titre d’exemple, ce mot apparaît également dans les passages suivants :</p>\n      <ul>\n      <li>« Une femme vertueuse est la couronne de son mari » (<a href=\"https://ref.ly/Prov12:4\">Proverbes 12.4</a>).</li>\n      <li>« Qui peut trouver une femme vertueuse ? » (<a href=\"https://ref.ly/Prov31:10\">Proverbes 31.10</a>).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003011",
+"start_ref_usfm": "RUT 3:11",
+"end_ref": "08003011",
+"end_ref_usfm": "RUT 3:11"
+},
+{
+"start_ref": "08002001",
+"start_ref_usfm": "RUT 2:1",
+"end_ref": "08002001",
+"end_ref_usfm": "RUT 2:1"
+},
+{
+"start_ref": "08004011",
+"start_ref_usfm": "RUT 4:11",
+"end_ref": "08004011",
+"end_ref_usfm": "RUT 4:11"
+},
+{
+"start_ref": "20012004",
+"start_ref_usfm": "PRO 12:4",
+"end_ref": "20012004",
+"end_ref_usfm": "PRO 12:4"
+},
+{
+"start_ref": "20031010",
+"start_ref_usfm": "PRO 31:10",
+"end_ref": "20031010",
+"end_ref_usfm": "PRO 31:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003012-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.12 (#1)",
+"media_type": "Text",
+"index_reference": "08003012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est sous-entendu que cet autre parent était « plus proche d’Élimélec » que Boaz dans leur famille au sens large, et que donc cet autre parent avait la priorité par rapport à Boaz pour décider de racheter.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003012",
+"start_ref_usfm": "RUT 3:12",
+"end_ref": "08003012",
+"end_ref_usfm": "RUT 3:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003016-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.16 (#1)",
+"media_type": "Text",
+"index_reference": "08003016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Qui es-tu ma fille ? ».  La question de Naomi est difficile à interpréter, parce qu’elle précise « ma fille » et parce que Ruth n’y répond pas en confirmant son identité (en opposition à la question de Boaz, voir verset 9), mais en racontant à sa belle-mère tout ce qui s’est passé.  Les versions françaises varient dans leur interprétation de la question de Noami : (1) confirmation d’identité : « Qui es- tu ? Ma fille ? » (Bible juive complète) ou « Est-ce toi, ma fille ? » (LSG), ou bien (2) confirmation de ce qui est arrivé : « Que t’est-il arrivé, ma fille ? » (Traduction officielle liturgique) ou « Comment cela s’est-il passé, ma fille ? (Nouvelle français courant).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003016",
+"start_ref_usfm": "RUT 3:16",
+"end_ref": "08003016",
+"end_ref_usfm": "RUT 3:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08003018-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 3.18 (#1)",
+"media_type": "Text",
+"index_reference": "08003018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « Reste [ici] » peut signifier s’asseoir, rester, demeurer.  C’est une façon de dire à Ruth d’attendre de voir comment l’affaire sera réglée.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003018",
+"start_ref_usfm": "RUT 3:18",
+"end_ref": "08003018",
+"end_ref_usfm": "RUT 3:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.1 (#1)",
+"media_type": "Text",
+"index_reference": "08004001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est sous-entendu que Boaz connaît cet homme par son nom et qu’il l’utilise pour l’appeler.  Cependant, l’auteur du livre de Ruth n’utilise pas son nom, mais une expression pour dire que Boaz l’a utilisé.  Il y a deux possibilités : (1) l’auteur du livre de Ruth ne connaît pas le nom de ce parent proche ou (2) l’auteur du livre de Ruth ne souhaite pas faire connaître l’identité de ce parent proche.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004001",
+"start_ref_usfm": "RUT 4:1",
+"end_ref": "08004001",
+"end_ref_usfm": "RUT 4:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.3 (#1)",
+"media_type": "Text",
+"index_reference": "08004003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot « frère » est probablement utilisé ici dans son sens large, c’est-à-dire « parent ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004003",
+"start_ref_usfm": "RUT 4:3",
+"end_ref": "08004003",
+"end_ref_usfm": "RUT 4:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.5 (#1)",
+"media_type": "Text",
+"index_reference": "08004005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « relever ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004005",
+"start_ref_usfm": "RUT 4:5",
+"end_ref": "08004005",
+"end_ref_usfm": "RUT 4:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.6 (#1)",
+"media_type": "Text",
+"index_reference": "08004006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit d’un mariage lévirat.  Ce genre de mariage avait lieu seulement lorsqu’un homme mourait sans laisser de descendance (voir <a href=\"https://ref.ly/Deut25:5-Deut25:6\">Deutéronome 25.5–6</a>).  Puisqu’il n’avait pas d’enfant, un parent proche pouvait racheter ce qui était à lui, et épousait sa veuve.  Le premier fils né du mariage lévirat était considéré non pas comme le fils de l’homme qui l’avait engendré, mais comme le fils du défunt.  Ce fils héritait alors de la propriété de l’homme mort comme s’il avait été son fils biologique.  Si d’autres enfants naissaient de ce mariage, ils étaient considérés comme les enfants de celui qui les avait engendrés.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004006",
+"start_ref_usfm": "RUT 4:6",
+"end_ref": "08004006",
+"end_ref_usfm": "RUT 4:6"
+},
+{
+"start_ref": "05025005",
+"start_ref_usfm": "DEU 25:5",
+"end_ref": "05025006",
+"end_ref_usfm": "DEU 25:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.7 (#1)",
+"media_type": "Text",
+"index_reference": "08004007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Voir cependant <a href=\"https://ref.ly/Deut25:5-Deut25:10\">Deutéronome 25.5–10</a>.  Il est possible qu’au fil du temps, cette coutume ait changé et soit devenue ce qui est décrit ici.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004007",
+"start_ref_usfm": "RUT 4:7",
+"end_ref": "08004007",
+"end_ref_usfm": "RUT 4:7"
+},
+{
+"start_ref": "05025005",
+"start_ref_usfm": "DEU 25:5",
+"end_ref": "05025010",
+"end_ref_usfm": "DEU 25:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.8 (#1)",
+"media_type": "Text",
+"index_reference": "08004008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « Toi, rachète ! »</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004008",
+"start_ref_usfm": "RUT 4:8",
+"end_ref": "08004008",
+"end_ref_usfm": "RUT 4:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.10 (#1)",
+"media_type": "Text",
+"index_reference": "08004010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « veuve ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004010",
+"start_ref_usfm": "RUT 4:10",
+"end_ref": "08004010",
+"end_ref_usfm": "RUT 4:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.11 (#1)",
+"media_type": "Text",
+"index_reference": "08004011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Léa et Rachel étaient deux sœurs, toutes les deux femmes de Jacob.  Léa était l’aînée et la première épouse de Jacob.  L’ordre dans lequel les noms des deux sœurs sont donnés est donc surprenant : il aurait été attendu que Léa soit nommée en premier.   </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004011",
+"start_ref_usfm": "RUT 4:11",
+"end_ref": "08004011",
+"end_ref_usfm": "RUT 4:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004011-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.11 (#2)",
+"media_type": "Text",
+"index_reference": "08004011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Léa et Rachel étaient deux sœurs, toutes les deux femmes de Jacob.  Elles ont toutes les deux donné leur servante (Zilpa et Bilha) à Jacob dans leurs efforts d’avoir plus d’enfants que l’autre.  Elles ont donc donné à Jacob les douze patriarches entre les fils qu’elles ont portés elles-mêmes et ceux de leurs servantes.  En d’autres mots, elles ont effectivement « bâti la maison d’Israël ». </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004011",
+"start_ref_usfm": "RUT 4:11",
+"end_ref": "08004011",
+"end_ref_usfm": "RUT 4:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004011-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.11 (#3)",
+"media_type": "Text",
+"index_reference": "08004011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est possible que le nom « Éphrata » ait été l’ancien nom de Bethléhem (d’où la formulation du verset <a href=\"https://ref.ly/Ruth1:2\">1.2</a> : « Ils étaient Éphratiens, de Bethléhem de Juda ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004011",
+"start_ref_usfm": "RUT 4:11",
+"end_ref": "08004011",
+"end_ref_usfm": "RUT 4:11"
+},
+{
+"start_ref": "08001002",
+"start_ref_usfm": "RUT 1:2",
+"end_ref": "08001002",
+"end_ref_usfm": "RUT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004012-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.12 (#1)",
+"media_type": "Text",
+"index_reference": "08004012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Juda est le patriarche de la tribu de Juda, à laquelle appartient Boaz. Juda est l’ancêtre de Boaz par son fils Perets.  En effet, c’est la postérité de Pérets qui est donnée à la fin du livre dans la généalogie du roi David.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004012",
+"start_ref_usfm": "RUT 4:12",
+"end_ref": "08004012",
+"end_ref_usfm": "RUT 4:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004012-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.12 (#2)",
+"media_type": "Text",
+"index_reference": "08004012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte hébraïque, la bénédiction du peuple et des anciens est formulée de façon poétique.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004012",
+"start_ref_usfm": "RUT 4:12",
+"end_ref": "08004012",
+"end_ref_usfm": "RUT 4:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.14 (#1)",
+"media_type": "Text",
+"index_reference": "08004014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le rédempteur en question ici est Obed, fils de Boaz et de Ruth.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004014",
+"start_ref_usfm": "RUT 4:14",
+"end_ref": "08004014",
+"end_ref_usfm": "RUT 4:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "08004016-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ruth 4.16 (#1)",
+"media_type": "Text",
+"index_reference": "08004016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le sens est que Naomi prend Obed et le met contre elle ; elle le tient dans ses bras et s’occupe de lui.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004016",
+"start_ref_usfm": "RUT 4:16",
+"end_ref": "08004016",
+"end_ref_usfm": "RUT 4:16"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,5132 @@
+[
+{
+"content_id": "56001001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.1 (#1)",
+"media_type": "Text",
+"index_reference": "56001001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « élus » désigne ce ou celui qui a été choisi.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001001",
+"start_ref_usfm": "TIT 1:1",
+"end_ref": "56001001",
+"end_ref_usfm": "TIT 1:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.2 (#1)",
+"media_type": "Text",
+"index_reference": "56001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « espérance » (ἐλπίς, <em>se prononce</em> elpisse, G1680) signifie espoir ou espérance.  En grec comme en français, ce mot peut aussi désigner la chose qui est espérée.  Ce mot apparaît quatre fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:1\">1 Timothée 1.1</a> ; <a href=\"https://ref.ly/Titus1:2\">Tite 1.2</a> ; <a href=\"https://ref.ly/Titus2:13\">2.13</a> ; <a href=\"https://ref.ly/Titus3:7\">3.7</a>.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001002",
+"start_ref_usfm": "TIT 1:2",
+"end_ref": "56001002",
+"end_ref_usfm": "TIT 1:2"
+},
+{
+"start_ref": "54001001",
+"start_ref_usfm": "1TI 1:1",
+"end_ref": "54001001",
+"end_ref_usfm": "1TI 1:1"
+},
+{
+"start_ref": "56002013",
+"start_ref_usfm": "TIT 2:13",
+"end_ref": "56002013",
+"end_ref_usfm": "TIT 2:13"
+},
+{
+"start_ref": "56003007",
+"start_ref_usfm": "TIT 3:7",
+"end_ref": "56003007",
+"end_ref_usfm": "TIT 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001002-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.2 (#2)",
+"media_type": "Text",
+"index_reference": "56001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « promise » signifie promettre, professer (ou faire profession), c’est-à-dire déclarer.  Ce verbe est utilisé trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim2:10\">1 Timothée 2.10</a> (« professent ») ; <a href=\"https://ref.ly/1Tim6:21\">6.21</a> (« professent ») ; <a href=\"https://ref.ly/Titus1:2\">Tite 1.2</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001002",
+"start_ref_usfm": "TIT 1:2",
+"end_ref": "56001002",
+"end_ref_usfm": "TIT 1:2"
+},
+{
+"start_ref": "54002010",
+"start_ref_usfm": "1TI 2:10",
+"end_ref": "54002010",
+"end_ref_usfm": "1TI 2:10"
+},
+{
+"start_ref": "54006021",
+"start_ref_usfm": "1TI 6:21",
+"end_ref": "54006021",
+"end_ref_usfm": "1TI 6:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001002-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.2 (#3)",
+"media_type": "Text",
+"index_reference": "56001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « les plus anciens » désigne une période de temps extrêmement longue allant d’un commencement supposé jusqu’au temps présent.  Selon le contexte, ce mot pourrait également être traduit « de tout temps », « au long des âges/siècles » ou encore « depuis le commencement » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001002",
+"start_ref_usfm": "TIT 1:2",
+"end_ref": "56001002",
+"end_ref_usfm": "TIT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001002-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.2 (#4)",
+"media_type": "Text",
+"index_reference": "56001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « temps » désigne une unité de temps indéterminée (sa portée est établie par le contexte du passage). </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001002",
+"start_ref_usfm": "TIT 1:2",
+"end_ref": "56001002",
+"end_ref_usfm": "TIT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001002-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.2 (#5)",
+"media_type": "Text",
+"index_reference": "56001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « qui ne ment pas » désigne une qualité d’honnêteté et de sincérité indiquant que l’on ne dit pas de mensonge.  Il pourrait également être traduit « véridique » en français.  Ce mot n’apparaît qu’ici dans le Nouveau Testament.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001002",
+"start_ref_usfm": "TIT 1:2",
+"end_ref": "56001002",
+"end_ref_usfm": "TIT 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.3 (#1)",
+"media_type": "Text",
+"index_reference": "56001003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « a révélé » signifie rendre une chose claire et évidente pour la faire connaître (voir Bailly).  Il est utilisé au passif dans le présent verset.  Ce verbe apparaît une fois dans chaque épître pastorale : <a href=\"https://ref.ly/1Tim3:16\">1 Timothée 3.16</a> ; <a href=\"https://ref.ly/2Tim1:10\">2 Timothée 1.10</a> ; <a href=\"https://ref.ly/Titus1:3\">Tite 1.3</a>.  Selon les contextes, il pourrait également être traduit par « faire connaître », « rendre clair », « dévoiler », « montrer clairement » ou « mettre en lumière » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001003",
+"start_ref_usfm": "TIT 1:3",
+"end_ref": "56001003",
+"end_ref_usfm": "TIT 1:3"
+},
+{
+"start_ref": "54003016",
+"start_ref_usfm": "1TI 3:16",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "55001010",
+"start_ref_usfm": "2TI 1:10",
+"end_ref": "55001010",
+"end_ref_usfm": "2TI 1:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001003-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.3 (#2)",
+"media_type": "Text",
+"index_reference": "56001003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grec traduit « prédication » (κήρυγμα, <em>se prononce </em>kérugma, G2782) apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/2Tim4:17\">2 Timothée 4.17</a> ; <a href=\"https://ref.ly/Titus1:3\">Tite 1.3</a>.  À titre d’exemple, c’est le mot qui est utilisé dans <a href=\"https://ref.ly/Matt12:41\">Matthieu 12.41</a> pour parler du <em>message</em> de Jonas à Ninive.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001003",
+"start_ref_usfm": "TIT 1:3",
+"end_ref": "56001003",
+"end_ref_usfm": "TIT 1:3"
+},
+{
+"start_ref": "55004017",
+"start_ref_usfm": "2TI 4:17",
+"end_ref": "55004017",
+"end_ref_usfm": "2TI 4:17"
+},
+{
+"start_ref": "40012041",
+"start_ref_usfm": "MAT 12:41",
+"end_ref": "40012041",
+"end_ref_usfm": "MAT 12:41"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001003-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.3 (#3)",
+"media_type": "Text",
+"index_reference": "56001003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « a été confiée » signifie ici confier une chose aux soins de quelqu’un.  Il pourrait également être traduit « remettre aux soins de » en français.  À titre d’exemple, c’est le mot que Jésus utilise dans <a href=\"https://ref.ly/Luke16:11\">Luc 16.11</a> pour décrire les véritables richesses que l’on peut <em>confier</em> ou non à un serviteur selon qu’il a été fidèle dans les petites choses.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001003",
+"start_ref_usfm": "TIT 1:3",
+"end_ref": "56001003",
+"end_ref_usfm": "TIT 1:3"
+},
+{
+"start_ref": "42016011",
+"start_ref_usfm": "LUK 16:11",
+"end_ref": "42016011",
+"end_ref_usfm": "LUK 16:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001003-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.3 (#4)",
+"media_type": "Text",
+"index_reference": "56001003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « ordre » (ἐπιταγή, <em>se prononce </em>èpitagué, G2003)  désigne ici ce qui a été spécifiquement commandé.  Selon les contextes, ce mot pourrait également être traduit « commandement » ou « instruction » en français. Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:1\">1 Timothée 1.1</a> ; <a href=\"https://ref.ly/Titus1:3\">Tite 1.3</a> ; <a href=\"https://ref.ly/Titus2:15\">2.15</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001003",
+"start_ref_usfm": "TIT 1:3",
+"end_ref": "56001003",
+"end_ref_usfm": "TIT 1:3"
+},
+{
+"start_ref": "54001001",
+"start_ref_usfm": "1TI 1:1",
+"end_ref": "54001001",
+"end_ref_usfm": "1TI 1:1"
+},
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.4 (#1)",
+"media_type": "Text",
+"index_reference": "56001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « véritable » (« légitime » dans la LSG) désigne ce qui provient de naissance légitime, ce qui est vrai, ce qui est authentique, ce qui possède la qualité supposée.  Selon les contextes, ce mot pourrait être traduit « vrai », « réel », « sincère » ou « authentique » en français.  Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:2\">1 Timothée 1.2</a> ; <a href=\"https://ref.ly/Titus1:4\">Tite 1.4</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001004",
+"start_ref_usfm": "TIT 1:4",
+"end_ref": "56001004",
+"end_ref_usfm": "TIT 1:4"
+},
+{
+"start_ref": "54001002",
+"start_ref_usfm": "1TI 1:2",
+"end_ref": "54001002",
+"end_ref_usfm": "1TI 1:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001004-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.4 (#2)",
+"media_type": "Text",
+"index_reference": "56001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 1 à 4 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001004",
+"start_ref_usfm": "TIT 1:4",
+"end_ref": "56001004",
+"end_ref_usfm": "TIT 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.5 (#1)",
+"media_type": "Text",
+"index_reference": "56001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « mettre de l’ordre » signifie ordonner des affaires de la manière correcte.  Il pourrait également être traduit « rectifier », « corriger » ou « régler » en français.  Il n’est utilisé qu’ici dans le Nouveau Testament.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001005",
+"end_ref_usfm": "TIT 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001005-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.5 (#2)",
+"media_type": "Text",
+"index_reference": "56001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « établir » signifie attribuer à quelqu’un une position d’autorité sur d’autres. Selon les contextes, il pourrait également être traduit « donner une charge », « nommer » ou « désigner » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001005",
+"end_ref_usfm": "TIT 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001005-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.5 (#3)",
+"media_type": "Text",
+"index_reference": "56001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « anciens » désigne une personne à qui une charge et une autorité sont confiées dans un contexte social ou religieux.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001005",
+"end_ref_usfm": "TIT 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001005-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.5 (#4)",
+"media_type": "Text",
+"index_reference": "56001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « ai commandé » signifie donner des instructions.  Il pourrait également être traduit « ordonner » ou « donner des instructions » en français.  Ce n’est pas le même mot qui est traduit « ordre » au verset 3.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001005",
+"end_ref_usfm": "TIT 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.6 (#1)",
+"media_type": "Text",
+"index_reference": "56001006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « irréprochable » (ἀνέγκλητος, <em>se prononce </em>anègklétosse, G410) désigne quelqu’un à qui l’on ne peut rien reprocher de mauvais, que l’on ne peut accuser de quelque chose de mauvais, qui est innocent.  Dans certaines langues, ce mot sera mieux rendu par une expression ou même une proposition telle que : « que personne ne puisse accuser » ou « qui ne peut se faire accuser de rien de mal ».  Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:10\">1 Timothée 3.10</a> ; <a href=\"https://ref.ly/Titus1:6\">Tite 1.6</a>, 7.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001006",
+"start_ref_usfm": "TIT 1:6",
+"end_ref": "56001006",
+"end_ref_usfm": "TIT 1:6"
+},
+{
+"start_ref": "54003010",
+"start_ref_usfm": "1TI 3:10",
+"end_ref": "54003010",
+"end_ref_usfm": "1TI 3:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001006-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.6 (#2)",
+"media_type": "Text",
+"index_reference": "56001006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « débauche » désigne le comportement imprudent de quelqu’un qui ne se préoccupe pas des conséquences de ses actes.  Dans certaines langues, ce mot sera traduit par une expression idiomatique telle que « ce que l’on fait quand l’esprit est absent ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001006",
+"start_ref_usfm": "TIT 1:6",
+"end_ref": "56001006",
+"end_ref_usfm": "TIT 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001006-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.6 (#3)",
+"media_type": "Text",
+"index_reference": "56001006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « rebelles » décrit l’insoumission, la désobéissance.  Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:9\">1 Timothée 1.9</a> ; <a href=\"https://ref.ly/Titus1:6\">Tite 1.6</a>, 10.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001006",
+"start_ref_usfm": "TIT 1:6",
+"end_ref": "56001006",
+"end_ref_usfm": "TIT 1:6"
+},
+{
+"start_ref": "54001009",
+"start_ref_usfm": "1TI 1:9",
+"end_ref": "54001009",
+"end_ref_usfm": "1TI 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001006-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.6 (#4)",
+"media_type": "Text",
+"index_reference": "56001006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 5 à 6 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001006",
+"start_ref_usfm": "TIT 1:6",
+"end_ref": "56001006",
+"end_ref_usfm": "TIT 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#1)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001006-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante au verset précédent.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#2)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « intendant » désigne une personne qui a l’autorité et la responsabilité de quelque chose ; dans ce contexte, il s’agit de la maison de Dieu (l’Église).  Ce mot est traduit de diverses façons dans les versions françaises : « évêque » (surtout dans les versions anciennes), « responsable » et « dirigeant » (dans les versions modernes).  Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:2\">1 Timothée 3.2</a> ; <a href=\"https://ref.ly/Titus1:7\">Tite 1.7</a>.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "54003002",
+"start_ref_usfm": "1TI 3:2",
+"end_ref": "54003002",
+"end_ref_usfm": "1TI 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#3)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « arrogant » désigne une personne orgueilleuse, qui se pense meilleure ou au-dessus des autres et qui peut être entêtée.  Dans certaines langues, c’est ainsi que ce mot sera le mieux rendu : « qui se croit tellement meilleur que les autres », « qui regarde toujours les autres de haut » ou « toujours à dire qu’il est le meilleur ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#4)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « colérique » signifie avoir tendance à se mettre en colère.  Il pourrait également être traduit « donné à la colère » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#5)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « attaché au vin » désigne une personne qui a l’habitude de trop boire et peut être souvent ivre.  Si dans votre langue il est nécessaire d’utiliser des noms plutôt que des adjectifs pour rendre la liste de qualifications des versets 7 et 8, vous pourriez par exemple traduire ce mot par l’équivalent de « buveur ». Ce mot apparaît deux fois dans le Nouveau Testament : <a href=\"https://ref.ly/1Tim3:3\">1 Timothée 3.3</a> ; <a href=\"https://ref.ly/Titus1:7\">Tite 1.7</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "54003003",
+"start_ref_usfm": "1TI 3:3",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#6)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « violent » désigne une personne qui frappe les autres ou est agressif.  Plus généralement, ce mot peut désigner une personne exigeante qui s’impose aux autres de façon agressive.  Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:3\">1 Timothée 3.3</a> ; <a href=\"https://ref.ly/Titus1:7\">Tite 1.7</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "54003003",
+"start_ref_usfm": "1TI 3:3",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001007-07",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.7 (#7)",
+"media_type": "Text",
+"index_reference": "56001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « honteusement cupide » désigne une personne qui est honteusement avide ou cupide, qui est bassement attirée par le profit matériel. Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:8\">1 Timothée 3.8</a> ; <a href=\"https://ref.ly/Titus1:7\">Tite 1.7</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003008",
+"end_ref_usfm": "1TI 3:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.8 (#1)",
+"media_type": "Text",
+"index_reference": "56001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « au contraire » marque une opposition forte. Ce mot pourrait être traduit « mais », « au lieu de cela » ou « au contraire » en français.  À titre d’exemple, c’est ce mot qui est utilisé dans <a href=\"https://ref.ly/Luke12:51\">Luc 12.51</a>, quand Jésus dit qu’il est venu apporter non pas la paix, <em>mais</em> la division.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001008",
+"start_ref_usfm": "TIT 1:8",
+"end_ref": "56001008",
+"end_ref_usfm": "TIT 1:8"
+},
+{
+"start_ref": "42012051",
+"start_ref_usfm": "LUK 12:51",
+"end_ref": "42012051",
+"end_ref_usfm": "LUK 12:51"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001008-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.8 (#2)",
+"media_type": "Text",
+"index_reference": "56001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « hospitalier » désigne une personne qui est prête à bien accueillir autrui chez elle. Ce mot est utilisé deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:2\">1 Timothée 3.2</a> ; <a href=\"https://ref.ly/Titus1:8\">Tite 1.8</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001008",
+"start_ref_usfm": "TIT 1:8",
+"end_ref": "56001008",
+"end_ref_usfm": "TIT 1:8"
+},
+{
+"start_ref": "54003002",
+"start_ref_usfm": "1TI 3:2",
+"end_ref": "54003002",
+"end_ref_usfm": "1TI 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001008-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.8 (#3)",
+"media_type": "Text",
+"index_reference": "56001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « ami des gens de bien » décrit une personne qui apprécie et aime ce qui est bon, ce qui est bien.  Ce mot pourrait également être traduit « ami du bien » ici (voir par exemple Segond 21, Traduction officielle liturgique, Nouvelle français courant et d’autres).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001008",
+"start_ref_usfm": "TIT 1:8",
+"end_ref": "56001008",
+"end_ref_usfm": "TIT 1:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001008-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.8 (#4)",
+"media_type": "Text",
+"index_reference": "56001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « raisonnable » désigne une personne dont le comportement est sensé, modéré et raisonnable.  Dans certaines langues, ce terme pourrait être rendu par une expression telle que : « avoir des pensées justes sur ce que l’on doit faire » ou « laisser son esprit guider son corps ».  Ce mot apparaît quatre fois dans le Nouveau Testament, seulement dans les épîtres pastorales : 3 fois dans Tite : <a href=\"https://ref.ly/Titus1:8\">1.8</a> ; <a href=\"https://ref.ly/Titus2:2\">2.2</a> et <a href=\"https://ref.ly/Titus2:5\">2.5</a>.  Ce mot est aussi utilisé dans <a href=\"https://ref.ly/1Tim3:2\">1 Timothée 3.2</a> pour décrire les qualifications du dirigeant d’Église.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001008",
+"start_ref_usfm": "TIT 1:8",
+"end_ref": "56001008",
+"end_ref_usfm": "TIT 1:8"
+},
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+},
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+},
+{
+"start_ref": "54003002",
+"start_ref_usfm": "1TI 3:2",
+"end_ref": "54003002",
+"end_ref_usfm": "1TI 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001008-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.8 (#5)",
+"media_type": "Text",
+"index_reference": "56001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « saint » désigne ce qui est pieux et agréable à Dieu.  Dans certains contextes, ce mot pourrait également être traduit « pur » en français. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001008",
+"start_ref_usfm": "TIT 1:8",
+"end_ref": "56001008",
+"end_ref_usfm": "TIT 1:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001008-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.8 (#6)",
+"media_type": "Text",
+"index_reference": "56001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « maître de soi » décrit une personne qui se contrôle elle-même, qui sait se contenir elle-même.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001008",
+"start_ref_usfm": "TIT 1:8",
+"end_ref": "56001008",
+"end_ref_usfm": "TIT 1:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.9 (#1)",
+"media_type": "Text",
+"index_reference": "56001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « attaché » signifie tenir fermement à quelque chose.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001009-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.9 (#2)",
+"media_type": "Text",
+"index_reference": "56001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Voir note de vocabulaire intitulée « enseigner / enseignant / enseignement / instruction / doctrine). L’ancien doit s’attacher à la parole de foi telle qu’elle a été enseignée ; il ne doit pas en adopter une forme changée ou la changer lui-même.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001009-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.9 (#3)",
+"media_type": "Text",
+"index_reference": "56001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’expression traduite « saine doctrine » apparaît quatre fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:10\">1 Timothée 1.10</a> ; <a href=\"https://ref.ly/2Tim4:3\">2 Timothée 4.3</a> ; <a href=\"https://ref.ly/Titus1:9\">Tite 1.9</a> ; <a href=\"https://ref.ly/Titus2:1\">2.1</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "54001010",
+"start_ref_usfm": "1TI 1:10",
+"end_ref": "54001010",
+"end_ref_usfm": "1TI 1:10"
+},
+{
+"start_ref": "55004003",
+"start_ref_usfm": "2TI 4:3",
+"end_ref": "55004003",
+"end_ref_usfm": "2TI 4:3"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001009-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.9 (#4)",
+"media_type": "Text",
+"index_reference": "56001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « opposer » signifie déclarer que quelqu’un a mal agi (l’idée étant que cela peut être démontré).  Ce mot pourrait également être traduit « réfuter », « reprocher » ou « corriger » en français.  Ce mot apparaît cinq fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim5:20\">1 Timothée 5.20</a> ; <a href=\"https://ref.ly/2Tim4:2\">2 Timothée 4.2</a> ; <a href=\"https://ref.ly/Titus1:9\">Tite 1.9</a>, <a href=\"https://ref.ly/Titus1:13\">1.13</a> ; <a href=\"https://ref.ly/Titus2:15\">2.15</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "54005020",
+"start_ref_usfm": "1TI 5:20",
+"end_ref": "54005020",
+"end_ref_usfm": "1TI 5:20"
+},
+{
+"start_ref": "55004002",
+"start_ref_usfm": "2TI 4:2",
+"end_ref": "55004002",
+"end_ref_usfm": "2TI 4:2"
+},
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001013",
+"end_ref_usfm": "TIT 1:13"
+},
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001009-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.9 (#5)",
+"media_type": "Text",
+"index_reference": "56001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « contradicteurs » signifie exprimer une opposition contre quelqu’un ou quelque chose.  Ce mot pourrait également être traduit « s’opposer » en français.  À titre d’exemple, c’est le mot qui apparaît dans les passages suivants : </p>\n      <ul>\n      <li>De l’effet du Seigneur Jésus, qui provoquera la <em>contradiction</em> en Israël (<a href=\"https://ref.ly/Luke2:34\">Luc 2.34</a>).</li>\n      <li>De l’encouragement de Jésus aux disciples que leurs adversaires ne seront pas capables de les <em>contredire</em> (<a href=\"https://ref.ly/Luke21:15\">Luc 21.15</a>).</li>\n      <li>Les Juifs qui <em>s’opposent</em> à ce que dit Paul dans <a href=\"https://ref.ly/Acts13:45\">Actes 13.45</a>.</li>\n      <li>Des chefs des Juifs de Rome, qui disent à Paul qu’ils savent qu’il a rencontré beaucoup d’<em>opposition</em> partout où il va (<a href=\"https://ref.ly/Acts28:22\">Actes 28.22</a>). </li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "42002034",
+"start_ref_usfm": "LUK 2:34",
+"end_ref": "42002034",
+"end_ref_usfm": "LUK 2:34"
+},
+{
+"start_ref": "42021015",
+"start_ref_usfm": "LUK 21:15",
+"end_ref": "42021015",
+"end_ref_usfm": "LUK 21:15"
+},
+{
+"start_ref": "44013045",
+"start_ref_usfm": "ACT 13:45",
+"end_ref": "44013045",
+"end_ref_usfm": "ACT 13:45"
+},
+{
+"start_ref": "44028022",
+"start_ref_usfm": "ACT 28:22",
+"end_ref": "44028022",
+"end_ref_usfm": "ACT 28:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001009-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.9 (#6)",
+"media_type": "Text",
+"index_reference": "56001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La phrase grecque originale commence au début du verset 7 (« Car il faut… ») et finit à la fin du v. 9. Ainsi, toutes les qualifications des versets 7 à 9 sont essentielles pour que l’ancien puisse exhorter selon la saine doctrine et opposer les contradicteurs, pas seulement son attachement à la vraie parole telle qu’elle a été enseignée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.10 (#1)",
+"media_type": "Text",
+"index_reference": "56001010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « circoncis » désigne les hommes qui sont passés par le rite de la circoncision.  Un garçon ou un homme est circoncis lorsque le bout de peau qui recouvre son pénis a été coupé.  Pour les Juifs, le rite de la circoncision n’est pas un signe de maturité sexuelle ; c’est un signe de nature religieuse qui reflète leur alliance avec Dieu.  Selon la loi de Moïse, un garçon devait être circoncis le huitième jour après sa naissance.  Ici, le terme « circoncis » désigne des Juifs, probablement chrétiens.</p>\n      <p>Dans les cultures où la circoncision n’est pas pratiquée ou n’est pas très connue, il est possible qu’un terme qui la décrit soit offensant ou vulgaire.  Si c’est le cas, il peut être préférable d’utiliser un mot d’emprunt ou d’employer un terme qui n’est pas très explicite (comme par exemple « couper autour » ou « coupure ») et d’en expliquer la signification spécifique dans les écrits bibliques dans un glossaire ou une note de bas de page. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001010",
+"end_ref_usfm": "TIT 1:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001010-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.10 (#2)",
+"media_type": "Text",
+"index_reference": "56001010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « rebelles » est le même qu’au verset 6.  Il désigne ceux qui refusent de se soumettre.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001010",
+"end_ref_usfm": "TIT 1:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001010-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.10 (#3)",
+"media_type": "Text",
+"index_reference": "56001010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « font de vains discours » désigne une personne dont la conversation est vide, insensée et inutile.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001010",
+"end_ref_usfm": "TIT 1:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001010-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.10 (#4)",
+"media_type": "Text",
+"index_reference": "56001010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « trompent » signifie égarer les gens, les éloigner de la vérité.  Il est souvent traduit « séducteurs » (dans le sens de « trompeurs ») dans la LSG et d’autres versions françaises.  Dans certaines langues, ce terme sera rendu par une proposition telle que « ceux qui conduisent sur le mauvais chemin » ou « ceux qui disent que le mal est bien ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001010",
+"end_ref_usfm": "TIT 1:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.11 (#1)",
+"media_type": "Text",
+"index_reference": "56001011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « fermer la bouche » signifie au sens propre museler, mettre un mors à la bouche d’un animal comme un cheval (voir Bailly).  Au sens figuré, il signifie réduire au silence ou empêcher quelqu’un de parler.  Il est entendu qu’il s’agit de les empêcher de parler concernant les choses au sujet desquelles ils égarent les gens et non pas les empêcher de parler en tout temps.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001011",
+"start_ref_usfm": "TIT 1:11",
+"end_ref": "56001011",
+"end_ref_usfm": "TIT 1:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001011-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.11 (#2)",
+"media_type": "Text",
+"index_reference": "56001011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « bouleversent » signifie retourner ou tourner sens dessus dessous.  Au sens figuré, il signifie bouleverser, détruire.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001011",
+"start_ref_usfm": "TIT 1:11",
+"end_ref": "56001011",
+"end_ref_usfm": "TIT 1:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001011-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.11 (#3)",
+"media_type": "Text",
+"index_reference": "56001011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « gain » décrit ce qui est gagné ou obtenu.  Ce peut être un gain financier, mais pas forcément ; il peut aussi s’agir d’un autre genre de profit.  À titre d’exemple, c’est ce mot que Paul utilise dans <a href=\"https://ref.ly/Phil1:21\">Philippiens 1.21</a> pour décrire ce que la mort représente pour lui.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001011",
+"start_ref_usfm": "TIT 1:11",
+"end_ref": "56001011",
+"end_ref_usfm": "TIT 1:11"
+},
+{
+"start_ref": "50001021",
+"start_ref_usfm": "PHP 1:21",
+"end_ref": "50001021",
+"end_ref_usfm": "PHP 1:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001011-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.11 (#4)",
+"media_type": "Text",
+"index_reference": "56001011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « honteux » désigne ce qui est indigne, déshonorant.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001011",
+"start_ref_usfm": "TIT 1:11",
+"end_ref": "56001011",
+"end_ref_usfm": "TIT 1:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001011-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.11 (#5)",
+"media_type": "Text",
+"index_reference": "56001011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 10 et 11 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001011",
+"start_ref_usfm": "TIT 1:11",
+"end_ref": "56001011",
+"end_ref_usfm": "TIT 1:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001012-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.12 (#1)",
+"media_type": "Text",
+"index_reference": "56001012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « prophètes » désigne en général des personnes qui parlent pour Dieu (parfois pour prédire l’avenir).  Ici, ce mot ne désigne pas des prophètes crétois à proprement parler, mais probablement des poètes ou philosophes crétois connus à l’époque de Paul. Il est possible que Paul signifie que celui-ci était « prophète » dans le sens où il a correctement décrit le caractère des Crétois de cette époque.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001012",
+"start_ref_usfm": "TIT 1:12",
+"end_ref": "56001012",
+"end_ref_usfm": "TIT 1:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001012-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.12 (#2)",
+"media_type": "Text",
+"index_reference": "56001012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « Crétois » désignent les habitants de l’île de Crète, où se trouve l’Église dans laquelle Tite exerce son ministère.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001012",
+"start_ref_usfm": "TIT 1:12",
+"end_ref": "56001012",
+"end_ref_usfm": "TIT 1:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001012-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.12 (#3)",
+"media_type": "Text",
+"index_reference": "56001012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ce mot apparaît également dans <a href=\"https://ref.ly/1Tim5:13\">1 Timothée 5.13</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001012",
+"start_ref_usfm": "TIT 1:12",
+"end_ref": "56001012",
+"end_ref_usfm": "TIT 1:12"
+},
+{
+"start_ref": "54005013",
+"start_ref_usfm": "1TI 5:13",
+"end_ref": "54005013",
+"end_ref_usfm": "1TI 5:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.13 (#1)",
+"media_type": "Text",
+"index_reference": "56001013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « témoignage » désigne ce qui est dit, ce qui est attesté à propos d’une chose ou d’une personne.  Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:7\">1 Timothée 3.7</a> ; <a href=\"https://ref.ly/Titus1:13\">Tite 1.13</a>.  À titre d’exemple, ce mot est également utilisé dans les passages suivants :</p>\n      <ul>\n      <li>Des <em>témoignages</em> contre Jésus dans <a href=\"https://ref.ly/Mark14:55\">Marc 14.55</a>, <a href=\"https://ref.ly/Mark14:56\">56</a>, <a href=\"https://ref.ly/Mark14:59\">59</a> ; <a href=\"https://ref.ly/Luke22:71\">Luc 22.71</a>.</li>\n      <li>Du <em>témoignage</em> de Jean le Baptiste dans <a href=\"https://ref.ly/John1:7\">Jean 1.7</a>, 19.</li>\n      <li>Du <em>témoignage</em> de Jésus dans <a href=\"https://ref.ly/John3:11\">Jean 3.11</a>, 32.</li>\n      <li>Du <em>témoignage </em>de Dieu <a href=\"https://ref.ly/John5:36\">5.36</a>.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001013",
+"end_ref_usfm": "TIT 1:13"
+},
+{
+"start_ref": "54003007",
+"start_ref_usfm": "1TI 3:7",
+"end_ref": "54003007",
+"end_ref_usfm": "1TI 3:7"
+},
+{
+"start_ref": "41014055",
+"start_ref_usfm": "MRK 14:55",
+"end_ref": "41014055",
+"end_ref_usfm": "MRK 14:55"
+},
+{
+"start_ref": "41014056",
+"start_ref_usfm": "MRK 14:56",
+"end_ref": "41014056",
+"end_ref_usfm": "MRK 14:56"
+},
+{
+"start_ref": "41014059",
+"start_ref_usfm": "MRK 14:59",
+"end_ref": "41014059",
+"end_ref_usfm": "MRK 14:59"
+},
+{
+"start_ref": "42022071",
+"start_ref_usfm": "LUK 22:71",
+"end_ref": "42022071",
+"end_ref_usfm": "LUK 22:71"
+},
+{
+"start_ref": "43001007",
+"start_ref_usfm": "JHN 1:7",
+"end_ref": "43001007",
+"end_ref_usfm": "JHN 1:7"
+},
+{
+"start_ref": "43003011",
+"start_ref_usfm": "JHN 3:11",
+"end_ref": "43003011",
+"end_ref_usfm": "JHN 3:11"
+},
+{
+"start_ref": "43005036",
+"start_ref_usfm": "JHN 5:36",
+"end_ref": "43005036",
+"end_ref_usfm": "JHN 5:36"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001013-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.13 (#2)",
+"media_type": "Text",
+"index_reference": "56001013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001009-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.9.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001013",
+"end_ref_usfm": "TIT 1:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001013-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.13 (#3)",
+"media_type": "Text",
+"index_reference": "56001013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « sévèrement » signifie avec beaucoup de fermeté et de sérieux, durement.  Dans certaines langues, ce concept est mieux rendu par une expression telle que « refuser de faire preuve de bonté » ou une expression idiomatique telle que « refuser de regarder » ou « froncer les sourcils ».  Ce que Paul commande à Tite de faire envers ces personnes, c’est de les corriger non pas de façon douce et discrète, mais d’une façon tranchante (voir Bailly) qui correspond à la gravité de leur péché. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001013",
+"end_ref_usfm": "TIT 1:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001013-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.13 (#4)",
+"media_type": "Text",
+"index_reference": "56001013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en grec : « qu’ils soient sains dans la foi ».   </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001013",
+"end_ref_usfm": "TIT 1:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.14 (#1)",
+"media_type": "Text",
+"index_reference": "56001014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « s’attachent » signifie (προσέχω, <em>se prononce</em> prossèkho, G4337) peut signifier s’appliquer à quelque chose, s’en occuper ou se donner ou se livrer à quelque chose.  Il apparaît cinq fois dans les épîtres pastorales : <a href=\"https://ref.ly/Titus1:4\">1.4</a> ; <a href=\"https://ref.ly/Titus3:8\">3.8</a> ; <a href=\"https://ref.ly/Titus4:1\">4.1</a>, <a href=\"https://ref.ly/Titus4:13\">13</a> ; <a href=\"https://ref.ly/Titus1:14\">Tite 1.14</a>.  Noter qu’il ne s’agit pas du même mot que celui qui est traduit « attaché » au verset 9.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001014",
+"start_ref_usfm": "TIT 1:14",
+"end_ref": "56001014",
+"end_ref_usfm": "TIT 1:14"
+},
+{
+"start_ref": "56001004",
+"start_ref_usfm": "TIT 1:4",
+"end_ref": "56001004",
+"end_ref_usfm": "TIT 1:4"
+},
+{
+"start_ref": "56003008",
+"start_ref_usfm": "TIT 3:8",
+"end_ref": "56003008",
+"end_ref_usfm": "TIT 3:8"
+},
+{
+"start_ref": "56004001",
+"start_ref_usfm": "TIT 4:1",
+"end_ref": "56004001",
+"end_ref_usfm": "TIT 4:1"
+},
+{
+"start_ref": "56004013",
+"start_ref_usfm": "TIT 4:13",
+"end_ref": "56004013",
+"end_ref_usfm": "TIT 4:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001014-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.14 (#2)",
+"media_type": "Text",
+"index_reference": "56001014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « fables » désigne des histoires ou récits qui ne sont pas crédibles et qui habituellement ne sont pas fondés sur des faits (il peut s’agir de légendes, de contes, de mythes).  Dans le Nouveau Testament, la perspective sur les « fables » est toujours négative.  Ce mot apparaît quatre fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:4\">1 Timothée 1.4</a> ; <a href=\"https://ref.ly/1Tim4:7\">4.7</a> ; <a href=\"https://ref.ly/2Tim4:4\">2 Timothée 4.4</a> ; <a href=\"https://ref.ly/Titus1:14\">Tite 1.14</a>.   </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001014",
+"start_ref_usfm": "TIT 1:14",
+"end_ref": "56001014",
+"end_ref_usfm": "TIT 1:14"
+},
+{
+"start_ref": "54001004",
+"start_ref_usfm": "1TI 1:4",
+"end_ref": "54001004",
+"end_ref_usfm": "1TI 1:4"
+},
+{
+"start_ref": "54004007",
+"start_ref_usfm": "1TI 4:7",
+"end_ref": "54004007",
+"end_ref_usfm": "1TI 4:7"
+},
+{
+"start_ref": "55004004",
+"start_ref_usfm": "2TI 4:4",
+"end_ref": "55004004",
+"end_ref_usfm": "2TI 4:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001014-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.14 (#3)",
+"media_type": "Text",
+"index_reference": "56001014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « détournent » signifie abandonner, se détourner de quelqu’un ou de quelque chose.<em>  </em>Ce mot est utilisé trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/2Tim1:15\">2 Timothée 1.15</a> ; <a href=\"https://ref.ly/2Tim4:4\">4.4</a> ; <a href=\"https://ref.ly/Titus1:14\">Tite 1.14</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001014",
+"start_ref_usfm": "TIT 1:14",
+"end_ref": "56001014",
+"end_ref_usfm": "TIT 1:14"
+},
+{
+"start_ref": "55001015",
+"start_ref_usfm": "2TI 1:15",
+"end_ref": "55001015",
+"end_ref_usfm": "2TI 1:15"
+},
+{
+"start_ref": "55004004",
+"start_ref_usfm": "2TI 4:4",
+"end_ref": "55004004",
+"end_ref_usfm": "2TI 4:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001015-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.15 (#1)",
+"media_type": "Text",
+"index_reference": "56001015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « pur » (καθαρός, <em>se prononce </em>katharosse, G2513) désigne ce qui est pur.  Il peut être utilisé au sens propre (c’est-à-dire <em>propre, sans mélange</em>, comme un vêtement peut être propre) ou au sens figuré (c’est-à-dire dans un sens rituel ou théologique).  Il apparaît sept fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:5\">1 Timothée 1.5</a> ; <a href=\"https://ref.ly/1Tim3:9\">3.9</a> ; <a href=\"https://ref.ly/2Tim1:3\">2 Timothée 1.3</a> ; <a href=\"https://ref.ly/2Tim2:22\">2.22</a> ; <a href=\"https://ref.ly/Titus1:15\">Tite 1.15</a> (3x).  Dans certaines langues, il pourrait être préférable d’utiliser une description : « pur aux yeux de Dieu », « juste aux yeux de Dieu », « acceptable à Dieu », « bon aux yeux de Dieu » ou « bon selon ce que Dieu pense ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001015",
+"end_ref_usfm": "TIT 1:15"
+},
+{
+"start_ref": "54001005",
+"start_ref_usfm": "1TI 1:5",
+"end_ref": "54001005",
+"end_ref_usfm": "1TI 1:5"
+},
+{
+"start_ref": "54003009",
+"start_ref_usfm": "1TI 3:9",
+"end_ref": "54003009",
+"end_ref_usfm": "1TI 3:9"
+},
+{
+"start_ref": "55001003",
+"start_ref_usfm": "2TI 1:3",
+"end_ref": "55001003",
+"end_ref_usfm": "2TI 1:3"
+},
+{
+"start_ref": "55002022",
+"start_ref_usfm": "2TI 2:22",
+"end_ref": "55002022",
+"end_ref_usfm": "2TI 2:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001015-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.15 (#2)",
+"media_type": "Text",
+"index_reference": "56001015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « Souillé » signifie « impur » ; c’est le contraire de « pur ».  Le mot grec traduit « souillés » signifie être moralement contaminé ou souillé.  Il pourrait également être traduit « rendus moralement impur ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001015",
+"end_ref_usfm": "TIT 1:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001015-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.15 (#3)",
+"media_type": "Text",
+"index_reference": "56001015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grec traduit « intelligence » désigne la faculté humaine de comprendre, de raisonner, de réfléchir et de prendre des décisions.  Il peut être traduit de diverses manières en français, comme : « pensée(s) », « esprit », « intelligence », « entendement », « raison » ou même « bon sens ».  Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim6:5\">1 Timothée 6.5</a> ; <a href=\"https://ref.ly/2Tim3:8\">2 Timothée 3.8</a> ; <a href=\"https://ref.ly/Titus1:15\">Tite 1.15</a>.</p>\n      <p>Selon les langues, un verbe (penser, raisonner, comprendre) devra être utilisé plutôt qu’un nom commun tel qu’« intelligence ».  Dans d’autres langues, une expression comprenant le mot « tête », « foie », « cœur » (ou une autre partie du corps) représentera mieux la faculté de pensée. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001015",
+"end_ref_usfm": "TIT 1:15"
+},
+{
+"start_ref": "54006005",
+"start_ref_usfm": "1TI 6:5",
+"end_ref": "54006005",
+"end_ref_usfm": "1TI 6:5"
+},
+{
+"start_ref": "55003008",
+"start_ref_usfm": "2TI 3:8",
+"end_ref": "55003008",
+"end_ref_usfm": "2TI 3:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001015-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.15 (#4)",
+"media_type": "Text",
+"index_reference": "56001015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « conscience » désigne la faculté qui permet de distinguer le bien du mal.  Ce mot apparaît six fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:5\">1 Timothée 1.5</a>, <a href=\"https://ref.ly/1Tim1:19\">19</a> ; <a href=\"https://ref.ly/1Tim3:9\">3.9</a> ; <a href=\"https://ref.ly/1Tim4:2\">4.2</a> ; <a href=\"https://ref.ly/2Tim1:3\">2 Timothée 1.3</a> ; <a href=\"https://ref.ly/Titus1:15\">Tite 1.15</a>.  Dans certaines langues, il sera question de « voix intérieure » ou de « capacité à faire la différence entre le bien et le mal ».  Cette faculté est parfois associée à un organe tel que le cœur ou le foie. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001015",
+"end_ref_usfm": "TIT 1:15"
+},
+{
+"start_ref": "54001005",
+"start_ref_usfm": "1TI 1:5",
+"end_ref": "54001005",
+"end_ref_usfm": "1TI 1:5"
+},
+{
+"start_ref": "54001019",
+"start_ref_usfm": "1TI 1:19",
+"end_ref": "54001019",
+"end_ref_usfm": "1TI 1:19"
+},
+{
+"start_ref": "54003009",
+"start_ref_usfm": "1TI 3:9",
+"end_ref": "54003009",
+"end_ref_usfm": "1TI 3:9"
+},
+{
+"start_ref": "54004002",
+"start_ref_usfm": "1TI 4:2",
+"end_ref": "54004002",
+"end_ref_usfm": "1TI 4:2"
+},
+{
+"start_ref": "55001003",
+"start_ref_usfm": "2TI 1:3",
+"end_ref": "55001003",
+"end_ref_usfm": "2TI 1:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001016-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.16 (#1)",
+"media_type": "Text",
+"index_reference": "56001016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « affirment » signifie montrer ouvertement sa loyauté envers quelque chose ou quelqu’un.  Ce mot est souvent traduit « confesser » en français.  Cependant, il ne signifie pas avouer qu’on a fait quelque chose de mal.  Il est utilisé dans son sens religieux qui correspond à « proclamer publiquement » ; ce qui est proclamé est ce que l’on croit et non pas un péché.  Ici, ceux qui « confessent » confessent le fait de connaître Dieu, c’est-à-dire qu’ils affirment qu’ils le connaissent.  Ce mot est également utilisé dans <a href=\"https://ref.ly/1Tim6:12\">1 Timothée 6.12</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001016",
+"start_ref_usfm": "TIT 1:16",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "54006012",
+"start_ref_usfm": "1TI 6:12",
+"end_ref": "54006012",
+"end_ref_usfm": "1TI 6:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001016-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.16 (#2)",
+"media_type": "Text",
+"index_reference": "56001016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « abominables » décrit une chose répugnante, qui devrait être détestée.  Dans certaines langues, ce qui est « abominable » ou « détestable » est mieux rendu par « ce qui est considéré comme extrêmement mauvais » ou une autre expression telle que « ce qui ne devrait même pas être vu ». </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001016",
+"start_ref_usfm": "TIT 1:16",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001016-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.16 (#3)",
+"media_type": "Text",
+"index_reference": "56001016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « désobéissants » décrit le fait d’être désobéissant, de refuser de se soumettre.  Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/2Tim3:2\">2 Timothée 3.2</a> ; <a href=\"https://ref.ly/Titus1:16\">Tite 1.16</a> ; <a href=\"https://ref.ly/Titus3:3\">3.3</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001016",
+"start_ref_usfm": "TIT 1:16",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "55003002",
+"start_ref_usfm": "2TI 3:2",
+"end_ref": "55003002",
+"end_ref_usfm": "2TI 3:2"
+},
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56001016-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 1.16 (#4)",
+"media_type": "Text",
+"index_reference": "56001016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « incapables » décrit ce qui se montre être sans valeur, ce qui n’a pas été retenu après avoir été éprouvé.  Selon les contextes, ce mot pourrait également être rendu « rejeté », « disqualifié », « désapprouvé ».  Ici, il s’agit de l’incapacité de ces personnes à produire de bonnes œuvres.  À titre d’exemple, c’est le mot qui est utilisé dans les passages suivants :</p>\n      <ul>\n      <li><a href=\"https://ref.ly/Heb6:8\">Hébreux 6.8</a> pour décrire une terre qui produit épines et chardons après avoir été abreuvée par la pluie : elle est alors <em>réprouvée</em> ou <em>rejetée</em> en tant que terre.</li>\n      <li><a href=\"https://ref.ly/1Cor9:27\">1 Corinthiens 9.27</a>, où l’apôtre Paul parle de la discipline de vie spirituelle qu’il s’impose pour ne pas être lui-même <em>rejeté</em> après avoir prêché aux autres.</li>\n      </ul>\n      <p>Ce mot est le contraire de celui qui est traduit « éprouvé » dans <a href=\"https://ref.ly/2Tim2:15\">2 Timothée 2.15</a>, où Paul dit à Timothée de s’efforcer de se présenter devant Dieu comme un homme éprouvé (c’est-à-dire qui a fait ses preuves, qui a été considéré digne ou bon après avoir été éprouvé).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56001016",
+"start_ref_usfm": "TIT 1:16",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "58006008",
+"start_ref_usfm": "HEB 6:8",
+"end_ref": "58006008",
+"end_ref_usfm": "HEB 6:8"
+},
+{
+"start_ref": "46009027",
+"start_ref_usfm": "1CO 9:27",
+"end_ref": "46009027",
+"end_ref_usfm": "1CO 9:27"
+},
+{
+"start_ref": "55002015",
+"start_ref_usfm": "2TI 2:15",
+"end_ref": "55002015",
+"end_ref_usfm": "2TI 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.1 (#1)",
+"media_type": "Text",
+"index_reference": "56002001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « dis » (λαλέω, <em>se prononce </em>lalèo, G2980) est un terme général qui signifie « dire » (prononcer des sons ou des mots, voir <a href=\"https://ref.ly/Luke1:22\">Luc 1.22</a>), mais qui peut aussi décrire la prédication (voir <a href=\"https://ref.ly/1Cor2:6\">1 Corinthiens 2.6</a>).  Selon les contextes, il pourrait être traduit par « avoir une conversation » ou « parler ».  À titre d’exemple, c’est le mot qui apparaît dans les passages suivants :</p>\n      <ul>\n      <li>De l’instruction de Paul que chacun <em>parle</em> selon la vérité à son prochain (<a href=\"https://ref.ly/Eph4:25\">Ep 4.25</a>).</li>\n      <li>Des tout premiers chrétiens qui <em>parlent</em> en langues (voir <a href=\"https://ref.ly/Acts2:4\">Ac 2.4</a>, <a href=\"https://ref.ly/Acts2:6\">6</a>, <a href=\"https://ref.ly/Acts2:7\">7</a>, <a href=\"https://ref.ly/Acts2:11\">11</a>).</li>\n      <li>De ce que Jésus <em>dit</em> ouvertement aux apôtres à propos de sa mort (<a href=\"https://ref.ly/Mark8:28\">Mc 8.28</a>).</li>\n      <li>Des Juifs de Rome qui rassurent Paul qu’aucun frère juif ne leur a rapporté ou <em>dit</em> du mal de lui (<a href=\"https://ref.ly/Acts28:11\">Ac 28.11</a>).</li>\n      </ul>\n      <p>Ce mot est également utilisé dans <a href=\"https://ref.ly/Titus2:15\">2.15</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+},
+{
+"start_ref": "42001022",
+"start_ref_usfm": "LUK 1:22",
+"end_ref": "42001022",
+"end_ref_usfm": "LUK 1:22"
+},
+{
+"start_ref": "46002006",
+"start_ref_usfm": "1CO 2:6",
+"end_ref": "46002006",
+"end_ref_usfm": "1CO 2:6"
+},
+{
+"start_ref": "49004025",
+"start_ref_usfm": "EPH 4:25",
+"end_ref": "49004025",
+"end_ref_usfm": "EPH 4:25"
+},
+{
+"start_ref": "44002004",
+"start_ref_usfm": "ACT 2:4",
+"end_ref": "44002004",
+"end_ref_usfm": "ACT 2:4"
+},
+{
+"start_ref": "44002006",
+"start_ref_usfm": "ACT 2:6",
+"end_ref": "44002006",
+"end_ref_usfm": "ACT 2:6"
+},
+{
+"start_ref": "44002007",
+"start_ref_usfm": "ACT 2:7",
+"end_ref": "44002007",
+"end_ref_usfm": "ACT 2:7"
+},
+{
+"start_ref": "44002011",
+"start_ref_usfm": "ACT 2:11",
+"end_ref": "44002011",
+"end_ref_usfm": "ACT 2:11"
+},
+{
+"start_ref": "41008028",
+"start_ref_usfm": "MRK 8:28",
+"end_ref": "41008028",
+"end_ref_usfm": "MRK 8:28"
+},
+{
+"start_ref": "44028011",
+"start_ref_usfm": "ACT 28:11",
+"end_ref": "44028011",
+"end_ref_usfm": "ACT 28:11"
+},
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002001-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.1 (#2)",
+"media_type": "Text",
+"index_reference": "56002001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « qui sont en accord » signifie convenir, être approprié ou légitime.  À titre d’exemple, c’est le mot qui apparaît dans <a href=\"https://ref.ly/Matt3:15\">Matthieu 3.15</a>, lorsque Jésus dit à Jean le Baptiste, qui refuse de le baptiser, qu’il est <em>convenable</em> d’accomplir ce qui est juste.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+},
+{
+"start_ref": "40003015",
+"start_ref_usfm": "MAT 3:15",
+"end_ref": "40003015",
+"end_ref_usfm": "MAT 3:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002001-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.1 (#3)",
+"media_type": "Text",
+"index_reference": "56002001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’expression traduite « saine doctrine » apparaît quatre fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:10\">1 Timothée 1.10</a> ; <a href=\"https://ref.ly/2Tim4:3\">2 Timothée 4.3</a> ; <a href=\"https://ref.ly/Titus1:9\">Tite 1.9</a> ; <a href=\"https://ref.ly/Titus2:1\">2.1</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+},
+{
+"start_ref": "54001010",
+"start_ref_usfm": "1TI 1:10",
+"end_ref": "54001010",
+"end_ref_usfm": "1TI 1:10"
+},
+{
+"start_ref": "55004003",
+"start_ref_usfm": "2TI 4:3",
+"end_ref": "55004003",
+"end_ref_usfm": "2TI 4:3"
+},
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.2 (#1)",
+"media_type": "Text",
+"index_reference": "56002002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « hommes âgés » désigne un homme d’un âge avancé.  À titre d’exemple, c’est le mot que Zacharie utilise pour se décrire lui-même dans <a href=\"https://ref.ly/Luke1:18\">Luc 1.18</a> quand il répond à l’ange Gabriel qu’il doute pouvoir avoir un enfant étant donné son <em>âge</em>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+},
+{
+"start_ref": "42001018",
+"start_ref_usfm": "LUK 1:18",
+"end_ref": "42001018",
+"end_ref_usfm": "LUK 1:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002002-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.2 (#2)",
+"media_type": "Text",
+"index_reference": "56002002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « sobres » décrit au sens propre le fait de s’abstenir ou de se modérer dans la consommation de vin (c’est-à-dire « être sobre »).  Par extension, au sens figuré, il décrit le fait de se comporter de manière restreinte, c’est-à-dire de se contrôler soi-même.  Ce mot pourrait également être traduit « maître de lui-même ».  Il apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:2\">1 Timothée 3.2</a>, <a href=\"https://ref.ly/1Tim3:11\">11</a> ; <a href=\"https://ref.ly/Titus2:2\">Tite 2.2</a>. </p>\n      <p>Noter que le mot français « sobre » peut lui aussi avoir les mêmes sens que le mot grec (c’est-à-dire le sens propre et le sens figuré).  Dans les langues où ce n’est pas le cas, il sera peut-être nécessaire de traduire autrement (par exemple « se maîtrisant lui-même » comme dans le texte biblique de référence Aquifer).  Dans d’autres langues encore, ce mot sera mieux traduit par une expression idiomatique telle que « celui qui se retient » ou « celui qui a toujours un lien à son cou ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+},
+{
+"start_ref": "54003002",
+"start_ref_usfm": "1TI 3:2",
+"end_ref": "54003002",
+"end_ref_usfm": "1TI 3:2"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002002-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.2 (#3)",
+"media_type": "Text",
+"index_reference": "56002002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « dignes » qualifie un comportement ou un caractère respectable et honorable. Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:8\">1 Timothée 3.8</a>, <a href=\"https://ref.ly/1Tim3:11\">11</a> ; <a href=\"https://ref.ly/Titus2:2\">Tite 2.2</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003008",
+"end_ref_usfm": "1TI 3:8"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002002-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.2 (#4)",
+"media_type": "Text",
+"index_reference": "56002002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001008-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.8.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002002-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.2 (#5)",
+"media_type": "Text",
+"index_reference": "56002002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « patience » désigne la capacité à continuer à supporter des circonstances difficiles.  Il pourrait également être traduit « persévérance » en français.  Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim6:11\">1 Timothée 6.11</a> ; <a href=\"https://ref.ly/2Tim3:10\">2 Timothée 3.10</a> (« persévérance ») ; <a href=\"https://ref.ly/Titus2:2\">Tite 2.2</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006011",
+"end_ref_usfm": "1TI 6:11"
+},
+{
+"start_ref": "55003010",
+"start_ref_usfm": "2TI 3:10",
+"end_ref": "55003010",
+"end_ref_usfm": "2TI 3:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#1)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « femmes âgées » est l’équivalent féminin du mot qui désigne des hommes d’un âge avancé.  Il s’agit de femmes d’un âge avancé, de vieilles femmes.  Ce mot n’apparaît qu’ici dans le Nouveau Testament.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#2)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « comportement » signifie attitude ou conduite. Il pourrait également être traduit « style de vie » en français.  D’autres mots de la même racine apparaissent dans le Nouveau Testament, mais c’est la seule occurrence de ce mot précis dans le Nouveau Testament.  Il est aussi possible de le comprendre comme désignant l’extérieur ou l’apparence d’une personne.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#3)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « convient à la sainteté » désigne ce qui est digne d’une personne ou d’une chose sacrée à Dieu, c’est-à-dire une personne ou chose sainte.  Le mot désigne généralement une conduite appropriée aux croyances religieuses.  Ici, Paul parle tout particulièrement de la consécration à Dieu dans la piété ou la fidélité.  Dans certaines langues, il est difficile de traduire ce mot, car il est question d’une bonne vie, d’une vie vécue pour plaire à Dieu, ce qui signifie que le comportement moral de la personne est guidé par ses croyances et par son désir de faire la volonté de Dieu.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#4)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « médisantes » (διάβολος, diabolos , G1228), littéralement « calmoniateur », désigne une personne qui calomnie les autres, c’est-à-dire que les femmes âgées ne doivent pas parler en mal des autres.  Il est utilisé dans <a href=\"https://ref.ly/1Tim3:11\">1 Timothée 3.11</a> et <a href=\"https://ref.ly/2Tim3:3\">2 Timothée 3.3</a> dans le même sens que dans le présent verset.  Noter que ce mot peut également être utilisé pour désigner le diable (c’est-à-dire le chef des démons).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+},
+{
+"start_ref": "55003003",
+"start_ref_usfm": "2TI 3:3",
+"end_ref": "55003003",
+"end_ref_usfm": "2TI 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#5)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « excès » désigne une quantité relativement grande de quelque chose.  Il pourrait également être traduit « beaucoup » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#6)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Les femmes âgées ne doivent pas se laisser aller à une consommation excessive de vin.  Le mot « vin » désigne une boisson fermentée produite à partir du jus de raisin.  Pour les langues qui ne possèdent pas de mot pour désigner le vin, il est possible d’utiliser une expression telle que « jus de raisin fermenté » ou « jus de fruit fermenté ». </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002003-07",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.3 (#7)",
+"media_type": "Text",
+"index_reference": "56002003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « donner de bonnes instructions » décrit ce que fait une personne qui enseigne ce qui est bon, qui enseigne de bonnes choses. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.4 (#1)",
+"media_type": "Text",
+"index_reference": "56002004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « apprendre » signifie instruire quelqu’un en lui enseignant à se comporter de manière sage et convenable. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002004",
+"start_ref_usfm": "TIT 2:4",
+"end_ref": "56002004",
+"end_ref_usfm": "TIT 2:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002004-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.4 (#2)",
+"media_type": "Text",
+"index_reference": "56002004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en grec : « à celles qui sont jeunes ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002004",
+"start_ref_usfm": "TIT 2:4",
+"end_ref": "56002004",
+"end_ref_usfm": "TIT 2:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002004-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.4 (#3)",
+"media_type": "Text",
+"index_reference": "56002004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « aimer leurs maris » désigne l’amour ou l’affection qu’une femme peut porter à son mari.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002004",
+"start_ref_usfm": "TIT 2:4",
+"end_ref": "56002004",
+"end_ref_usfm": "TIT 2:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002004-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.4 (#4)",
+"media_type": "Text",
+"index_reference": "56002004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « [aimer] leurs enfants » désigne l’amour ou l’affection qu’un parent peut porter à ses enfants. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002004",
+"start_ref_usfm": "TIT 2:4",
+"end_ref": "56002004",
+"end_ref_usfm": "TIT 2:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.5 (#1)",
+"media_type": "Text",
+"index_reference": "56002005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001008-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.8.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002005-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.5 (#2)",
+"media_type": "Text",
+"index_reference": "56002005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « vertueuses » décrit ce qui est pur, saint ou chaste.  Cet adjectif apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim5:22\">1 Timothée 5.22</a> ; <a href=\"https://ref.ly/Titus2:5\">Tite 2.5</a>.  À titre d’exemple, c’est ce mot qui apparaît dans les passages suivants :</p>\n      <ul>\n      <li>Dans <a href=\"https://ref.ly/1John3:3\">1 Jean 3.3</a> pour décrire Dieu, qui est <em>pur </em>: l’espérance de le voir un jour tel qu’il est nous pousse donc à nous purifier.</li>\n      <li>Dans <a href=\"https://ref.ly/Jas3:17\">Jacques 3.17</a> pour décrire la sagesse d’en haut qui est <em>pure</em>, pacifique, modérée, conciliante, etc. </li>\n      <li>Dans <a href=\"https://ref.ly/1Pet3:2\">1 Pierre 3.2</a>, où Pierre exhorte les femmes dont le mari n’est pas croyants à être un témoignage pour eux par leur manière de vivre <em>chaste</em>.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+},
+{
+"start_ref": "54005022",
+"start_ref_usfm": "1TI 5:22",
+"end_ref": "54005022",
+"end_ref_usfm": "1TI 5:22"
+},
+{
+"start_ref": "62003003",
+"start_ref_usfm": "1JN 3:3",
+"end_ref": "62003003",
+"end_ref_usfm": "1JN 3:3"
+},
+{
+"start_ref": "59003017",
+"start_ref_usfm": "JAS 3:17",
+"end_ref": "59003017",
+"end_ref_usfm": "JAS 3:17"
+},
+{
+"start_ref": "60003002",
+"start_ref_usfm": "1PE 3:2",
+"end_ref": "60003002",
+"end_ref_usfm": "1PE 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002005-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.5 (#3)",
+"media_type": "Text",
+"index_reference": "56002005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « occupées chez elles » décrit une personne qui travaille dans sa maison, qui s’occupe de sa maison.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002005-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.5 (#4)",
+"media_type": "Text",
+"index_reference": "56002005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « soumises » signifie que la personne qui se soumet aux ordres et aux directives de quelqu’un d’autre.  Il est utilisé 3 fois dans Tite : <a href=\"https://ref.ly/Titus2:5\">2.5</a> ; <a href=\"https://ref.ly/Titus2:9\">2.9</a> (des serviteurs qui doivent se soumettre à leurs maîtres) et <a href=\"https://ref.ly/Titus3:1\">3.1</a> (de tous qui doivent se soumettre aux magistrats et aux autorités).  À titre d’exemple, ce mot apparaît également dans les passages suivants :</p>\n      <ul>\n      <li>Dans le commandement de Paul que tous doivent se soumettre aux autorités dans <a href=\"https://ref.ly/Rom13:1\">Romains 13.1</a>.</li>\n      <li>Dans le commandement de Jacques de se soumettre à Dieu dans <a href=\"https://ref.ly/Jas4:7\">Jacques 4.7</a>.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+},
+{
+"start_ref": "56002009",
+"start_ref_usfm": "TIT 2:9",
+"end_ref": "56002009",
+"end_ref_usfm": "TIT 2:9"
+},
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013001",
+"end_ref_usfm": "ROM 13:1"
+},
+{
+"start_ref": "59004007",
+"start_ref_usfm": "JAS 4:7",
+"end_ref": "59004007",
+"end_ref_usfm": "JAS 4:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002005-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.5 (#5)",
+"media_type": "Text",
+"index_reference": "56002005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « blasphémée » signifie parler en mal de quelqu’un de façon à faire du tort à sa réputation.  Ce verbe peut s’appliquer aux êtres humains aussi bien qu’aux divinités.  Selon les contextes, ce verbe pourrait aussi être traduit « insulter » ou « calomnier » en français.  Il apparaît quatre fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:20\">1 Timothée 1.20</a> ; <a href=\"https://ref.ly/1Tim6:1\">6.1</a> ; <a href=\"https://ref.ly/Titus2:5\">Tite 2.5</a> ; <a href=\"https://ref.ly/Titus3:2\">3.2</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+},
+{
+"start_ref": "54001020",
+"start_ref_usfm": "1TI 1:20",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006001",
+"end_ref_usfm": "1TI 6:1"
+},
+{
+"start_ref": "56003002",
+"start_ref_usfm": "TIT 3:2",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002005-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.5 (#6)",
+"media_type": "Text",
+"index_reference": "56002005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 3, 4 et 5 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.6 (#1)",
+"media_type": "Text",
+"index_reference": "56002006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « jeunes hommes » décrit un être vivant assez jeune, souvent le plus jeune de deux.  Par exemple, dans <a href=\"https://ref.ly/Luke15:12\">Luc 15.12</a>, il décrit le frère cadet, c’est-à-dire le plus jeune des deux frères.  Ici, ce mot désigne les hommes qui sont plus jeunes que les hommes âgés dont il est question plus tôt.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002006",
+"start_ref_usfm": "TIT 2:6",
+"end_ref": "56002006",
+"end_ref_usfm": "TIT 2:6"
+},
+{
+"start_ref": "42015012",
+"start_ref_usfm": "LUK 15:12",
+"end_ref": "42015012",
+"end_ref_usfm": "LUK 15:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002006-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.6 (#2)",
+"media_type": "Text",
+"index_reference": "56002006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « raisonnables » décrit quelqu’un qui se comporte de façon sage, prudente, rationnelle (voir Bailly).  À titre d’exemple, c’est le mot qui apparaît dans <a href=\"https://ref.ly/Mark5:15\">Marc 5.15</a> pour décrire le démoniaque une fois qu’il a été libéré de la légion de démons ; il est alors « dans son bon sens ».  C’est aussi le mot qui apparaît dans <a href=\"https://ref.ly/Rom12:3\">Romains 12.3</a> où il est question des sentiments modestes ou raisonnables que Paul enjoint les chrétiens à avoir d’eux-mêmes.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002006",
+"start_ref_usfm": "TIT 2:6",
+"end_ref": "56002006",
+"end_ref_usfm": "TIT 2:6"
+},
+{
+"start_ref": "41005015",
+"start_ref_usfm": "MRK 5:15",
+"end_ref": "41005015",
+"end_ref_usfm": "MRK 5:15"
+},
+{
+"start_ref": "45012003",
+"start_ref_usfm": "ROM 12:3",
+"end_ref": "45012003",
+"end_ref_usfm": "ROM 12:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.7 (#1)",
+"media_type": "Text",
+"index_reference": "56002007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « modèle » désigne au sens propre une empreinte, une marque, une trace ou même une image (voir Bailly). Au sens figuré, ce mot désigne un exemple qui est considéré comme bon et à imiter ou mauvais et à éviter.  Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim4:12\">1 Timothée 4.12</a> ; <a href=\"https://ref.ly/Titus2:7\">Tite 2.7</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002007",
+"start_ref_usfm": "TIT 2:7",
+"end_ref": "56002007",
+"end_ref_usfm": "TIT 2:7"
+},
+{
+"start_ref": "54004012",
+"start_ref_usfm": "1TI 4:12",
+"end_ref": "54004012",
+"end_ref_usfm": "1TI 4:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002007-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.7 (#2)",
+"media_type": "Text",
+"index_reference": "56002007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « pur » décrit ce qui est pur, ce qui n’est pas corrompu. Il n’est utilisé qu’ici dans le Nouveau Testament.  C’est un mot différent de ceux qui sont utilisés dans <a href=\"https://ref.ly/Titus1:15\">1.15</a> (ce que qui est « pur » pour ceux qui sont « purs ») et dans <a href=\"https://ref.ly/Titus2:5\">2.5</a> (des jeunes femmes qui doivent être « vertueuses » ou « pures »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002007",
+"start_ref_usfm": "TIT 2:7",
+"end_ref": "56002007",
+"end_ref_usfm": "TIT 2:7"
+},
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001015",
+"end_ref_usfm": "TIT 1:15"
+},
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002007-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.7 (#3)",
+"media_type": "Text",
+"index_reference": "56002007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « digne » désigne un comportement honorable, bienséant ou digne de respect.  Il est utilisé trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim2:2\">1 Timothée 2.2</a> ; <a href=\"https://ref.ly/1Tim3:4\">3.4</a> ; <a href=\"https://ref.ly/Titus2:7\">Tite 2.7</a> (« digne »).  C’est un mot de même famille que l’adjectif traduit « digne » dans <a href=\"https://ref.ly/1Tim3:8\">1 Timothée 3.8</a>, <a href=\"https://ref.ly/1Tim3:11\">11</a> ; <a href=\"https://ref.ly/Titus2:2\">Tite 2.2</a>.  Dans certaines langues, cette « bienséance » ou « dignité » se rendra mieux par une expression telle que « agir de la bonne manière » ou « agir comme il se doit ».  C’est un mot de même racine que celui qui est utilisé dans <a href=\"https://ref.ly/Titus2:2\">2.2</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002007",
+"start_ref_usfm": "TIT 2:7",
+"end_ref": "56002007",
+"end_ref_usfm": "TIT 2:7"
+},
+{
+"start_ref": "54002002",
+"start_ref_usfm": "1TI 2:2",
+"end_ref": "54002002",
+"end_ref_usfm": "1TI 2:2"
+},
+{
+"start_ref": "54003004",
+"start_ref_usfm": "1TI 3:4",
+"end_ref": "54003004",
+"end_ref_usfm": "1TI 3:4"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003008",
+"end_ref_usfm": "1TI 3:8"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+},
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002002",
+"end_ref_usfm": "TIT 2:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.8 (#1)",
+"media_type": "Text",
+"index_reference": "56002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « saine » décrit ce qui est sain ou sensé.  Selon les contextes, ce mot pourrait être traduit « correct » en français.  C’est un mot de même racine mais différent de ceux qui sont utilisés dans <a href=\"https://ref.ly/Titus1:13\">1.13</a> et <a href=\"https://ref.ly/Titus2:1\">2.1</a>, 2.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002008",
+"start_ref_usfm": "TIT 2:8",
+"end_ref": "56002008",
+"end_ref_usfm": "TIT 2:8"
+},
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001013",
+"end_ref_usfm": "TIT 1:13"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002008-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.8 (#2)",
+"media_type": "Text",
+"index_reference": "56002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « irréprochable » désigne ce qui ne peut être condamné (voir Bailly).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002008",
+"start_ref_usfm": "TIT 2:8",
+"end_ref": "56002008",
+"end_ref_usfm": "TIT 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002008-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.8 (#3)",
+"media_type": "Text",
+"index_reference": "56002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « adversaire » désigne quelqu’un qui se montre hostile envers quelqu’un d’autre. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002008",
+"start_ref_usfm": "TIT 2:8",
+"end_ref": "56002008",
+"end_ref_usfm": "TIT 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002008-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.8 (#4)",
+"media_type": "Text",
+"index_reference": "56002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « honteux » désigne ici ce qui est dans l’embarras ou la gêne.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002008",
+"start_ref_usfm": "TIT 2:8",
+"end_ref": "56002008",
+"end_ref_usfm": "TIT 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002008-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.8 (#5)",
+"media_type": "Text",
+"index_reference": "56002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « mal » désigne ce qui est mauvais dans le sens moral.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002008",
+"start_ref_usfm": "TIT 2:8",
+"end_ref": "56002008",
+"end_ref_usfm": "TIT 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002008-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.8 (#6)",
+"media_type": "Text",
+"index_reference": "56002008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 6 à 8 forment une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002008",
+"start_ref_usfm": "TIT 2:8",
+"end_ref": "56002008",
+"end_ref_usfm": "TIT 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.9 (#1)",
+"media_type": "Text",
+"index_reference": "56002009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « soumis » est le même que pour les jeunes femmes qui doivent être soumises à leur mari au verset 5, <span data-bnType=\"resourceReference\" data-resourceId=\"56002005-01\" data-resourceType=\"AFBRTTranslationNotes\">voir note correspondante.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002009",
+"start_ref_usfm": "TIT 2:9",
+"end_ref": "56002009",
+"end_ref_usfm": "TIT 2:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002009-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.9 (#2)",
+"media_type": "Text",
+"index_reference": "56002009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « plaire » désigne ce qu’une personne fait qui est agréable à une autre.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002009",
+"start_ref_usfm": "TIT 2:9",
+"end_ref": "56002009",
+"end_ref_usfm": "TIT 2:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002009-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.9 (#3)",
+"media_type": "Text",
+"index_reference": "56002009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « contredire » signifie exprimer une opposition à une chose ou contre quelqu’un.  À titre d’exemple, c’est le mot qui est apparaît dans les passages suivants : </p>\n      <ul>\n      <li>Siméon décrit l’<em>opposition</em> que Jésus provoquera en Israël dans <a href=\"https://ref.ly/Luke2:34\">Luc 2.34</a>.  </li>\n      <li>Les principaux sacrificateurs n’avaient rien à <em>répliquer</em> à Pierre et à Jean à cause de l’homme qu'ils avaient guéri dans <a href=\"https://ref.ly/Acts4:14\">Actes 4.14</a>.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002009",
+"start_ref_usfm": "TIT 2:9",
+"end_ref": "56002009",
+"end_ref_usfm": "TIT 2:9"
+},
+{
+"start_ref": "42002034",
+"start_ref_usfm": "LUK 2:34",
+"end_ref": "42002034",
+"end_ref_usfm": "LUK 2:34"
+},
+{
+"start_ref": "44004014",
+"start_ref_usfm": "ACT 4:14",
+"end_ref": "44004014",
+"end_ref_usfm": "ACT 4:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.10 (#1)",
+"media_type": "Text",
+"index_reference": "56002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « voler » signifie détourner ou soustraire pour soi-même ce qui appartient à autrui (par exemple de l’argent).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002010",
+"start_ref_usfm": "TIT 2:10",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002010-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.10 (#2)",
+"media_type": "Text",
+"index_reference": "56002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’association de « toujours » (ou « toute » dépendamment de la traduction choisie) et « bonne » pour qualifier la « fidélité » dont les esclaves doivent faire preuve envers leur maître souligne son importance.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002010",
+"start_ref_usfm": "TIT 2:10",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002010-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.10 (#3)",
+"media_type": "Text",
+"index_reference": "56002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « honorée » signifie ici embellir, orner ou décorer.  Il est utilisé ici dans un sens figuré (« honorer »), voir Bailly.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002010",
+"start_ref_usfm": "TIT 2:10",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002010-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.10 (#4)",
+"media_type": "Text",
+"index_reference": "56002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 9 et 10 forment une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002010",
+"start_ref_usfm": "TIT 2:10",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.11 (#1)",
+"media_type": "Text",
+"index_reference": "56002011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « a été révélée » signifie apparaître. Il est à la forme passive ici.  Il pourrait également être traduit « manifester » en français.  Ce verbe apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/Titus2:11\">Tite 2.11</a> ; <a href=\"https://ref.ly/Titus3:4\">3.4</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002011",
+"start_ref_usfm": "TIT 2:11",
+"end_ref": "56002011",
+"end_ref_usfm": "TIT 2:11"
+},
+{
+"start_ref": "56003004",
+"start_ref_usfm": "TIT 3:4",
+"end_ref": "56003004",
+"end_ref_usfm": "TIT 3:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002012-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.12 (#1)",
+"media_type": "Text",
+"index_reference": "56002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « enseigne » (παιδεύω, <em>se prononce </em>païdèuo, G3811) signifie instruire avec l’intention de façonner de bonnes habitudes de conduite.  Il peut signifier (1) élever, instruire, former (par exemple, un enfant) ou (2) corriger, redresser, réprimander, discipliner ou même châtier.  Ainsi, selon les contextes, il pourrait être traduit « éduquer », « élever », « punir » ou « discipliner » en français.  Ce verbe apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:20\">1 Timothée 1.20</a> (« apprennent ») ; <a href=\"https://ref.ly/2Tim2:25\">2 Timothée 2.25</a> ; <a href=\"https://ref.ly/Titus2:12\">Tite 2.12</a> (« enseigne »).</p>\n      <p>À titre d’exemple, c’est le verbe qui apparaît dans les passages suivants :</p>\n      <ul>\n      <li>De l’<em>instruction</em> acquise par Moïse dans la sagesse des Égyptiens (<a href=\"https://ref.ly/Acts7:22\">Ac 7.22</a>) et de celle acquise par Paul aux pieds de Gamaliel (<a href=\"https://ref.ly/Acts22:3\">Ac 22.3</a>).</li>\n      <li>De la sévère <em>discipline</em> du Seigneur sur les chrétiens désobéissants afin de leur éviter la condamnation (<a href=\"https://ref.ly/2Cor11:32\">2Co 11.32</a>).</li>\n      <li>De la <em>discipline</em> d’un père pour son fils et du <em>châtiment</em> de Dieu envers ses enfants (Hé <a href=\"https://ref.ly/Titus12:6\">12.6</a>, <a href=\"https://ref.ly/Titus12:7\">7</a>, <a href=\"https://ref.ly/Titus12:10\">10</a>).</li>\n      </ul>\n      <p>Ce verbe n’est utilisé qu’ici dans cette épître ; il est de racine différente des autres mots décrivant l’enseignement ou l’apprentissage dans <a href=\"https://ref.ly/Titus1:9\">1.9</a>, <a href=\"https://ref.ly/Titus1:11\">11</a> ; <a href=\"https://ref.ly/Titus2:1\">2.1</a>, <a href=\"https://ref.ly/Titus2:4\">4</a>, <a href=\"https://ref.ly/Titus2:7\">7</a>, <a href=\"https://ref.ly/Titus2:10\">10</a> (voir note intitulée « enseigner / enseignant / enseignement / instruction / doctrine » pour ces versets).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002012",
+"start_ref_usfm": "TIT 2:12",
+"end_ref": "56002012",
+"end_ref_usfm": "TIT 2:12"
+},
+{
+"start_ref": "54001020",
+"start_ref_usfm": "1TI 1:20",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "55002025",
+"start_ref_usfm": "2TI 2:25",
+"end_ref": "55002025",
+"end_ref_usfm": "2TI 2:25"
+},
+{
+"start_ref": "44007022",
+"start_ref_usfm": "ACT 7:22",
+"end_ref": "44007022",
+"end_ref_usfm": "ACT 7:22"
+},
+{
+"start_ref": "44022003",
+"start_ref_usfm": "ACT 22:3",
+"end_ref": "44022003",
+"end_ref_usfm": "ACT 22:3"
+},
+{
+"start_ref": "47011032",
+"start_ref_usfm": "2CO 11:32",
+"end_ref": "47011032",
+"end_ref_usfm": "2CO 11:32"
+},
+{
+"start_ref": "56012006",
+"start_ref_usfm": "TIT 12:6",
+"end_ref": "56012006",
+"end_ref_usfm": "TIT 12:6"
+},
+{
+"start_ref": "56012007",
+"start_ref_usfm": "TIT 12:7",
+"end_ref": "56012007",
+"end_ref_usfm": "TIT 12:7"
+},
+{
+"start_ref": "56012010",
+"start_ref_usfm": "TIT 12:10",
+"end_ref": "56012010",
+"end_ref_usfm": "TIT 12:10"
+},
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "56001011",
+"start_ref_usfm": "TIT 1:11",
+"end_ref": "56001011",
+"end_ref_usfm": "TIT 1:11"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+},
+{
+"start_ref": "56002004",
+"start_ref_usfm": "TIT 2:4",
+"end_ref": "56002004",
+"end_ref_usfm": "TIT 2:4"
+},
+{
+"start_ref": "56002007",
+"start_ref_usfm": "TIT 2:7",
+"end_ref": "56002007",
+"end_ref_usfm": "TIT 2:7"
+},
+{
+"start_ref": "56002010",
+"start_ref_usfm": "TIT 2:10",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002012-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.12 (#2)",
+"media_type": "Text",
+"index_reference": "56002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « du monde » désigne ici ce qui appartient au monde et correspond à ses normes.  Il s’agit de mauvais désirs, ceux qu’ont les gens de ce monde.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002012",
+"start_ref_usfm": "TIT 2:12",
+"end_ref": "56002012",
+"end_ref_usfm": "TIT 2:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002012-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.12 (#3)",
+"media_type": "Text",
+"index_reference": "56002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « vivre » peut signifier (1) vivre, (2) être vivant ou (3) diriger sa vie d’une manière spécifique (selon le contexte).  Il pourrait également être traduit « se comporter » ou « se conduire » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002012",
+"start_ref_usfm": "TIT 2:12",
+"end_ref": "56002012",
+"end_ref_usfm": "TIT 2:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002012-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.12 (#4)",
+"media_type": "Text",
+"index_reference": "56002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « siècle » désigne ici une unité de temps qui n’est pas déterminée ou spécifique, mais qui est considérée comme une étape ou une période donnée de l’Histoire.  Ce mot peut aussi désigner plusieurs siècles ou même de nombreux siècles, et pourrait également être traduit « âge », « époque », « temps » ou « ère » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002012",
+"start_ref_usfm": "TIT 2:12",
+"end_ref": "56002012",
+"end_ref_usfm": "TIT 2:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002012-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.12 (#5)",
+"media_type": "Text",
+"index_reference": "56002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adverbe grec traduit « selon la sagesse » désigne un comportement sage, sensé, prudent, raisonnable, modéré.   Il est de même racine que le mot traduit « modérées » au début du verset <a href=\"https://ref.ly/Titus2:5\">2.5</a>.  Dans certaines langues, ce mot pourrait être traduit « avoir des pensées justes à propos de ce que l’on doit faire » ou « laisser son esprit guider son corps ». </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002012",
+"start_ref_usfm": "TIT 2:12",
+"end_ref": "56002012",
+"end_ref_usfm": "TIT 2:12"
+},
+{
+"start_ref": "56002005",
+"start_ref_usfm": "TIT 2:5",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002012-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.12 (#6)",
+"media_type": "Text",
+"index_reference": "56002012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adverbe grec traduit « [selon] la justice » décrit ce qui est juste.  Il pourrait également être traduit « comme il convient » ou « avec justice » en français.  À titre d’exemple, c’est le mot dont se sert le brigand qui est crucifié à côté de Jésus quand il dit à l’autre que leur punition est méritée (« c’est justice ») alors que Jésus n’a rien fait de mal (<a href=\"https://ref.ly/Luke23:41\">Lc 23.41</a>).  Ce mot apparaît aussi dans <a href=\"https://ref.ly/1Pet2:23\">1 Pierre 2.23</a> dans la description de Jésus qui s’en est remis « à celui qui juge justement ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002012",
+"start_ref_usfm": "TIT 2:12",
+"end_ref": "56002012",
+"end_ref_usfm": "TIT 2:12"
+},
+{
+"start_ref": "42023041",
+"start_ref_usfm": "LUK 23:41",
+"end_ref": "42023041",
+"end_ref_usfm": "LUK 23:41"
+},
+{
+"start_ref": "60002023",
+"start_ref_usfm": "1PE 2:23",
+"end_ref": "60002023",
+"end_ref_usfm": "1PE 2:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.13 (#1)",
+"media_type": "Text",
+"index_reference": "56002013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001002-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.2.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002013",
+"start_ref_usfm": "TIT 2:13",
+"end_ref": "56002013",
+"end_ref_usfm": "TIT 2:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002013-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.13 (#2)",
+"media_type": "Text",
+"index_reference": "56002013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « apparition » désigne l’action de se montrer, de se révéler, d’apparaître, de devenir visible à quelqu’un.  Ce mot est souvent utilisé pour décrire une manifestation divine glorieuse.  L’idée est proche de celle d’être « révélé ».  Ce mot apparaît six fois dans le Nouveau Testament, dont cinq dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim6:14\">1 Timothée 6.14</a> ; 2 Timothée : <a href=\"https://ref.ly/2Tim1:10\">1.10</a> ; <a href=\"https://ref.ly/2Tim4:1\">4.1</a>, <a href=\"https://ref.ly/2Tim4:8\">8</a> ; <a href=\"https://ref.ly/Titus2:13\">Tite 2.13</a> (voir aussi <a href=\"https://ref.ly/2Thess2:8\">2 Thessaloniciens 2.8</a>).   </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002013",
+"start_ref_usfm": "TIT 2:13",
+"end_ref": "56002013",
+"end_ref_usfm": "TIT 2:13"
+},
+{
+"start_ref": "54006014",
+"start_ref_usfm": "1TI 6:14",
+"end_ref": "54006014",
+"end_ref_usfm": "1TI 6:14"
+},
+{
+"start_ref": "55001010",
+"start_ref_usfm": "2TI 1:10",
+"end_ref": "55001010",
+"end_ref_usfm": "2TI 1:10"
+},
+{
+"start_ref": "55004001",
+"start_ref_usfm": "2TI 4:1",
+"end_ref": "55004001",
+"end_ref_usfm": "2TI 4:1"
+},
+{
+"start_ref": "55004008",
+"start_ref_usfm": "2TI 4:8",
+"end_ref": "55004008",
+"end_ref_usfm": "2TI 4:8"
+},
+{
+"start_ref": "53002008",
+"start_ref_usfm": "2TH 2:8",
+"end_ref": "53002008",
+"end_ref_usfm": "2TH 2:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002013-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.13 (#3)",
+"media_type": "Text",
+"index_reference": "56002013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est possible de comprendre « de notre grand Dieu et de notre Sauveur Jésus-Christ ».  Noter que presque toutes les versions françaises et la grande majorité des versions anglaises, ainsi que de très nombreux érudits, choisissent la traduction présentée ici : « notre grand Dieu et Sauveur Jésus-Christ ».  Plusieurs arguments grammaticaux et d’usage correspondent à cette traduction.  Par exemple, dans le Nouveau Testament, le nom grec traduit « apparition » fait toujours référence à Christ et jamais à Dieu le Père ; les noms « Dieu » et « Sauveur » dépendent d’un seul article ; le prochain verset fait référence à Christ seul, etc.  Il existe aussi des arguments, moins directs, pour l’autre traduction.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002013",
+"start_ref_usfm": "TIT 2:13",
+"end_ref": "56002013",
+"end_ref_usfm": "TIT 2:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.14 (#1)",
+"media_type": "Text",
+"index_reference": "56002014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « s’est donné » signifie ici mourir de son plein gré.  Il pourrait également être traduit « donner sa vie » ou « mourir pour » en français.  Dans certaines langues, il sera mieux rendu « se laisser tuer » ou « permettre à d’autres de tuer ».  À titre d’exemple, c’est ce mot qui est utilisé dans <a href=\"https://ref.ly/Matt20:28\">Matthieu 20.28</a> et <a href=\"https://ref.ly/Mark10:45\">Marc 10.45</a> quand Jésus parle du fait qu’il est venu <em>donner</em> sa vie pour de nombreux êtres humains. </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002014",
+"start_ref_usfm": "TIT 2:14",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+},
+{
+"start_ref": "40020028",
+"start_ref_usfm": "MAT 20:28",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
+},
+{
+"start_ref": "41010045",
+"start_ref_usfm": "MRK 10:45",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002014-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.14 (#2)",
+"media_type": "Text",
+"index_reference": "56002014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « libérer » évoque l’analogie de l’affranchissement d’un esclave (délivrer ou libérer contre le paiement d’une rançon).  Selon les contextes, il pourrait également être traduit « relâcher » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002014",
+"start_ref_usfm": "TIT 2:14",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002014-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.14 (#3)",
+"media_type": "Text",
+"index_reference": "56002014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « injustice » désigne un comportement de mépris des lois ou des règles de la société.  Dans certaines langues, ce mot sera mieux rendu « vivre comme s’il n’y avait pas de lois » ou « vivre comme quelqu’un qui méprise toutes les lois ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002014",
+"start_ref_usfm": "TIT 2:14",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002014-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.14 (#4)",
+"media_type": "Text",
+"index_reference": "56002014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « ait du zèle » décrit quelqu’un qui est intensément engagé dans quelque chose ; cette personne est enthousiaste et a de la ferveur.  À titre d’exemple, Paul utilise ce mot dans <a href=\"https://ref.ly/Gal1:14\">Galates 1.14</a> pour décrire le <em>zèle</em> qu’il avait pour les traditions de ses pères avant de devenir chrétien.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002014",
+"start_ref_usfm": "TIT 2:14",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+},
+{
+"start_ref": "48001014",
+"start_ref_usfm": "GAL 1:14",
+"end_ref": "48001014",
+"end_ref_usfm": "GAL 1:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002014-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.14 (#5)",
+"media_type": "Text",
+"index_reference": "56002014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 11, 12, 13 et 14 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002014",
+"start_ref_usfm": "TIT 2:14",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002015-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.15 (#1)",
+"media_type": "Text",
+"index_reference": "56002015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56002001-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 2.1.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002015-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.15 (#2)",
+"media_type": "Text",
+"index_reference": "56002015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001009-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.9.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002015-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.15 (#3)",
+"media_type": "Text",
+"index_reference": "56002015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « autorité » désigne ici le droit ou le pouvoir de commander.  Le même mot apparaît également dans <a href=\"https://ref.ly/Titus1:3\">1.3</a> pour désigner un ordre en tant que tel (voir aussi <a href=\"https://ref.ly/1Tim1:1\">1 Timothée 1.1</a>, où il est utilisé dans le même sens).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+},
+{
+"start_ref": "56001003",
+"start_ref_usfm": "TIT 1:3",
+"end_ref": "56001003",
+"end_ref_usfm": "TIT 1:3"
+},
+{
+"start_ref": "54001001",
+"start_ref_usfm": "1TI 1:1",
+"end_ref": "54001001",
+"end_ref_usfm": "1TI 1:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56002015-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 2.15 (#4)",
+"media_type": "Text",
+"index_reference": "56002015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « méprise » signifie ici mépriser, dédaigner, considérer quelque chose ou quelqu’un de façon méprisante.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.1 (#1)",
+"media_type": "Text",
+"index_reference": "56003001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « rappelle » signifie faire se souvenir, remettre en mémoire.  Le sens est que Tite doit les aider à se souvenir de se soumettre aux dirigeants et aux autorités.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003001-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.1 (#2)",
+"media_type": "Text",
+"index_reference": "56003001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56002005-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 2.5.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003001-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.1 (#3)",
+"media_type": "Text",
+"index_reference": "56003001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « dirigeants » désigne ici des personnes qui gouvernent. Il pourrait également être traduit « magistrats » en français.  Les mots dirigeants et autorités sont également utilisés ensemble dans <a href=\"https://ref.ly/Luke12:11\">Luc 12.11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+},
+{
+"start_ref": "42012011",
+"start_ref_usfm": "LUK 12:11",
+"end_ref": "42012011",
+"end_ref_usfm": "LUK 12:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003001-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.1 (#4)",
+"media_type": "Text",
+"index_reference": "56003001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « autorités » (ἐξουσία, <em>se prononce </em>exoussia, G1849) désigne ici ceux qui ont le pouvoir de diriger ou de gouverner.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003001-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.1 (#5)",
+"media_type": "Text",
+"index_reference": "56003001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « obéir » signifie se soumettre à une autorité par l’obéissance. À titre d’exemple, ce mot est également utilisé dans les passages suivants : </p>\n      <ul>\n      <li>Dans la réponse de Pierre au sanhédrin qu’il faut <em>obéir</em> à Dieu plutôt qu’aux hommes (<a href=\"https://ref.ly/Acts5:29\">Ac 5.29</a>)</li>\n      <li>Dans le discours de Paul aux soldats et aux navigateurs avant son naufrage : il leur dit qu’ils auraient dû l’<em>écouter</em> et ne pas partir de Crète (<a href=\"https://ref.ly/Acts27:21\">Ac 27.21</a>).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+},
+{
+"start_ref": "44005029",
+"start_ref_usfm": "ACT 5:29",
+"end_ref": "44005029",
+"end_ref_usfm": "ACT 5:29"
+},
+{
+"start_ref": "44027021",
+"start_ref_usfm": "ACT 27:21",
+"end_ref": "44027021",
+"end_ref_usfm": "ACT 27:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.2 (#1)",
+"media_type": "Text",
+"index_reference": "56003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « médire » signifie parler en mal d’une personne de façon à lui faire du mal ou nuire à sa réputation.  Ce mot peut être utilisé aussi bien pour les êtres humains que pour les divinités.  Selon les contextes, il pourrait également être traduit « insulter », « calomnier » ou « blasphémer » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003002",
+"start_ref_usfm": "TIT 3:2",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003002-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.2 (#2)",
+"media_type": "Text",
+"index_reference": "56003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « pacifiques » désigne une personne qui s’abstient de conflit ou de querelles, qui n’est pas agressif ou belliqueux.  Il pourrait également être traduit « non querelleur » en français.  Il est utilisé deux fois dans le Nouveau Testament : <a href=\"https://ref.ly/1Tim3:3\">1 Timothée 3.3</a> ; <a href=\"https://ref.ly/Titus3:2\">Tite 3.2</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003002",
+"start_ref_usfm": "TIT 3:2",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+},
+{
+"start_ref": "54003003",
+"start_ref_usfm": "1TI 3:3",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003002-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.2 (#3)",
+"media_type": "Text",
+"index_reference": "56003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « modérés » décrit quelqu’un qui fait grâce et qui tolère.  Il pourrait également être traduit « doux » ou « indulgent » en français.  Il est utilisé deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim3:3\">1 Timothée 3.3</a> ; <a href=\"https://ref.ly/Titus3:2\">Tite 3.2</a>.  À titre d’exemple, c’est le mot qui apparaît dans les passages suivants :</p>\n      <ul>\n      <li>« Que votre <em>douceur</em> soit connue de tous les hommes » (Phil <a href=\"https://ref.ly/Titus4:5\">4.5</a>).</li>\n      <li>La sagesse d’en haut est premièrement pure, ensuite pacifique, <em>modérée</em>, conciliante… » (<a href=\"https://ref.ly/Jas3:17\">Jc 3.17</a>).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003002",
+"start_ref_usfm": "TIT 3:2",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+},
+{
+"start_ref": "54003003",
+"start_ref_usfm": "1TI 3:3",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+},
+{
+"start_ref": "56004005",
+"start_ref_usfm": "TIT 4:5",
+"end_ref": "56004005",
+"end_ref_usfm": "TIT 4:5"
+},
+{
+"start_ref": "59003017",
+"start_ref_usfm": "JAS 3:17",
+"end_ref": "59003017",
+"end_ref_usfm": "JAS 3:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003002-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.2 (#4)",
+"media_type": "Text",
+"index_reference": "56003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « entière » indique la complétude, la totalité, l’intégralité. Il pourrait également être traduit « complète », « pleine » ou « totale » en français.  L’expression verbale n’est pas facile à rendre en français et il est possible de traduire ce mot par un adverbe (« toujours », comme dans la Nouvelle Bible Segond, ou encore « complètement »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003002",
+"start_ref_usfm": "TIT 3:2",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#1)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « autrefois » signifie à un moment ou une occasion indéterminée.  Il pourrait également être traduit « à un moment » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#2)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « insensé » décrit une personne qui refuse d’utiliser ses facultés mentales dans le but de comprendre.  Il pourrait également être traduit « sans intelligence » en français, mais il ne désigne pas nécessairement pour autant un idiot ou un imbécile.  Il s’agit plutôt de quelqu’un qui n’utilise pas ses capacités de compréhension et qui donc pense et se comporte de manière insensée.  Cet adjectif est utilisé deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim6:9\">1 Timothée 6.9</a> ; <a href=\"https://ref.ly/Titus3:3\">Tite 3.3</a>.  Dans <a href=\"https://ref.ly/1Tim6:9\">1 Timothée 6.9</a>, il décrit les désirs ou convoitises qui égarent les êtres humains.  À titre d’exemple, c’est le même mot qui apparaît dans les passages suivants :</p>\n      <ul>\n      <li>Lorsque Jésus ressuscité reprend les disciples sur le chemin d’Emmaüs en leur disant que ce sont des hommes <em>sans intelligence</em> (<a href=\"https://ref.ly/Luke24:25\">Luc 24.25</a>). </li>\n      <li>Lorsque Paul réprimande les Galates et leur dit qu’ils sont <em>dépourvus de sens</em> parce qu’après avoir commencé avec l’Esprit, ils veulent finir par la chair (<a href=\"https://ref.ly/Gal3:1\">Ga 3.1</a>, <a href=\"https://ref.ly/Gal3:3\">3</a>).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+},
+{
+"start_ref": "54006009",
+"start_ref_usfm": "1TI 6:9",
+"end_ref": "54006009",
+"end_ref_usfm": "1TI 6:9"
+},
+{
+"start_ref": "42024025",
+"start_ref_usfm": "LUK 24:25",
+"end_ref": "42024025",
+"end_ref_usfm": "LUK 24:25"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003001",
+"end_ref_usfm": "GAL 3:1"
+},
+{
+"start_ref": "48003003",
+"start_ref_usfm": "GAL 3:3",
+"end_ref": "48003003",
+"end_ref_usfm": "GAL 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#3)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001016-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.16.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#4)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « égarés » désigne ici ceux qui ont été trompés ou se sont éloignés du droit chemin (voir Bailly).  Ici, il pourrait également être traduit « éloigné de la vérité » ou « s’écarter de la vérité ».  À titre d’exemple, c’est le mot qui est utilisé dans les passages suivants ;</p>\n      <ul>\n      <li>Dans la parabole du berger qui part à la recherche de la brebis <em>perdue</em> ou <em>égarée</em> dans <a href=\"https://ref.ly/Matt18:12\">Matthieu 18.12</a>. </li>\n      <li>Dans la réprimande de Jésus aux sadducéens quand il leur dit qu’ils sont <em>dans l’erreur </em>dans <a href=\"https://ref.ly/Matt22:29\">Matthieu 22.29</a>.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+},
+{
+"start_ref": "40018012",
+"start_ref_usfm": "MAT 18:12",
+"end_ref": "40018012",
+"end_ref_usfm": "MAT 18:12"
+},
+{
+"start_ref": "40022029",
+"start_ref_usfm": "MAT 22:29",
+"end_ref": "40022029",
+"end_ref_usfm": "MAT 22:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#5)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « toute espèce » désigne ce qui existe sous diverses formes, qui est varié.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#6)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « plaisirs mauvais » signifie désir, plaisir ou jouissance.  Il est utilisé six fois dans le Nouveau Testament, à chaque fois pour décrire quelque chose de négatif.  Ici, l’adjectif « mauvais » a été ajouté en français parce qu’il est clair qu’il s’agit de plaisirs interdits (alors que le mot « plaisir » n’est pas forcément négatif en français).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-07",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#7)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « méchanceté » désigne ici la disposition au mal ou ce qui est malfaisant, nuisible, néfaste.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-08",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#8)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « envie » désigne un état d’hostilité causé par la jalousie.  Dans certaines langues, l’idée de jalousie ou d’envie est rendue par une expression idiomatique tel que « le cœur brûlant » ou « l’estomac chaud ». Ce mot est également utilisé dans <a href=\"https://ref.ly/1Tim6:4\">1 Timothée 6.4</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+},
+{
+"start_ref": "54006004",
+"start_ref_usfm": "1TI 6:4",
+"end_ref": "54006004",
+"end_ref_usfm": "1TI 6:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-09",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#9)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « haïssable » signifie haïssable, odieux, détestable.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-10",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#10)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « détestions » signifie haïr, détester, avoir horreur de.  Dans certaines langues, l’idée de détester ou de haïr est rendue par une expression idiomatique telle que « tuer quelqu’un dans son cœur » ou « cracher sur quelqu’un dans son cœur ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003003-11",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.3 (#11)",
+"media_type": "Text",
+"index_reference": "56003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, tout le verset 3 correspond à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.4 (#1)",
+"media_type": "Text",
+"index_reference": "56003004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « bonté » désigne la bonté morale.  À titre d’exemple, c’est un mot qui est utilisé plusieurs fois dans les listes de vertus des écrits de Paul (<a href=\"https://ref.ly/Gal5:22\">Ga 5.22</a>, <a href=\"https://ref.ly/Col3:12\">Col 3.12</a>, <a href=\"https://ref.ly/2Cor6:6\">2Co 6.6</a>).  C’est aussi le mot qui fait référence à la bonté de Dieu envers les païens qu’il a greffés sur l’olivier d’Israël dans <a href=\"https://ref.ly/Rom1:22\">Romains 1.22</a> (3 occurrences).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003004",
+"start_ref_usfm": "TIT 3:4",
+"end_ref": "56003004",
+"end_ref_usfm": "TIT 3:4"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005022",
+"end_ref_usfm": "GAL 5:22"
+},
+{
+"start_ref": "51003012",
+"start_ref_usfm": "COL 3:12",
+"end_ref": "51003012",
+"end_ref_usfm": "COL 3:12"
+},
+{
+"start_ref": "47006006",
+"start_ref_usfm": "2CO 6:6",
+"end_ref": "47006006",
+"end_ref_usfm": "2CO 6:6"
+},
+{
+"start_ref": "45001022",
+"start_ref_usfm": "ROM 1:22",
+"end_ref": "45001022",
+"end_ref_usfm": "ROM 1:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003004-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.4 (#2)",
+"media_type": "Text",
+"index_reference": "56003004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « amour envers les hommes » désigne la bienveillance que l’on peut avoir pour les gens en général.  Ce mot n’est utilisé qu’ici et dans <a href=\"https://ref.ly/Acts28:2\">Actes 28.2</a> dans le Nouveau Testament : Luc mentionne la bonté et la <em>bienveillance</em> des gens de l’île de Malte lorsque Paul et ses compagnons, en route pour Rome, font naufrage.  Ce n’est pas le même mot grec que celui qui est ordinairement traduit « amour » (comme par exemple la première vertu dans la liste de <a href=\"https://ref.ly/Gal5:22\">Ga 5.22</a>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003004",
+"start_ref_usfm": "TIT 3:4",
+"end_ref": "56003004",
+"end_ref_usfm": "TIT 3:4"
+},
+{
+"start_ref": "44028002",
+"start_ref_usfm": "ACT 28:2",
+"end_ref": "44028002",
+"end_ref_usfm": "ACT 28:2"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005022",
+"end_ref_usfm": "GAL 5:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003004-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.4 (#3)",
+"media_type": "Text",
+"index_reference": "56003004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56002011-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 2.11</span> (« a été révélée »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003004",
+"start_ref_usfm": "TIT 3:4",
+"end_ref": "56003004",
+"end_ref_usfm": "TIT 3:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.5 (#1)",
+"media_type": "Text",
+"index_reference": "56003005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « justice » décrit ce qui est juste.  Dans ce verset, il s’agit clairement de ce qui est juste devant Dieu, c'est-à-dire les actes, les comportements, les paroles et mêmes les pensées que Dieu approuve.  Ce nom apparaît cinq fois dans les épîtres pastorales, où il désigne le fait d’être juste dans la conduite, les actions, le caractère : <a href=\"https://ref.ly/1Tim6:11\">1 Timothée 6.11</a> ; <a href=\"https://ref.ly/2Tim2:22\">2 Timothée 2.22</a> ; <a href=\"https://ref.ly/2Tim3:16\">3.16</a> ; <a href=\"https://ref.ly/2Tim4:8\">4.8</a> ; <a href=\"https://ref.ly/Titus3:5\">Tite 3.5</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003005",
+"start_ref_usfm": "TIT 3:5",
+"end_ref": "56003005",
+"end_ref_usfm": "TIT 3:5"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006011",
+"end_ref_usfm": "1TI 6:11"
+},
+{
+"start_ref": "55002022",
+"start_ref_usfm": "2TI 2:22",
+"end_ref": "55002022",
+"end_ref_usfm": "2TI 2:22"
+},
+{
+"start_ref": "55003016",
+"start_ref_usfm": "2TI 3:16",
+"end_ref": "55003016",
+"end_ref_usfm": "2TI 3:16"
+},
+{
+"start_ref": "55004008",
+"start_ref_usfm": "2TI 4:8",
+"end_ref": "55004008",
+"end_ref_usfm": "2TI 4:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003005-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.5 (#2)",
+"media_type": "Text",
+"index_reference": "56003005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « miséricorde » désigne le fait d’avoir pitié de quelqu’un dans le besoin et d’agir pour l’aider.  Ce mot est parfois traduit « compassion » (voir Segond 21).  Toutefois, en français, le mot <em>compassion</em> met l’accent sur la réaction, alors que le mot <em>miséricorde</em> sous-entend une action dans le Nouveau Testament.  Ce mot apparaît cinq fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:2\">1 Timothée 1.2</a> ; <a href=\"https://ref.ly/2Tim1:2\">2 Timothée 1.2</a>, <a href=\"https://ref.ly/2Tim1:16\">16</a>, <a href=\"https://ref.ly/2Tim1:18\">18</a> ; <a href=\"https://ref.ly/Titus3:5\">Tite 3.5</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003005",
+"start_ref_usfm": "TIT 3:5",
+"end_ref": "56003005",
+"end_ref_usfm": "TIT 3:5"
+},
+{
+"start_ref": "54001002",
+"start_ref_usfm": "1TI 1:2",
+"end_ref": "54001002",
+"end_ref_usfm": "1TI 1:2"
+},
+{
+"start_ref": "55001002",
+"start_ref_usfm": "2TI 1:2",
+"end_ref": "55001002",
+"end_ref_usfm": "2TI 1:2"
+},
+{
+"start_ref": "55001016",
+"start_ref_usfm": "2TI 1:16",
+"end_ref": "55001016",
+"end_ref_usfm": "2TI 1:16"
+},
+{
+"start_ref": "55001018",
+"start_ref_usfm": "2TI 1:18",
+"end_ref": "55001018",
+"end_ref_usfm": "2TI 1:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003005-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.5 (#3)",
+"media_type": "Text",
+"index_reference": "56003005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grec traduit « bain » désigne un bain, l’eau du bain, l’endroit où l’on se baigne ou l'action de se baigner.  Il existe deux possibilités d’interprétation : (1) il s’agit d’une figure de style décrivant la purification spirituelle ou (2) il s’agit d’une référence au baptême.  La plupart des versions françaises traduisent ce mot « bain » ou « baptême ».  Il est utilisé deux fois dans le Nouveau Testament : <a href=\"https://ref.ly/Titus3:5\">Tite 3.5</a> et Éphésiens <a href=\"https://ref.ly/Titus5:26\">5.26</a> (pour décrire le <em>baptême </em>d’eau par lequel Christ a purifié l’Église).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003005",
+"start_ref_usfm": "TIT 3:5",
+"end_ref": "56003005",
+"end_ref_usfm": "TIT 3:5"
+},
+{
+"start_ref": "56005026",
+"start_ref_usfm": "TIT 5:26",
+"end_ref": "56005026",
+"end_ref_usfm": "TIT 5:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003005-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.5 (#4)",
+"media_type": "Text",
+"index_reference": "56003005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grec traduit « nouvelle naissance » (littéralement : « renaissance ») signifie renaissance, régénération, renouvellement.  Ce mot désigne le fait de connaître un changement complet de mode de vie vers ce qu’il doit être, impliquant un retour à un état ou un lien antérieur.  Il pourrait également être traduit « régénération » en français ; cependant, cette métaphore est importante dans le Nouveau Testament et devrait être conservée autant que possible.  Dans certaines langues, ce concept pourrait être exprimé comme « faire naître à nouveau » ou « avoir une nouvelle vie comme si on était né une seconde fois ».  Ce mot est utilisé deux fois dans le Nouveau Testament : <a href=\"https://ref.ly/Titus3:5\">Tite 3.5</a> et <a href=\"https://ref.ly/Matt19:28\">Matthieu 19.28</a> (pour décrire le <em>renouvellement </em>de toutes choses lorsque le Fils de l’homme sera assis sur le trône de sa gloire).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003005",
+"start_ref_usfm": "TIT 3:5",
+"end_ref": "56003005",
+"end_ref_usfm": "TIT 3:5"
+},
+{
+"start_ref": "40019028",
+"start_ref_usfm": "MAT 19:28",
+"end_ref": "40019028",
+"end_ref_usfm": "MAT 19:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003005-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.5 (#5)",
+"media_type": "Text",
+"index_reference": "56003005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grec traduit « renouvellement » décrit le renouvellement spirituel.  Ce mot est utilisé seulement dans la littérature chrétienne ; il apparaît deux fois dans le Nouveau Testament : <a href=\"https://ref.ly/Titus3:5\">Tite 3.5</a> et <a href=\"https://ref.ly/Rom12:2\">Romains 12.2</a> (pour décrire la <em>transformation</em> qui doit s’opérer dans les pensées ou l’esprit des chrétiens pour discerner la volonté de Dieu).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003005",
+"start_ref_usfm": "TIT 3:5",
+"end_ref": "56003005",
+"end_ref_usfm": "TIT 3:5"
+},
+{
+"start_ref": "45012002",
+"start_ref_usfm": "ROM 12:2",
+"end_ref": "45012002",
+"end_ref_usfm": "ROM 12:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.6 (#1)",
+"media_type": "Text",
+"index_reference": "56003006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « a répandu » signifie verser, répandre. Au sens figuré, il signifie donner en abondance, accorder généreusement.  L’idée de largesse peut être incluse dans le verbe français <em>répandre</em> ; elle fait effectivement partie du sens du verbe grec ici.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003006",
+"start_ref_usfm": "TIT 3:6",
+"end_ref": "56003006",
+"end_ref_usfm": "TIT 3:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003006-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.6 (#2)",
+"media_type": "Text",
+"index_reference": "56003006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adverbe grec traduit « avec abondance » décrit ce qui se trouve en grande quantité, richement ou généreusement, largement.  L’idée d’abondance est mise en relief dans cette phrase, puisque le verbe « a répandu » donne déjà l’image de <em>donner en abondance</em>.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003006",
+"start_ref_usfm": "TIT 3:6",
+"end_ref": "56003006",
+"end_ref_usfm": "TIT 3:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.7 (#1)",
+"media_type": "Text",
+"index_reference": "56003007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « héritiers » désigne la personne qui reçoit quelque chose en don ; c’est la personne qui entre en possession de ce qui est donné.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003007",
+"start_ref_usfm": "TIT 3:7",
+"end_ref": "56003007",
+"end_ref_usfm": "TIT 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003007-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.7 (#2)",
+"media_type": "Text",
+"index_reference": "56003007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <span data-bnType=\"resourceReference\" data-resourceId=\"56001002-01\" data-resourceType=\"AFBRTTranslationNotes\">Voir note correspondante à 1.2.</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003007",
+"start_ref_usfm": "TIT 3:7",
+"end_ref": "56003007",
+"end_ref_usfm": "TIT 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003007-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.7 (#3)",
+"media_type": "Text",
+"index_reference": "56003007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 4 à 7 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003007",
+"start_ref_usfm": "TIT 3:7",
+"end_ref": "56003007",
+"end_ref_usfm": "TIT 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.8 (#1)",
+"media_type": "Text",
+"index_reference": "56003008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « affirmes » signifie affirmer quelque chose avec assurance et conviction (voir Bailly).  Il est utilisé deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:7\">1 Timothée 1.7</a> ; <a href=\"https://ref.ly/Titus3:8\">Tite 3.8</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003008",
+"start_ref_usfm": "TIT 3:8",
+"end_ref": "56003008",
+"end_ref_usfm": "TIT 3:8"
+},
+{
+"start_ref": "54001007",
+"start_ref_usfm": "1TI 1:7",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003008-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.8 (#2)",
+"media_type": "Text",
+"index_reference": "56003008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, le verset 8 correspond à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003008",
+"start_ref_usfm": "TIT 3:8",
+"end_ref": "56003008",
+"end_ref_usfm": "TIT 3:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#1)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « utile » désigne ce qui présente un avantage, un intérêt ou qui peut servir à quelque chose.  Ce mot apparaît trois fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim4:8\">1 Timothée 4.8</a> ; <a href=\"https://ref.ly/2Tim3:16\">2 Timothée 3.16</a> ; <a href=\"https://ref.ly/Titus3:9\">Tite 3.9</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+},
+{
+"start_ref": "54004008",
+"start_ref_usfm": "1TI 4:8",
+"end_ref": "54004008",
+"end_ref_usfm": "1TI 4:8"
+},
+{
+"start_ref": "55003016",
+"start_ref_usfm": "2TI 3:16",
+"end_ref": "55003016",
+"end_ref_usfm": "2TI 3:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#2)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grect traduit « discussions » peut désigner (1) la recherche d’informations, (2) les disputes ou (3) les discussions sur les sujets de dispute (c’est-à-dire les débats), voir Bailly et Lexique Strong.  Ce mot apparaît une fois dans chacune des épîtres pastorales : <a href=\"https://ref.ly/1Tim6:4\">1 Timothée 6.4</a> ; <a href=\"https://ref.ly/2Tim2:23\">2 Timothée 2.23</a> ; <a href=\"https://ref.ly/Titus3:9\">Tite 3.9</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+},
+{
+"start_ref": "54006004",
+"start_ref_usfm": "1TI 6:4",
+"end_ref": "54006004",
+"end_ref_usfm": "1TI 6:4"
+},
+{
+"start_ref": "55002023",
+"start_ref_usfm": "2TI 2:23",
+"end_ref": "55002023",
+"end_ref_usfm": "2TI 2:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#3)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grect traduit « folles » décrit ce qui est fou, insensé, imprudent, stupide.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#4)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grect traduit « généalogies » signifie liste de descendants ou d’ancêtres directs.  Les généalogies étaient un sujet de débat typique pour certains Juifs.  Ce mot apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim1:4\">1 Timothée 1.4</a> ; <a href=\"https://ref.ly/Titus3:9\">Tite 3.9</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+},
+{
+"start_ref": "54001004",
+"start_ref_usfm": "1TI 1:4",
+"end_ref": "54001004",
+"end_ref_usfm": "1TI 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-05",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#5)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grect traduit « disputes » désigne l’expression hostile de différences d’opinion ou de rivalité.  Il apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim6:4\">1 Timothée 6.4</a> ; <a href=\"https://ref.ly/Titus3:9\">Tite 3.9</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+},
+{
+"start_ref": "54006004",
+"start_ref_usfm": "1TI 6:4",
+"end_ref": "54006004",
+"end_ref_usfm": "1TI 6:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-06",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#6)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « querelles » désigne des disputes, des conflits<em>. </em> Ce mot peut également désigner un combat ou une bataille dans un contexte militaire et indique qu’il y a hostilité.  Il apparaît deux fois dans les épîtres pastorales : <a href=\"https://ref.ly/2Tim2:23\">2 Timothée 2.23</a> ; <a href=\"https://ref.ly/Titus3:9\">Tite 3.9</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+},
+{
+"start_ref": "55002023",
+"start_ref_usfm": "2TI 2:23",
+"end_ref": "55002023",
+"end_ref_usfm": "2TI 2:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-07",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#7)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit ici de la loi de Moïse, ou des traditions qui la concernent.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003009-08",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.9 (#8)",
+"media_type": "Text",
+"index_reference": "56003009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adjectif grec traduit « vide de sens » signifie inutile et sans véritable contenu.  Il pourrait être traduit « futile » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003009",
+"start_ref_usfm": "TIT 3:9",
+"end_ref": "56003009",
+"end_ref_usfm": "TIT 3:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.10 (#1)",
+"media_type": "Text",
+"index_reference": "56003010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « éloigne » signifie repousser, éloigner, refuser (voir Bailly)<em>.</em>  Ce verbe apparaît quatre fois dans les épîtres pastorales : <a href=\"https://ref.ly/1Tim4:7\">1 Timothée 4.7</a> ; <a href=\"https://ref.ly/1Tim5:11\">5.11</a> ; <a href=\"https://ref.ly/2Tim2:23\">2 Timothée 2.23</a> ; <a href=\"https://ref.ly/Titus3:10\">Tite 3.10</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003010",
+"start_ref_usfm": "TIT 3:10",
+"end_ref": "56003010",
+"end_ref_usfm": "TIT 3:10"
+},
+{
+"start_ref": "54004007",
+"start_ref_usfm": "1TI 4:7",
+"end_ref": "54004007",
+"end_ref_usfm": "1TI 4:7"
+},
+{
+"start_ref": "54005011",
+"start_ref_usfm": "1TI 5:11",
+"end_ref": "54005011",
+"end_ref_usfm": "1TI 5:11"
+},
+{
+"start_ref": "55002023",
+"start_ref_usfm": "2TI 2:23",
+"end_ref": "55002023",
+"end_ref_usfm": "2TI 2:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003010-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.10 (#2)",
+"media_type": "Text",
+"index_reference": "56003010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom grec traduit « avertissement » désigne un avertissement, une exhortation, une instruction.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003010",
+"start_ref_usfm": "TIT 3:10",
+"end_ref": "56003010",
+"end_ref_usfm": "TIT 3:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.11 (#1)",
+"media_type": "Text",
+"index_reference": "56003011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « perverti » désigne ce qui s’écarte du modèle de bon comportement et qui est donc mauvais.  Ce mot pourrait également être traduit « corrompu » en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003011",
+"start_ref_usfm": "TIT 3:11",
+"end_ref": "56003011",
+"end_ref_usfm": "TIT 3:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003011-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.11 (#2)",
+"media_type": "Text",
+"index_reference": "56003011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Dans le texte grec, les versets 10 et 11 correspondent à une seule phrase.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003011",
+"start_ref_usfm": "TIT 3:11",
+"end_ref": "56003011",
+"end_ref_usfm": "TIT 3:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.13 (#1)",
+"media_type": "Text",
+"index_reference": "56003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’adverbe grec traduit « prends soin » décrit un effort intense pour accomplir un objectif.  Il pourrait également être traduit « faire de son mieux » ou « avec empressement » / « avec soin » en français (voir Bailly).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003013",
+"start_ref_usfm": "TIT 3:13",
+"end_ref": "56003013",
+"end_ref_usfm": "TIT 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003013-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.13 (#2)",
+"media_type": "Text",
+"index_reference": "56003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot grec traduit « docteur de la loi » désigne normalement un spécialiste des lois civiles, comme un avocat.  Il est possible qu’ici, il soit question d’un expert de droit religieux plutôt que de droit civil.  À titre d’exemple, c’est ce mot qui est utilisé dans <a href=\"https://ref.ly/Luke10:25\">Luc 10.25</a> et <a href=\"https://ref.ly/Matt22:35\">Matthieu 22.35</a> pour désigner le <em>docteur de la loi </em>qui teste Jésus.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003013",
+"start_ref_usfm": "TIT 3:13",
+"end_ref": "56003013",
+"end_ref_usfm": "TIT 3:13"
+},
+{
+"start_ref": "42010025",
+"start_ref_usfm": "LUK 10:25",
+"end_ref": "42010025",
+"end_ref_usfm": "LUK 10:25"
+},
+{
+"start_ref": "40022035",
+"start_ref_usfm": "MAT 22:35",
+"end_ref": "40022035",
+"end_ref_usfm": "MAT 22:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003013-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.13 (#3)",
+"media_type": "Text",
+"index_reference": "56003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « ont besoin » décrit le fait de ne pas posséder quelque chose de nécessaire ; il s’agit pour Tite de s’assurer que Zénas et Apollos ne manquent de rien.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003013",
+"start_ref_usfm": "TIT 3:13",
+"end_ref": "56003013",
+"end_ref_usfm": "TIT 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003013-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.13 (#4)",
+"media_type": "Text",
+"index_reference": "56003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe grec traduit « voyage » décrit le fait d’envoyer quelqu’un dans la direction dans laquelle il s’est déplacé (en lui donnant de l’aide).  Il pourrait également être traduit « envoyer sur son chemin », « accompagner » ou « aider sur son chemin » en français. L’idée est de laisser partir ou d’envoyer quelqu’un en lui donnant le nécessaire pour son voyage.  À titre d’exemple, ce mot apparaît dans les passages suivants :</p>\n      <ul>\n      <li>Pour décrire la démarche des anciens d’Éphèse qui <em>accompagnent</em> Paul jusqu’au navire pour lui dire adieu dans <a href=\"https://ref.ly/Acts20:38\">Actes 20.38</a>.</li>\n      <li>Dans les instructions de Paul aux Corinthiens concernant Timothée qu’ils doivent <em>accompagner</em> en paix car il doit retourner auprès de Paul (<a href=\"https://ref.ly/1Cor16:11\">1Co 16.11</a>).</li>\n      <li>Dans les instructions de Jean à Gaïus qui doit pourvoir au voyage des frères (<a href=\"https://ref.ly/3John1:6\">3Jn 6</a>).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003013",
+"start_ref_usfm": "TIT 3:13",
+"end_ref": "56003013",
+"end_ref_usfm": "TIT 3:13"
+},
+{
+"start_ref": "44020038",
+"start_ref_usfm": "ACT 20:38",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+},
+{
+"start_ref": "46016011",
+"start_ref_usfm": "1CO 16:11",
+"end_ref": "46016011",
+"end_ref_usfm": "1CO 16:11"
+},
+{
+"start_ref": "64001006",
+"start_ref_usfm": "3JN 1:6",
+"end_ref": "64001006",
+"end_ref_usfm": "3JN 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "56003014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tite 3.14 (#1)",
+"media_type": "Text",
+"index_reference": "56003014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit là de ce qui est nécessaire, de ce dont on ne peut se passer.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "56003014",
+"start_ref_usfm": "TIT 3:14",
+"end_ref": "56003014",
+"end_ref_usfm": "TIT 3:14"
+}
+],
+"resource": []
+}
+}
+]
