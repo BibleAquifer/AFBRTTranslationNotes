@@ -52,7 +52,7 @@
 "index_reference": "32001002",
 "language": "fra",
 "review_level": "None",
-"content": "<p> L’expression hébraïque traduite « jusqu’à moi » correspond littéralement à « à ma face ». La même expression est utilisée dans <a href=\"https://ref.ly/Jonah1:3\">1.3</a> et <a href=\"https://ref.ly/Jonah1:5\">1.5</a> pour dire que Jonas fuit « loin de la face de l’Éternel ».</p>",
+"content": "<p> L’expression hébraïque traduite « jusqu’à moi » correspond littéralement à « à ma face ». La même expression est utilisée dans <data class=\"bible-ref\" data-start-ref=\"32001003\" data-end-ref=\"32001003\">1.3</data> et <data class=\"bible-ref\" data-start-ref=\"32001005\" data-end-ref=\"32001005\">1.5</data> pour dire que Jonas fuit « loin de la face de l’Éternel ».</p>",
 "associations": {
 "passage": [
 {
@@ -372,7 +372,7 @@
 "index_reference": "32001006",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « mourir » [mourrons] est le même que celui qui est utilisé dans <a href=\"https://ref.ly/Jonah1:14\">1.14</a>, <a href=\"https://ref.ly/Jonah3:9\">3.9</a> et <a href=\"https://ref.ly/Jonah4:10\">4.10</a>.</p>",
+"content": "<p> Le mot hébreu traduit « mourir » [mourrons] est le même que celui qui est utilisé dans <data class=\"bible-ref\" data-start-ref=\"32001014\" data-end-ref=\"32001014\">1.14</data>, <data class=\"bible-ref\" data-start-ref=\"32003009\" data-end-ref=\"32003009\">3.9</data> et <data class=\"bible-ref\" data-start-ref=\"32004010\" data-end-ref=\"32004010\">4.10</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -588,7 +588,7 @@
 "index_reference": "32001014",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « mourir » ici est le même que celui qui est utilisé dans <a href=\"https://ref.ly/Jonah1:6\">1.6</a>, <a href=\"https://ref.ly/Jonah3:9\">3.9</a> et <a href=\"https://ref.ly/Jonah4:10\">4.10</a>.</p>",
+"content": "<p> Le mot hébreu traduit « mourir » ici est le même que celui qui est utilisé dans <data class=\"bible-ref\" data-start-ref=\"32001006\" data-end-ref=\"32001006\">1.6</data>, <data class=\"bible-ref\" data-start-ref=\"32003009\" data-end-ref=\"32003009\">3.9</data> et <data class=\"bible-ref\" data-start-ref=\"32004010\" data-end-ref=\"32004010\">4.10</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -1376,7 +1376,7 @@
 "index_reference": "32003008",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « mauvaise » signifie éthiquement ou moralement mauvais.  C’est un mot de la même famille que le mot traduit « méchanceté » dans <a href=\"https://ref.ly/Jonah1:2\">1.2</a>.  C’est le même mot qui est utilisé au verset 10.</p>",
+"content": "<p> Le mot hébreu traduit « mauvaise » signifie éthiquement ou moralement mauvais.  C’est un mot de la même famille que le mot traduit « méchanceté » dans <data class=\"bible-ref\" data-start-ref=\"32001002\" data-end-ref=\"32001002\">1.2</data>.  C’est le même mot qui est utilisé au verset 10.</p>",
 "associations": {
 "passage": [
 {
@@ -1492,7 +1492,7 @@
 "index_reference": "32003009",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « détruire » [détruits] est le même que celui qui est utilisé dans <a href=\"https://ref.ly/Jonah1:6\">1.6</a>, <a href=\"https://ref.ly/Jonah1:14\">1.14</a> et <a href=\"https://ref.ly/Jonah4:10\">4.10</a>.</p>",
+"content": "<p> Le mot hébreu traduit « détruire » [détruits] est le même que celui qui est utilisé dans <data class=\"bible-ref\" data-start-ref=\"32001006\" data-end-ref=\"32001006\">1.6</data>, <data class=\"bible-ref\" data-start-ref=\"32001014\" data-end-ref=\"32001014\">1.14</data> et <data class=\"bible-ref\" data-start-ref=\"32004010\" data-end-ref=\"32004010\">4.10</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -1576,7 +1576,7 @@
 "index_reference": "32003010",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « mauvaise » signifie éthiquement ou moralement mauvais.  C’est un mot de la même famille que le mot traduit « méchanceté » dans <a href=\"https://ref.ly/Jonah1:2\">1.2</a>.  C’est le même mot qui est utilisé au verset 8.</p>",
+"content": "<p> Le mot hébreu traduit « mauvaise » signifie éthiquement ou moralement mauvais.  C’est un mot de la même famille que le mot traduit « méchanceté » dans <data class=\"bible-ref\" data-start-ref=\"32001002\" data-end-ref=\"32001002\">1.2</data>.  C’est le même mot qui est utilisé au verset 8.</p>",
 "associations": {
 "passage": [
 {
@@ -1692,7 +1692,7 @@
 "index_reference": "32004004",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le verbe hébreu traduit « fais-tu bien » décrit une action juste d’un point de vue éthique et moral.  Ce verbe est de la même famille que le mot traduit « mieux » dans <a href=\"https://ref.ly/Jonah4:3\">4.3</a> et <a href=\"https://ref.ly/Jonah4:8\">4.8</a>.</p>",
+"content": "<p> Le verbe hébreu traduit « fais-tu bien » décrit une action juste d’un point de vue éthique et moral.  Ce verbe est de la même famille que le mot traduit « mieux » dans <data class=\"bible-ref\" data-start-ref=\"32004003\" data-end-ref=\"32004003\">4.3</data> et <data class=\"bible-ref\" data-start-ref=\"32004008\" data-end-ref=\"32004008\">4.8</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -1748,7 +1748,7 @@
 "index_reference": "32004006",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « faire pousser » peut être traduit de diverses façons en français : « faire venir », « faire intervenir », « préparer », « désigner ». L’idée est que Dieu est la cause de la présence et de la croissance de la plante, qui est spécifiquement là pour faire de l’ombre à Jonas (tout comme le poisson pour l’avaler dans <a href=\"https://ref.ly/Jonah2:1\">2.1</a>).</p>",
+"content": "<p> Le mot hébreu traduit « faire pousser » peut être traduit de diverses façons en français : « faire venir », « faire intervenir », « préparer », « désigner ». L’idée est que Dieu est la cause de la présence et de la croissance de la plante, qui est spécifiquement là pour faire de l’ombre à Jonas (tout comme le poisson pour l’avaler dans <data class=\"bible-ref\" data-start-ref=\"32002001\" data-end-ref=\"32002001\">2.1</data>).</p>",
 "associations": {
 "passage": [
 {
@@ -1842,7 +1842,7 @@
 "index_reference": "32004007",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « faire venir » peut être traduit de diverses autres façons en français :  « préparer », « envoyer », « désigner ». L’idée est que Dieu est la cause de la présence du ver, qui est spécifiquement là pour faire mourir la plante (tout comme la plante pour donner de l’ombre à Jonas dans <a href=\"https://ref.ly/Jonah2:6\">2.6</a> et le poisson pour l’avaler dans <a href=\"https://ref.ly/Jonah2:1\">2.1</a>).</p>",
+"content": "<p> Le mot hébreu traduit « faire venir » peut être traduit de diverses autres façons en français :  « préparer », « envoyer », « désigner ». L’idée est que Dieu est la cause de la présence du ver, qui est spécifiquement là pour faire mourir la plante (tout comme la plante pour donner de l’ombre à Jonas dans <data class=\"bible-ref\" data-start-ref=\"32002006\" data-end-ref=\"32002006\">2.6</data> et le poisson pour l’avaler dans <data class=\"bible-ref\" data-start-ref=\"32002001\" data-end-ref=\"32002001\">2.1</data>).</p>",
 "associations": {
 "passage": [
 {
@@ -1986,7 +1986,7 @@
 "index_reference": "32004008",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « s’affaiblit » décrit l’affaiblissement du corps, en général en raison d’un manque de nourriture ou de boisson.  Le mot hébreu traduit « sans force » dans <a href=\"https://ref.ly/Jonah2:8\">2.8</a> et qui peut aussi être traduit par un mot de la même famille que « faiblesse » en français est un mot différent de celui qui est utilisé ici. </p>",
+"content": "<p> Le mot hébreu traduit « s’affaiblit » décrit l’affaiblissement du corps, en général en raison d’un manque de nourriture ou de boisson.  Le mot hébreu traduit « sans force » dans <data class=\"bible-ref\" data-start-ref=\"32002008\" data-end-ref=\"32002008\">2.8</data> et qui peut aussi être traduit par un mot de la même famille que « faiblesse » en français est un mot différent de celui qui est utilisé ici. </p>",
 "associations": {
 "passage": [
 {
@@ -2036,7 +2036,7 @@
 "index_reference": "32004009",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le verbe hébreu traduit « fais-tu bien » décrit une action juste d’un point de vue éthique et moral.  Ce verbe est de la même famille que le mot traduit « mieux » dans <a href=\"https://ref.ly/Jonah4:3\">4.3</a> et <a href=\"https://ref.ly/Jonah4:8\">4.8</a>.</p>",
+"content": "<p> Le verbe hébreu traduit « fais-tu bien » décrit une action juste d’un point de vue éthique et moral.  Ce verbe est de la même famille que le mot traduit « mieux » dans <data class=\"bible-ref\" data-start-ref=\"32004003\" data-end-ref=\"32004003\">4.3</data> et <data class=\"bible-ref\" data-start-ref=\"32004008\" data-end-ref=\"32004008\">4.8</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -2070,7 +2070,7 @@
 "index_reference": "32004009",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le verbe hébreu traduit « fais bien » décrit une action juste d’un point de vue éthique et moral.  Ce verbe est de la même famille que le mot traduit « mieux » dans <a href=\"https://ref.ly/Jonah4:3\">4.3</a> et <a href=\"https://ref.ly/Jonah4:8\">4.8</a>.  C’est le même mot qui est utilisé au verset 9.</p>",
+"content": "<p> Le verbe hébreu traduit « fais bien » décrit une action juste d’un point de vue éthique et moral.  Ce verbe est de la même famille que le mot traduit « mieux » dans <data class=\"bible-ref\" data-start-ref=\"32004003\" data-end-ref=\"32004003\">4.3</data> et <data class=\"bible-ref\" data-start-ref=\"32004008\" data-end-ref=\"32004008\">4.8</data>.  C’est le même mot qui est utilisé au verset 9.</p>",
 "associations": {
 "passage": [
 {
@@ -2126,7 +2126,7 @@
 "index_reference": "32004010",
 "language": "fra",
 "review_level": "None",
-"content": "<p> Le mot hébreu traduit « détruire » [détruit] est le même que celui qui est utilisé dans <a href=\"https://ref.ly/Jonah1:6\">1.6</a>, <a href=\"https://ref.ly/Jonah1:14\">1.14</a> et <a href=\"https://ref.ly/Jonah3:9\">3.9</a>.</p>",
+"content": "<p> Le mot hébreu traduit « détruire » [détruit] est le même que celui qui est utilisé dans <data class=\"bible-ref\" data-start-ref=\"32001006\" data-end-ref=\"32001006\">1.6</data>, <data class=\"bible-ref\" data-start-ref=\"32001014\" data-end-ref=\"32001014\">1.14</data> et <data class=\"bible-ref\" data-start-ref=\"32003009\" data-end-ref=\"32003009\">3.9</data>.</p>",
 "associations": {
 "passage": [
 {
