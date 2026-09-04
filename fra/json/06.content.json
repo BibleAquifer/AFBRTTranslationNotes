@@ -1,0 +1,5268 @@
+[
+{
+"content_id": "06001002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.2 (#1)",
+"media_type": "Text",
+"index_reference": "06001002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Et maintenant, lève-toi, traverse ce Jourdain ».  Le nom « Jourdain » apparaît 70 fois dans Josué.  La formulation « ce Jourdain » est utilisée dans <data class=\"bible-ref\" data-start-ref=\"06001002\" data-end-ref=\"06001002\">1.2</data>, <data class=\"bible-ref\" data-start-ref=\"06001011\" data-end-ref=\"06001011\">11</data> ; <data class=\"bible-ref\" data-start-ref=\"06004022\" data-end-ref=\"06004022\">4.22</data> ; les autres occurrences ont simplement « le Jourdain ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001002",
+"start_ref_usfm": "JOS 1:2",
+"end_ref": "06001002",
+"end_ref_usfm": "JOS 1:2"
+},
+{
+"start_ref": "06001011",
+"start_ref_usfm": "JOS 1:11",
+"end_ref": "06001011",
+"end_ref_usfm": "JOS 1:11"
+},
+{
+"start_ref": "06004022",
+"start_ref_usfm": "JOS 4:22",
+"end_ref": "06004022",
+"end_ref_usfm": "JOS 4:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.3 (#1)",
+"media_type": "Text",
+"index_reference": "06001003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Tout lieu que foulera la plante de vos pieds ».  La plante du pied est la partie du pied qui touche littéralement le sol ou qui est contre la chaussure sous le pied.  Ce mot est utilisé trois fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001003\" data-end-ref=\"06001003\">1.3</data> (au singulier) ; <data class=\"bible-ref\" data-start-ref=\"06003013\" data-end-ref=\"06003013\">3.13</data> et <data class=\"bible-ref\" data-start-ref=\"06004018\" data-end-ref=\"06004018\">4.18</data> (au pluriel).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001003",
+"start_ref_usfm": "JOS 1:3",
+"end_ref": "06001003",
+"end_ref_usfm": "JOS 1:3"
+},
+{
+"start_ref": "06003013",
+"start_ref_usfm": "JOS 3:13",
+"end_ref": "06003013",
+"end_ref_usfm": "JOS 3:13"
+},
+{
+"start_ref": "06004018",
+"start_ref_usfm": "JOS 4:18",
+"end_ref": "06004018",
+"end_ref_usfm": "JOS 4:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.4 (#1)",
+"media_type": "Text",
+"index_reference": "06001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « territoire » (H1366) peut désigner (1) une limite, une frontière, un bord ou (2) un territoire entre des frontières / limites.  Selon les contextes, ce mot est souvent traduit « limite », « frontière », « bord », « étendue » ou « territoire » en français.  Selon l’usage français, le mot « frontière » est plus souvent utilisé pour décrire une limite entre pays, tandis que le mot « limite » convient bien pour décrire les bords d’un territoire au sein d’un même pays.  Le mot « étendue » est souvent utilisé dans les contextes où toute la surface du territoire est en vue (en opposition à ses frontières).  Par exemple, ce mot est traduit « étendue » dans <data class=\"bible-ref\" data-start-ref=\"02007027\" data-end-ref=\"02007027\">Exode 7.27</data>, où il décrit la plaie des grenouilles qui va frapper toute l’Égypte dans son ensemble, mais « frontières » dans <data class=\"bible-ref\" data-start-ref=\"02034024\" data-end-ref=\"02034024\">Exode 34.24</data> où il est question de repousser les limites du pays en rapport à d’autres pays aux alentours.  </p>\n      <p>En conséquence et en règle générale, dans le texte biblique de comparaison Aquifer de Josué, ce mot est traduit « limite » quand il fait référence à des limites à l’intérieur du pays de Canaan, « frontière » lorsqu’il fait référence à une limite entre un pays et un autre (ou au territoire d’un peuple par opposition à un autre) et « territoire » lorsqu’il fait référence à une étendue entre des frontières déterminées.  </p>\n      <p>Ce mot est utilisé 84 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001004\" data-end-ref=\"06001004\">1.4</data> ; <data class=\"bible-ref\" data-start-ref=\"06012002\" data-end-ref=\"06012002\">12.2</data>, <data class=\"bible-ref\" data-start-ref=\"06012004\" data-end-ref=\"06012004\">4</data>, <data class=\"bible-ref\" data-start-ref=\"06012005\" data-end-ref=\"06012005\">5</data> ; <data class=\"bible-ref\" data-start-ref=\"06013003\" data-end-ref=\"06013003\">13.3</data>, <data class=\"bible-ref\" data-start-ref=\"06013004\" data-end-ref=\"06013004\">4</data>, <data class=\"bible-ref\" data-start-ref=\"06013010\" data-end-ref=\"06013010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06013011\" data-end-ref=\"06013011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06013016\" data-end-ref=\"06013016\">16</data>, <data class=\"bible-ref\" data-start-ref=\"06013023\" data-end-ref=\"06013023\">23</data>, <data class=\"bible-ref\" data-start-ref=\"06013025\" data-end-ref=\"06013025\">25</data>, <data class=\"bible-ref\" data-start-ref=\"06013026\" data-end-ref=\"06013026\">26</data>, <data class=\"bible-ref\" data-start-ref=\"06013027\" data-end-ref=\"06013027\">27</data>, <data class=\"bible-ref\" data-start-ref=\"06013030\" data-end-ref=\"06013030\">30</data> ; <data class=\"bible-ref\" data-start-ref=\"06015001\" data-end-ref=\"06015001\">15.1</data>, <data class=\"bible-ref\" data-start-ref=\"06015002\" data-end-ref=\"06015002\">2</data>, <data class=\"bible-ref\" data-start-ref=\"06015004\" data-end-ref=\"06015004\">4</data>, <data class=\"bible-ref\" data-start-ref=\"06015005\" data-end-ref=\"06015005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"06015006\" data-end-ref=\"06015006\">6</data>, <data class=\"bible-ref\" data-start-ref=\"06015007\" data-end-ref=\"06015007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06015008\" data-end-ref=\"06015008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06015009\" data-end-ref=\"06015009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"06015010\" data-end-ref=\"06015010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06015011\" data-end-ref=\"06015011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06015012\" data-end-ref=\"06015012\">12</data>, <data class=\"bible-ref\" data-start-ref=\"06015021\" data-end-ref=\"06015021\">21</data>, <data class=\"bible-ref\" data-start-ref=\"06015047\" data-end-ref=\"06015047\">47</data> ; <data class=\"bible-ref\" data-start-ref=\"06016002\" data-end-ref=\"06016002\">16.2</data>, <data class=\"bible-ref\" data-start-ref=\"06016003\" data-end-ref=\"06016003\">3</data>, <data class=\"bible-ref\" data-start-ref=\"06016005\" data-end-ref=\"06016005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"06016006\" data-end-ref=\"06016006\">6</data>, <data class=\"bible-ref\" data-start-ref=\"06016008\" data-end-ref=\"06016008\">8</data> ; <data class=\"bible-ref\" data-start-ref=\"06017007\" data-end-ref=\"06017007\">17.7</data>, <data class=\"bible-ref\" data-start-ref=\"06017008\" data-end-ref=\"06017008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06017009\" data-end-ref=\"06017009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"06017010\" data-end-ref=\"06017010\">10</data> ; <data class=\"bible-ref\" data-start-ref=\"06018005\" data-end-ref=\"06018005\">18.5</data>, <data class=\"bible-ref\" data-start-ref=\"06018011\" data-end-ref=\"06018011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06018012\" data-end-ref=\"06018012\">12</data>, <data class=\"bible-ref\" data-start-ref=\"06018013\" data-end-ref=\"06018013\">13</data>, <data class=\"bible-ref\" data-start-ref=\"06018014\" data-end-ref=\"06018014\">14</data>, <data class=\"bible-ref\" data-start-ref=\"06018015\" data-end-ref=\"06018015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"06018016\" data-end-ref=\"06018016\">16</data>, <data class=\"bible-ref\" data-start-ref=\"06018019\" data-end-ref=\"06018019\">19</data> ; <data class=\"bible-ref\" data-start-ref=\"06019011\" data-end-ref=\"06019011\">19.11</data>, <data class=\"bible-ref\" data-start-ref=\"06019012\" data-end-ref=\"06019012\">12</data>, <data class=\"bible-ref\" data-start-ref=\"06019014\" data-end-ref=\"06019014\">14</data>, <data class=\"bible-ref\" data-start-ref=\"06019018\" data-end-ref=\"06019018\">18</data>, <data class=\"bible-ref\" data-start-ref=\"06019022\" data-end-ref=\"06019022\">22</data>, <data class=\"bible-ref\" data-start-ref=\"06019025\" data-end-ref=\"06019025\">25</data>, <data class=\"bible-ref\" data-start-ref=\"06019029\" data-end-ref=\"06019029\">29</data>, <data class=\"bible-ref\" data-start-ref=\"06019033\" data-end-ref=\"06019033\">33</data>, <data class=\"bible-ref\" data-start-ref=\"06019034\" data-end-ref=\"06019034\">34</data>, <data class=\"bible-ref\" data-start-ref=\"06019041\" data-end-ref=\"06019041\">41</data>, <data class=\"bible-ref\" data-start-ref=\"06019046\" data-end-ref=\"06019046\">46</data>, <data class=\"bible-ref\" data-start-ref=\"06019047\" data-end-ref=\"06019047\">47</data> ; <data class=\"bible-ref\" data-start-ref=\"06022025\" data-end-ref=\"06022025\">22.25</data> ; <data class=\"bible-ref\" data-start-ref=\"06024030\" data-end-ref=\"06024030\">24.30</data>.  Noter que pour éviter la répétition, ce mot est parfois remplacé par un pronom (par exemple « De Baala, <em>elle</em> tournait à l’ouest » dans <data class=\"bible-ref\" data-start-ref=\"06015010\" data-end-ref=\"06015010\">Josué 15.10</data>). </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001004",
+"start_ref_usfm": "JOS 1:4",
+"end_ref": "06001004",
+"end_ref_usfm": "JOS 1:4"
+},
+{
+"start_ref": "02007027",
+"start_ref_usfm": "EXO 7:27",
+"end_ref": "02007027",
+"end_ref_usfm": "EXO 7:27"
+},
+{
+"start_ref": "02034024",
+"start_ref_usfm": "EXO 34:24",
+"end_ref": "02034024",
+"end_ref_usfm": "EXO 34:24"
+},
+{
+"start_ref": "06012002",
+"start_ref_usfm": "JOS 12:2",
+"end_ref": "06012002",
+"end_ref_usfm": "JOS 12:2"
+},
+{
+"start_ref": "06012004",
+"start_ref_usfm": "JOS 12:4",
+"end_ref": "06012004",
+"end_ref_usfm": "JOS 12:4"
+},
+{
+"start_ref": "06012005",
+"start_ref_usfm": "JOS 12:5",
+"end_ref": "06012005",
+"end_ref_usfm": "JOS 12:5"
+},
+{
+"start_ref": "06013003",
+"start_ref_usfm": "JOS 13:3",
+"end_ref": "06013003",
+"end_ref_usfm": "JOS 13:3"
+},
+{
+"start_ref": "06013004",
+"start_ref_usfm": "JOS 13:4",
+"end_ref": "06013004",
+"end_ref_usfm": "JOS 13:4"
+},
+{
+"start_ref": "06013010",
+"start_ref_usfm": "JOS 13:10",
+"end_ref": "06013010",
+"end_ref_usfm": "JOS 13:10"
+},
+{
+"start_ref": "06013011",
+"start_ref_usfm": "JOS 13:11",
+"end_ref": "06013011",
+"end_ref_usfm": "JOS 13:11"
+},
+{
+"start_ref": "06013016",
+"start_ref_usfm": "JOS 13:16",
+"end_ref": "06013016",
+"end_ref_usfm": "JOS 13:16"
+},
+{
+"start_ref": "06013023",
+"start_ref_usfm": "JOS 13:23",
+"end_ref": "06013023",
+"end_ref_usfm": "JOS 13:23"
+},
+{
+"start_ref": "06013025",
+"start_ref_usfm": "JOS 13:25",
+"end_ref": "06013025",
+"end_ref_usfm": "JOS 13:25"
+},
+{
+"start_ref": "06013026",
+"start_ref_usfm": "JOS 13:26",
+"end_ref": "06013026",
+"end_ref_usfm": "JOS 13:26"
+},
+{
+"start_ref": "06013027",
+"start_ref_usfm": "JOS 13:27",
+"end_ref": "06013027",
+"end_ref_usfm": "JOS 13:27"
+},
+{
+"start_ref": "06013030",
+"start_ref_usfm": "JOS 13:30",
+"end_ref": "06013030",
+"end_ref_usfm": "JOS 13:30"
+},
+{
+"start_ref": "06015001",
+"start_ref_usfm": "JOS 15:1",
+"end_ref": "06015001",
+"end_ref_usfm": "JOS 15:1"
+},
+{
+"start_ref": "06015002",
+"start_ref_usfm": "JOS 15:2",
+"end_ref": "06015002",
+"end_ref_usfm": "JOS 15:2"
+},
+{
+"start_ref": "06015004",
+"start_ref_usfm": "JOS 15:4",
+"end_ref": "06015004",
+"end_ref_usfm": "JOS 15:4"
+},
+{
+"start_ref": "06015005",
+"start_ref_usfm": "JOS 15:5",
+"end_ref": "06015005",
+"end_ref_usfm": "JOS 15:5"
+},
+{
+"start_ref": "06015006",
+"start_ref_usfm": "JOS 15:6",
+"end_ref": "06015006",
+"end_ref_usfm": "JOS 15:6"
+},
+{
+"start_ref": "06015007",
+"start_ref_usfm": "JOS 15:7",
+"end_ref": "06015007",
+"end_ref_usfm": "JOS 15:7"
+},
+{
+"start_ref": "06015008",
+"start_ref_usfm": "JOS 15:8",
+"end_ref": "06015008",
+"end_ref_usfm": "JOS 15:8"
+},
+{
+"start_ref": "06015009",
+"start_ref_usfm": "JOS 15:9",
+"end_ref": "06015009",
+"end_ref_usfm": "JOS 15:9"
+},
+{
+"start_ref": "06015010",
+"start_ref_usfm": "JOS 15:10",
+"end_ref": "06015010",
+"end_ref_usfm": "JOS 15:10"
+},
+{
+"start_ref": "06015011",
+"start_ref_usfm": "JOS 15:11",
+"end_ref": "06015011",
+"end_ref_usfm": "JOS 15:11"
+},
+{
+"start_ref": "06015012",
+"start_ref_usfm": "JOS 15:12",
+"end_ref": "06015012",
+"end_ref_usfm": "JOS 15:12"
+},
+{
+"start_ref": "06015021",
+"start_ref_usfm": "JOS 15:21",
+"end_ref": "06015021",
+"end_ref_usfm": "JOS 15:21"
+},
+{
+"start_ref": "06015047",
+"start_ref_usfm": "JOS 15:47",
+"end_ref": "06015047",
+"end_ref_usfm": "JOS 15:47"
+},
+{
+"start_ref": "06016002",
+"start_ref_usfm": "JOS 16:2",
+"end_ref": "06016002",
+"end_ref_usfm": "JOS 16:2"
+},
+{
+"start_ref": "06016003",
+"start_ref_usfm": "JOS 16:3",
+"end_ref": "06016003",
+"end_ref_usfm": "JOS 16:3"
+},
+{
+"start_ref": "06016005",
+"start_ref_usfm": "JOS 16:5",
+"end_ref": "06016005",
+"end_ref_usfm": "JOS 16:5"
+},
+{
+"start_ref": "06016006",
+"start_ref_usfm": "JOS 16:6",
+"end_ref": "06016006",
+"end_ref_usfm": "JOS 16:6"
+},
+{
+"start_ref": "06016008",
+"start_ref_usfm": "JOS 16:8",
+"end_ref": "06016008",
+"end_ref_usfm": "JOS 16:8"
+},
+{
+"start_ref": "06017007",
+"start_ref_usfm": "JOS 17:7",
+"end_ref": "06017007",
+"end_ref_usfm": "JOS 17:7"
+},
+{
+"start_ref": "06017008",
+"start_ref_usfm": "JOS 17:8",
+"end_ref": "06017008",
+"end_ref_usfm": "JOS 17:8"
+},
+{
+"start_ref": "06017009",
+"start_ref_usfm": "JOS 17:9",
+"end_ref": "06017009",
+"end_ref_usfm": "JOS 17:9"
+},
+{
+"start_ref": "06017010",
+"start_ref_usfm": "JOS 17:10",
+"end_ref": "06017010",
+"end_ref_usfm": "JOS 17:10"
+},
+{
+"start_ref": "06018005",
+"start_ref_usfm": "JOS 18:5",
+"end_ref": "06018005",
+"end_ref_usfm": "JOS 18:5"
+},
+{
+"start_ref": "06018011",
+"start_ref_usfm": "JOS 18:11",
+"end_ref": "06018011",
+"end_ref_usfm": "JOS 18:11"
+},
+{
+"start_ref": "06018012",
+"start_ref_usfm": "JOS 18:12",
+"end_ref": "06018012",
+"end_ref_usfm": "JOS 18:12"
+},
+{
+"start_ref": "06018013",
+"start_ref_usfm": "JOS 18:13",
+"end_ref": "06018013",
+"end_ref_usfm": "JOS 18:13"
+},
+{
+"start_ref": "06018014",
+"start_ref_usfm": "JOS 18:14",
+"end_ref": "06018014",
+"end_ref_usfm": "JOS 18:14"
+},
+{
+"start_ref": "06018015",
+"start_ref_usfm": "JOS 18:15",
+"end_ref": "06018015",
+"end_ref_usfm": "JOS 18:15"
+},
+{
+"start_ref": "06018016",
+"start_ref_usfm": "JOS 18:16",
+"end_ref": "06018016",
+"end_ref_usfm": "JOS 18:16"
+},
+{
+"start_ref": "06018019",
+"start_ref_usfm": "JOS 18:19",
+"end_ref": "06018019",
+"end_ref_usfm": "JOS 18:19"
+},
+{
+"start_ref": "06019011",
+"start_ref_usfm": "JOS 19:11",
+"end_ref": "06019011",
+"end_ref_usfm": "JOS 19:11"
+},
+{
+"start_ref": "06019012",
+"start_ref_usfm": "JOS 19:12",
+"end_ref": "06019012",
+"end_ref_usfm": "JOS 19:12"
+},
+{
+"start_ref": "06019014",
+"start_ref_usfm": "JOS 19:14",
+"end_ref": "06019014",
+"end_ref_usfm": "JOS 19:14"
+},
+{
+"start_ref": "06019018",
+"start_ref_usfm": "JOS 19:18",
+"end_ref": "06019018",
+"end_ref_usfm": "JOS 19:18"
+},
+{
+"start_ref": "06019022",
+"start_ref_usfm": "JOS 19:22",
+"end_ref": "06019022",
+"end_ref_usfm": "JOS 19:22"
+},
+{
+"start_ref": "06019025",
+"start_ref_usfm": "JOS 19:25",
+"end_ref": "06019025",
+"end_ref_usfm": "JOS 19:25"
+},
+{
+"start_ref": "06019029",
+"start_ref_usfm": "JOS 19:29",
+"end_ref": "06019029",
+"end_ref_usfm": "JOS 19:29"
+},
+{
+"start_ref": "06019033",
+"start_ref_usfm": "JOS 19:33",
+"end_ref": "06019033",
+"end_ref_usfm": "JOS 19:33"
+},
+{
+"start_ref": "06019034",
+"start_ref_usfm": "JOS 19:34",
+"end_ref": "06019034",
+"end_ref_usfm": "JOS 19:34"
+},
+{
+"start_ref": "06019041",
+"start_ref_usfm": "JOS 19:41",
+"end_ref": "06019041",
+"end_ref_usfm": "JOS 19:41"
+},
+{
+"start_ref": "06019046",
+"start_ref_usfm": "JOS 19:46",
+"end_ref": "06019046",
+"end_ref_usfm": "JOS 19:46"
+},
+{
+"start_ref": "06019047",
+"start_ref_usfm": "JOS 19:47",
+"end_ref": "06019047",
+"end_ref_usfm": "JOS 19:47"
+},
+{
+"start_ref": "06022025",
+"start_ref_usfm": "JOS 22:25",
+"end_ref": "06022025",
+"end_ref_usfm": "JOS 22:25"
+},
+{
+"start_ref": "06024030",
+"start_ref_usfm": "JOS 24:30",
+"end_ref": "06024030",
+"end_ref_usfm": "JOS 24:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001004-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.4 (#2)",
+"media_type": "Text",
+"index_reference": "06001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « désert » (H4057) désigne une étendue déserte, c’est-à-dire qui n’est pas habitée (souvent parce qu’elle n’est pas adaptée à la vie, en particulier à cause du manque d’eau).  Cette étendue peut être un désert aride ou bien un pâturage ou une prairie.  Ce mot peut toutefois désigner un lieu habité par des tribus nomades ou par des animaux sauvages.  Il est utilisé 15 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001004\" data-end-ref=\"06001004\">1.4</data> ; <data class=\"bible-ref\" data-start-ref=\"06005004\" data-end-ref=\"06005004\">5.4</data>, <data class=\"bible-ref\" data-start-ref=\"06005005\" data-end-ref=\"06005005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"06005006\" data-end-ref=\"06005006\">6</data> ; <data class=\"bible-ref\" data-start-ref=\"06008015\" data-end-ref=\"06008015\">8.15</data>, <data class=\"bible-ref\" data-start-ref=\"06008020\" data-end-ref=\"06008020\">20</data>, <data class=\"bible-ref\" data-start-ref=\"06008024\" data-end-ref=\"06008024\">24</data> ; <data class=\"bible-ref\" data-start-ref=\"06012008\" data-end-ref=\"06012008\">12.8</data> ; <data class=\"bible-ref\" data-start-ref=\"06014010\" data-end-ref=\"06014010\">14.10</data> ; <data class=\"bible-ref\" data-start-ref=\"06015001\" data-end-ref=\"06015001\">15.1</data>, <data class=\"bible-ref\" data-start-ref=\"06015061\" data-end-ref=\"06015061\">61</data> ; <data class=\"bible-ref\" data-start-ref=\"06016001\" data-end-ref=\"06016001\">16.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06018012\" data-end-ref=\"06018012\">18.12</data> ; <data class=\"bible-ref\" data-start-ref=\"06020008\" data-end-ref=\"06020008\">20.8</data> ; <data class=\"bible-ref\" data-start-ref=\"06024007\" data-end-ref=\"06024007\">24.7</data>.  Il est systématiquement traduit « désert » ; dans le texte biblique de comparaison Aquifer de Josué.  Noter qu’un autre mot hébreu signifiant « désert » est également utilisé dans Josué (<data class=\"resource-ref\" data-content-id=\"06010040-01\" data-resource-code=\"AFBRTTranslationNotes\">voir note correspondante à 10.40</data>, « Néguev »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001004",
+"start_ref_usfm": "JOS 1:4",
+"end_ref": "06001004",
+"end_ref_usfm": "JOS 1:4"
+},
+{
+"start_ref": "06005004",
+"start_ref_usfm": "JOS 5:4",
+"end_ref": "06005004",
+"end_ref_usfm": "JOS 5:4"
+},
+{
+"start_ref": "06005005",
+"start_ref_usfm": "JOS 5:5",
+"end_ref": "06005005",
+"end_ref_usfm": "JOS 5:5"
+},
+{
+"start_ref": "06005006",
+"start_ref_usfm": "JOS 5:6",
+"end_ref": "06005006",
+"end_ref_usfm": "JOS 5:6"
+},
+{
+"start_ref": "06008015",
+"start_ref_usfm": "JOS 8:15",
+"end_ref": "06008015",
+"end_ref_usfm": "JOS 8:15"
+},
+{
+"start_ref": "06008020",
+"start_ref_usfm": "JOS 8:20",
+"end_ref": "06008020",
+"end_ref_usfm": "JOS 8:20"
+},
+{
+"start_ref": "06008024",
+"start_ref_usfm": "JOS 8:24",
+"end_ref": "06008024",
+"end_ref_usfm": "JOS 8:24"
+},
+{
+"start_ref": "06012008",
+"start_ref_usfm": "JOS 12:8",
+"end_ref": "06012008",
+"end_ref_usfm": "JOS 12:8"
+},
+{
+"start_ref": "06014010",
+"start_ref_usfm": "JOS 14:10",
+"end_ref": "06014010",
+"end_ref_usfm": "JOS 14:10"
+},
+{
+"start_ref": "06015001",
+"start_ref_usfm": "JOS 15:1",
+"end_ref": "06015001",
+"end_ref_usfm": "JOS 15:1"
+},
+{
+"start_ref": "06015061",
+"start_ref_usfm": "JOS 15:61",
+"end_ref": "06015061",
+"end_ref_usfm": "JOS 15:61"
+},
+{
+"start_ref": "06016001",
+"start_ref_usfm": "JOS 16:1",
+"end_ref": "06016001",
+"end_ref_usfm": "JOS 16:1"
+},
+{
+"start_ref": "06018012",
+"start_ref_usfm": "JOS 18:12",
+"end_ref": "06018012",
+"end_ref_usfm": "JOS 18:12"
+},
+{
+"start_ref": "06020008",
+"start_ref_usfm": "JOS 20:8",
+"end_ref": "06020008",
+"end_ref_usfm": "JOS 20:8"
+},
+{
+"start_ref": "06024007",
+"start_ref_usfm": "JOS 24:7",
+"end_ref": "06024007",
+"end_ref_usfm": "JOS 24:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001004-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.4 (#3)",
+"media_type": "Text",
+"index_reference": "06001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le « grand fleuve » est l’Euphrate ; il s’agit d’un seul fleuve et non de deux.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001004",
+"start_ref_usfm": "JOS 1:4",
+"end_ref": "06001004",
+"end_ref_usfm": "JOS 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001004-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.4 (#4)",
+"media_type": "Text",
+"index_reference": "06001004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire la mer de l’ouest : la mer Méditerranée.  Chaque langue a sa propre façon de désigner les points cardinaux.  L’est et l’ouest sont souvent liés au soleil levant et au soleil couchant (même si dans certaines langues, une caractéristique géographique locale sert de marqueur de direction ; par exemple : montagne particulière, océan, rivière).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001004",
+"start_ref_usfm": "JOS 1:4",
+"end_ref": "06001004",
+"end_ref_usfm": "JOS 1:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.5 (#1)",
+"media_type": "Text",
+"index_reference": "06001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Nul homme ne tiendra devant toi », c’est-à-dire qu’aucun homme ne sera capable de résister à Josué ou de s’opposer à lui pendant toute la durée de sa vie.  Les versions et paraphrases françaises traduisent avec le verbe pouvoir ou avec le futur : « Nul ne pourra te résister tout au long de ta vie » (Traduction officielle liturgique) ou « Personne ne tiendra devant toi » (Darby).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001005",
+"start_ref_usfm": "JOS 1:5",
+"end_ref": "06001005",
+"end_ref_usfm": "JOS 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001005-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.5 (#2)",
+"media_type": "Text",
+"index_reference": "06001005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « laisserai » (H7503) peut signifier négliger, laisser sans force, quitter.  Son sens est moins fort que celui du verbe traduit « abandonnerai » (H859).  L’utilisation des deux verbes ensemble exprime une forte assurance que Dieu sera aux côtés de Josué sans jamais l’abandonner.  Les versions et paraphrases françaises traduisent en général le premier verbe « délaisser » ou « laisser » et le second verbe « abandonner ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001005",
+"start_ref_usfm": "JOS 1:5",
+"end_ref": "06001005",
+"end_ref_usfm": "JOS 1:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.7 (#1)",
+"media_type": "Text",
+"index_reference": "06001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « pour garder et pour faire selon toute la loi ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001007-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.7 (#2)",
+"media_type": "Text",
+"index_reference": "06001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « a prescrite » (H6680) peut signifier ordonner, commander, établir, prescrire.  Ce verbe est utilisé 43 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001007\" data-end-ref=\"06001007\">1.7</data>, <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"06001010\" data-end-ref=\"06001010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06001011\" data-end-ref=\"06001011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06001013\" data-end-ref=\"06001013\">13</data>, <data class=\"bible-ref\" data-start-ref=\"06001016\" data-end-ref=\"06001016\">16</data>, <data class=\"bible-ref\" data-start-ref=\"06001018\" data-end-ref=\"06001018\">18</data> ; <data class=\"bible-ref\" data-start-ref=\"06003003\" data-end-ref=\"06003003\">3.3</data>, <data class=\"bible-ref\" data-start-ref=\"06003008\" data-end-ref=\"06003008\">8</data> ; <data class=\"bible-ref\" data-start-ref=\"06004003\" data-end-ref=\"06004003\">4.3</data>, <data class=\"bible-ref\" data-start-ref=\"06004008\" data-end-ref=\"06004008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06004010\" data-end-ref=\"06004010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06004016\" data-end-ref=\"06004016\">16</data>, <data class=\"bible-ref\" data-start-ref=\"06004017\" data-end-ref=\"06004017\">17</data> ; <data class=\"bible-ref\" data-start-ref=\"06006010\" data-end-ref=\"06006010\">6.10</data> ; <data class=\"bible-ref\" data-start-ref=\"06007011\" data-end-ref=\"06007011\">7.11</data> ; <data class=\"bible-ref\" data-start-ref=\"06008004\" data-end-ref=\"06008004\">8.4</data>, <data class=\"bible-ref\" data-start-ref=\"06008008\" data-end-ref=\"06008008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06008027\" data-end-ref=\"06008027\">27</data>, <data class=\"bible-ref\" data-start-ref=\"06008029\" data-end-ref=\"06008029\">29</data>, <data class=\"bible-ref\" data-start-ref=\"06008031\" data-end-ref=\"06008031\">31</data>, <data class=\"bible-ref\" data-start-ref=\"06008033\" data-end-ref=\"06008033\">33</data>, <data class=\"bible-ref\" data-start-ref=\"06008035\" data-end-ref=\"06008035\">35</data> ; <data class=\"bible-ref\" data-start-ref=\"06009024\" data-end-ref=\"06009024\">9.24</data> ; <data class=\"bible-ref\" data-start-ref=\"06010027\" data-end-ref=\"06010027\">10.27</data>, <data class=\"bible-ref\" data-start-ref=\"06010040\" data-end-ref=\"06010040\">40</data> ; <data class=\"bible-ref\" data-start-ref=\"06011012\" data-end-ref=\"06011012\">11.12</data>, <data class=\"bible-ref\" data-start-ref=\"06011015\" data-end-ref=\"06011015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"06011020\" data-end-ref=\"06011020\">20</data> ; <data class=\"bible-ref\" data-start-ref=\"06013006\" data-end-ref=\"06013006\">13.6</data> ; <data class=\"bible-ref\" data-start-ref=\"06014002\" data-end-ref=\"06014002\">14.2</data>, <data class=\"bible-ref\" data-start-ref=\"06014005\" data-end-ref=\"06014005\">5</data> ; <data class=\"bible-ref\" data-start-ref=\"06017004\" data-end-ref=\"06017004\">17.4</data> ; <data class=\"bible-ref\" data-start-ref=\"06018008\" data-end-ref=\"06018008\">18.8</data> ; <data class=\"bible-ref\" data-start-ref=\"06021002\" data-end-ref=\"06021002\">21.2</data> ; <data class=\"bible-ref\" data-start-ref=\"06022002\" data-end-ref=\"06022002\">22.2</data>, <data class=\"bible-ref\" data-start-ref=\"06022005\" data-end-ref=\"06022005\">5</data> ; <data class=\"bible-ref\" data-start-ref=\"06023016\" data-end-ref=\"06023016\">23.16</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+},
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+},
+{
+"start_ref": "06001010",
+"start_ref_usfm": "JOS 1:10",
+"end_ref": "06001010",
+"end_ref_usfm": "JOS 1:10"
+},
+{
+"start_ref": "06001011",
+"start_ref_usfm": "JOS 1:11",
+"end_ref": "06001011",
+"end_ref_usfm": "JOS 1:11"
+},
+{
+"start_ref": "06001013",
+"start_ref_usfm": "JOS 1:13",
+"end_ref": "06001013",
+"end_ref_usfm": "JOS 1:13"
+},
+{
+"start_ref": "06001016",
+"start_ref_usfm": "JOS 1:16",
+"end_ref": "06001016",
+"end_ref_usfm": "JOS 1:16"
+},
+{
+"start_ref": "06001018",
+"start_ref_usfm": "JOS 1:18",
+"end_ref": "06001018",
+"end_ref_usfm": "JOS 1:18"
+},
+{
+"start_ref": "06003003",
+"start_ref_usfm": "JOS 3:3",
+"end_ref": "06003003",
+"end_ref_usfm": "JOS 3:3"
+},
+{
+"start_ref": "06003008",
+"start_ref_usfm": "JOS 3:8",
+"end_ref": "06003008",
+"end_ref_usfm": "JOS 3:8"
+},
+{
+"start_ref": "06004003",
+"start_ref_usfm": "JOS 4:3",
+"end_ref": "06004003",
+"end_ref_usfm": "JOS 4:3"
+},
+{
+"start_ref": "06004008",
+"start_ref_usfm": "JOS 4:8",
+"end_ref": "06004008",
+"end_ref_usfm": "JOS 4:8"
+},
+{
+"start_ref": "06004010",
+"start_ref_usfm": "JOS 4:10",
+"end_ref": "06004010",
+"end_ref_usfm": "JOS 4:10"
+},
+{
+"start_ref": "06004016",
+"start_ref_usfm": "JOS 4:16",
+"end_ref": "06004016",
+"end_ref_usfm": "JOS 4:16"
+},
+{
+"start_ref": "06004017",
+"start_ref_usfm": "JOS 4:17",
+"end_ref": "06004017",
+"end_ref_usfm": "JOS 4:17"
+},
+{
+"start_ref": "06006010",
+"start_ref_usfm": "JOS 6:10",
+"end_ref": "06006010",
+"end_ref_usfm": "JOS 6:10"
+},
+{
+"start_ref": "06007011",
+"start_ref_usfm": "JOS 7:11",
+"end_ref": "06007011",
+"end_ref_usfm": "JOS 7:11"
+},
+{
+"start_ref": "06008004",
+"start_ref_usfm": "JOS 8:4",
+"end_ref": "06008004",
+"end_ref_usfm": "JOS 8:4"
+},
+{
+"start_ref": "06008008",
+"start_ref_usfm": "JOS 8:8",
+"end_ref": "06008008",
+"end_ref_usfm": "JOS 8:8"
+},
+{
+"start_ref": "06008027",
+"start_ref_usfm": "JOS 8:27",
+"end_ref": "06008027",
+"end_ref_usfm": "JOS 8:27"
+},
+{
+"start_ref": "06008029",
+"start_ref_usfm": "JOS 8:29",
+"end_ref": "06008029",
+"end_ref_usfm": "JOS 8:29"
+},
+{
+"start_ref": "06008031",
+"start_ref_usfm": "JOS 8:31",
+"end_ref": "06008031",
+"end_ref_usfm": "JOS 8:31"
+},
+{
+"start_ref": "06008033",
+"start_ref_usfm": "JOS 8:33",
+"end_ref": "06008033",
+"end_ref_usfm": "JOS 8:33"
+},
+{
+"start_ref": "06008035",
+"start_ref_usfm": "JOS 8:35",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "06009024",
+"start_ref_usfm": "JOS 9:24",
+"end_ref": "06009024",
+"end_ref_usfm": "JOS 9:24"
+},
+{
+"start_ref": "06010027",
+"start_ref_usfm": "JOS 10:27",
+"end_ref": "06010027",
+"end_ref_usfm": "JOS 10:27"
+},
+{
+"start_ref": "06010040",
+"start_ref_usfm": "JOS 10:40",
+"end_ref": "06010040",
+"end_ref_usfm": "JOS 10:40"
+},
+{
+"start_ref": "06011012",
+"start_ref_usfm": "JOS 11:12",
+"end_ref": "06011012",
+"end_ref_usfm": "JOS 11:12"
+},
+{
+"start_ref": "06011015",
+"start_ref_usfm": "JOS 11:15",
+"end_ref": "06011015",
+"end_ref_usfm": "JOS 11:15"
+},
+{
+"start_ref": "06011020",
+"start_ref_usfm": "JOS 11:20",
+"end_ref": "06011020",
+"end_ref_usfm": "JOS 11:20"
+},
+{
+"start_ref": "06013006",
+"start_ref_usfm": "JOS 13:6",
+"end_ref": "06013006",
+"end_ref_usfm": "JOS 13:6"
+},
+{
+"start_ref": "06014002",
+"start_ref_usfm": "JOS 14:2",
+"end_ref": "06014002",
+"end_ref_usfm": "JOS 14:2"
+},
+{
+"start_ref": "06014005",
+"start_ref_usfm": "JOS 14:5",
+"end_ref": "06014005",
+"end_ref_usfm": "JOS 14:5"
+},
+{
+"start_ref": "06017004",
+"start_ref_usfm": "JOS 17:4",
+"end_ref": "06017004",
+"end_ref_usfm": "JOS 17:4"
+},
+{
+"start_ref": "06018008",
+"start_ref_usfm": "JOS 18:8",
+"end_ref": "06018008",
+"end_ref_usfm": "JOS 18:8"
+},
+{
+"start_ref": "06021002",
+"start_ref_usfm": "JOS 21:2",
+"end_ref": "06021002",
+"end_ref_usfm": "JOS 21:2"
+},
+{
+"start_ref": "06022002",
+"start_ref_usfm": "JOS 22:2",
+"end_ref": "06022002",
+"end_ref_usfm": "JOS 22:2"
+},
+{
+"start_ref": "06022005",
+"start_ref_usfm": "JOS 22:5",
+"end_ref": "06022005",
+"end_ref_usfm": "JOS 22:5"
+},
+{
+"start_ref": "06023016",
+"start_ref_usfm": "JOS 23:16",
+"end_ref": "06023016",
+"end_ref_usfm": "JOS 23:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001007-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.7 (#3)",
+"media_type": "Text",
+"index_reference": "06001007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « afin de réussir partout où tu iras / marcheras ».  En français, on parle de réussir dans ses entreprises, dans ce que l’on fait.  Le texte hébraïque parle de « réussir où l’on marche » ou « d’avoir du succès dans son chemin / sa voie » (voir versets 8 et 9).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.8 (#1)",
+"media_type": "Text",
+"index_reference": "06001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La formulation de cette phrase correspond littéralement au texte hébreu.  L’image hébraïque qu’un livre ne s’éloigne pas de la <em>bouche</em> de quelqu’un n’est pas intuitive en français.  Dans une culture littéraire comme le français, on pense à lire un livre avec ses yeux et non avec sa bouche.  Ainsi, la Segond 21 et la Nouvelle français courant choisissent de traduire « ne s’éloigne pas de toi », faisant référence à toute la personne plutôt qu’à la bouche ou aux lèvres comme les autres versions et paraphrases françaises qui restent plus proches du texte original.  Dans la culture hébraïque plus orale de l’époque de Josué, même lorsqu’il s’agit d’un écrit (« pour agir fidèlement selon tout ce qui y est écrit »), il est naturel de penser à « dire »<em> </em>ou à « répéter » les paroles d’un livre.  Les instructions de l’Éternel à Josué concernant la loi de Moïse sont de l’avoir aux lèvres continuellement et de la méditer sans cesse (<data class=\"resource-ref\" data-content-id=\"06001008-02\" data-resource-code=\"AFBRTTranslationNotes\">voir note suivante</data> concernant la signification du verbe « méditer »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001008",
+"start_ref_usfm": "JOS 1:8",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001008-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.8 (#2)",
+"media_type": "Text",
+"index_reference": "06001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « médite » (H1897) peut signifier soupirer, gémir, murmurer ou parler.  Le sens général est celui de produire un son (avec la bouche, les lèvres, la langue, etc.).  Ce verbe peut même être utilisé d’animaux (voir par exemple le lionceau qui <em>rugit</em> sur sa proie dans Ésaïe <data class=\"bible-ref\" data-start-ref=\"06031004\" data-end-ref=\"06031004\">31.4</data>).  Il peut également décrire l’action de se parler doucement à soi-même ou de « penser tout haut », même s’il s’agit ici d’une action plus intentionnelle que de « penser à haute voix ».  </p>\n      <p>Noter qu’en français, le verbe « méditer » signifie mener une réflexion profonde ou faire des projets spécifiques, alors qu’en hébreu, même si la réflexion fait sans aucun doute partie de l’action, il s’agit également de produire un son ou de parler.  C’est pourquoi les versions et paraphrases françaises suivantes adaptent leur traduction dans ce sens : </p>\n      <ul>\n      <li>« Ce livre de la Loi ne s’éloignera pas de ta bouche ; tu le <em>murmureras</em> jour et nuit » (Traduction œcuménique,</li>\n      <li>« Ce livre de la loi ne quittera pas tes lèvres ; tu le <em>murmureras</em> jour et nuit » (Traduction officielle liturgique),</li>\n      <li>« Répète sans cesse les enseignements du livre de la loi, <em>redis</em>-les <em>dans ton cœur</em> jour et nuit » (Parole de vie).</li>\n      </ul>\n      <p>Noter également que la Nouvelle Bible Segond traduit : « relire » (étant donné que la première partie de la phrase parle de la bouche, « relire » pourrait être compris comme <em>relire à haute voix</em>) :</p>\n      <ul>\n      <li>« Ce livre de la loi ne s’éloignera pas de ta bouche ; tu le reliras jour et nuit ».</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001008",
+"start_ref_usfm": "JOS 1:8",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+},
+{
+"start_ref": "06031004",
+"start_ref_usfm": "JOS 31:4",
+"end_ref": "06031004",
+"end_ref_usfm": "JOS 31:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001008-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.8 (#3)",
+"media_type": "Text",
+"index_reference": "06001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’expression « jour et nuit » est une figure de style qui signifie plus généralement « en tout temps », « sans cesse », « toujours » ou « tout le temps », même s’il ne s’agit pas littéralement de toute la journée et de toute la nuit.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001008",
+"start_ref_usfm": "JOS 1:8",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001008-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.8 (#4)",
+"media_type": "Text",
+"index_reference": "06001008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « C’est alors que tu auras du succès [dans] ta voie, c’est alors que tu réussiras ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001008",
+"start_ref_usfm": "JOS 1:8",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.9 (#1)",
+"media_type": "Text",
+"index_reference": "06001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « sois… épouvanté » n’est utilisé qu’ici dans Josué.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001009-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.9 (#2)",
+"media_type": "Text",
+"index_reference": "06001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « sois… terrifié » est utilisé trois fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">1.9</data> ; <data class=\"bible-ref\" data-start-ref=\"06008001\" data-end-ref=\"06008001\">8.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06010025\" data-end-ref=\"06010025\">10.25</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+},
+{
+"start_ref": "06008001",
+"start_ref_usfm": "JOS 8:1",
+"end_ref": "06008001",
+"end_ref_usfm": "JOS 8:1"
+},
+{
+"start_ref": "06010025",
+"start_ref_usfm": "JOS 10:25",
+"end_ref": "06010025",
+"end_ref_usfm": "JOS 10:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001009-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.9 (#3)",
+"media_type": "Text",
+"index_reference": "06001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « car l’Éternel ton Dieu [est] avec toi partout où tu iras / marcheras ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001009-04",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.9 (#4)",
+"media_type": "Text",
+"index_reference": "06001009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter les nombreux parallèles dans ce passage. Par exemple :</p>\n      <ul>\n      <li>« je ne te laisserai pas » - « je ne t’abandonnerai pas » </li>\n      <li>« fortifie-toi » - « prends courage » (x2)</li>\n      <li>« fortifie-toi » - « sois courageux »</li>\n      <li>« en agissant fidèlement » - « agir fidèlement »</li>\n      <li>« tu réussiras dans tout ce que tu feras » - « tu auras du succès dans tes entreprises » - « tu réussiras »</li>\n      <li>« ne s’éloigne pas de ta bouche » - « médite-le jour et nuit »</li>\n      <li>« ne sois pas épouvanté » - « ne sois pas terrifié »</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.11 (#1)",
+"media_type": "Text",
+"index_reference": "06001011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Traversez / Allez au milieu du camp ».  Le sens est que les chefs doivent s’assurer que tous les gens dans le camp soient informés du commandement qui suit.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001011",
+"start_ref_usfm": "JOS 1:11",
+"end_ref": "06001011",
+"end_ref_usfm": "JOS 1:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.14 (#1)",
+"media_type": "Text",
+"index_reference": "06001014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire les hommes de guerre. Il s’agit d’une expression qui décrit des hommes de guerre de valeur (peut-être des guerriers d’élite) et non simplement des gens qui sont armés (voir <data class=\"bible-ref\" data-start-ref=\"06010007\" data-end-ref=\"06010007\">10.7</data>, où la distinction est claire).  Cette expression est utilisée quatre fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001014\" data-end-ref=\"06001014\">1.14</data> ; <data class=\"bible-ref\" data-start-ref=\"06006002\" data-end-ref=\"06006002\">6.2</data> ; <data class=\"bible-ref\" data-start-ref=\"06008003\" data-end-ref=\"06008003\">8.3</data> ; <data class=\"bible-ref\" data-start-ref=\"06010007\" data-end-ref=\"06010007\">10.7</data>.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001014",
+"start_ref_usfm": "JOS 1:14",
+"end_ref": "06001014",
+"end_ref_usfm": "JOS 1:14"
+},
+{
+"start_ref": "06010007",
+"start_ref_usfm": "JOS 10:7",
+"end_ref": "06010007",
+"end_ref_usfm": "JOS 10:7"
+},
+{
+"start_ref": "06006002",
+"start_ref_usfm": "JOS 6:2",
+"end_ref": "06006002",
+"end_ref_usfm": "JOS 6:2"
+},
+{
+"start_ref": "06008003",
+"start_ref_usfm": "JOS 8:3",
+"end_ref": "06008003",
+"end_ref_usfm": "JOS 8:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06001015-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 1.15 (#1)",
+"media_type": "Text",
+"index_reference": "06001015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « au levant du soleil ».  Cette expression désigne l’est (ou l’orient) et est utilisée six fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06001015\" data-end-ref=\"06001015\">1.15</data> ; <data class=\"bible-ref\" data-start-ref=\"06012001\" data-end-ref=\"06012001\">12.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06013005\" data-end-ref=\"06013005\">13.5</data> ; <data class=\"bible-ref\" data-start-ref=\"06019012\" data-end-ref=\"06019012\">19.12</data> ; <data class=\"bible-ref\" data-start-ref=\"06019027\" data-end-ref=\"06019027\">19.27</data>, 34.  Le mot « levant » est utilisé seul pour désigner l’est (ou l’orient) 17 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06004019\" data-end-ref=\"06004019\">4.19</data> ; <data class=\"bible-ref\" data-start-ref=\"06011003\" data-end-ref=\"06011003\">11.3</data>, <data class=\"bible-ref\" data-start-ref=\"06011008\" data-end-ref=\"06011008\">8</data> ; <data class=\"bible-ref\" data-start-ref=\"06012001\" data-end-ref=\"06012001\">12.1</data>, <data class=\"bible-ref\" data-start-ref=\"06012003\" data-end-ref=\"06012003\">3</data> (2x) ; <data class=\"bible-ref\" data-start-ref=\"06013008\" data-end-ref=\"06013008\">13.8</data>, <data class=\"bible-ref\" data-start-ref=\"06013027\" data-end-ref=\"06013027\">27</data>, <data class=\"bible-ref\" data-start-ref=\"06013032\" data-end-ref=\"06013032\">32</data> ; <data class=\"bible-ref\" data-start-ref=\"06016001\" data-end-ref=\"06016001\">16.1</data>, <data class=\"bible-ref\" data-start-ref=\"06016005\" data-end-ref=\"06016005\">5</data> ; <data class=\"bible-ref\" data-start-ref=\"06016006\" data-end-ref=\"06016006\">16.6</data> (x2) ; <data class=\"bible-ref\" data-start-ref=\"06017010\" data-end-ref=\"06017010\">17.10</data> ; <data class=\"bible-ref\" data-start-ref=\"06018007\" data-end-ref=\"06018007\">18.7</data> ; <data class=\"bible-ref\" data-start-ref=\"06019013\" data-end-ref=\"06019013\">19.13</data> ; <data class=\"bible-ref\" data-start-ref=\"06020008\" data-end-ref=\"06020008\">20.8</data>.  Voir aussi note à « soleil couchant » au verset 4.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06001015",
+"start_ref_usfm": "JOS 1:15",
+"end_ref": "06001015",
+"end_ref_usfm": "JOS 1:15"
+},
+{
+"start_ref": "06012001",
+"start_ref_usfm": "JOS 12:1",
+"end_ref": "06012001",
+"end_ref_usfm": "JOS 12:1"
+},
+{
+"start_ref": "06013005",
+"start_ref_usfm": "JOS 13:5",
+"end_ref": "06013005",
+"end_ref_usfm": "JOS 13:5"
+},
+{
+"start_ref": "06019012",
+"start_ref_usfm": "JOS 19:12",
+"end_ref": "06019012",
+"end_ref_usfm": "JOS 19:12"
+},
+{
+"start_ref": "06019027",
+"start_ref_usfm": "JOS 19:27",
+"end_ref": "06019027",
+"end_ref_usfm": "JOS 19:27"
+},
+{
+"start_ref": "06004019",
+"start_ref_usfm": "JOS 4:19",
+"end_ref": "06004019",
+"end_ref_usfm": "JOS 4:19"
+},
+{
+"start_ref": "06011003",
+"start_ref_usfm": "JOS 11:3",
+"end_ref": "06011003",
+"end_ref_usfm": "JOS 11:3"
+},
+{
+"start_ref": "06011008",
+"start_ref_usfm": "JOS 11:8",
+"end_ref": "06011008",
+"end_ref_usfm": "JOS 11:8"
+},
+{
+"start_ref": "06012003",
+"start_ref_usfm": "JOS 12:3",
+"end_ref": "06012003",
+"end_ref_usfm": "JOS 12:3"
+},
+{
+"start_ref": "06013008",
+"start_ref_usfm": "JOS 13:8",
+"end_ref": "06013008",
+"end_ref_usfm": "JOS 13:8"
+},
+{
+"start_ref": "06013027",
+"start_ref_usfm": "JOS 13:27",
+"end_ref": "06013027",
+"end_ref_usfm": "JOS 13:27"
+},
+{
+"start_ref": "06013032",
+"start_ref_usfm": "JOS 13:32",
+"end_ref": "06013032",
+"end_ref_usfm": "JOS 13:32"
+},
+{
+"start_ref": "06016001",
+"start_ref_usfm": "JOS 16:1",
+"end_ref": "06016001",
+"end_ref_usfm": "JOS 16:1"
+},
+{
+"start_ref": "06016005",
+"start_ref_usfm": "JOS 16:5",
+"end_ref": "06016005",
+"end_ref_usfm": "JOS 16:5"
+},
+{
+"start_ref": "06016006",
+"start_ref_usfm": "JOS 16:6",
+"end_ref": "06016006",
+"end_ref_usfm": "JOS 16:6"
+},
+{
+"start_ref": "06017010",
+"start_ref_usfm": "JOS 17:10",
+"end_ref": "06017010",
+"end_ref_usfm": "JOS 17:10"
+},
+{
+"start_ref": "06018007",
+"start_ref_usfm": "JOS 18:7",
+"end_ref": "06018007",
+"end_ref_usfm": "JOS 18:7"
+},
+{
+"start_ref": "06019013",
+"start_ref_usfm": "JOS 19:13",
+"end_ref": "06019013",
+"end_ref_usfm": "JOS 19:13"
+},
+{
+"start_ref": "06020008",
+"start_ref_usfm": "JOS 20:8",
+"end_ref": "06020008",
+"end_ref_usfm": "JOS 20:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.6 (#1)",
+"media_type": "Text",
+"index_reference": "06002006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Les tiges de lin proviennent d’une plante utilisée pour faire du tissu.  Ces tiges sont assez grandes (de 60 à 120 centimètres de hauteur).  Si elles venaient d’être récoltées (ce qui est probable étant donné la date donnée dans <data class=\"bible-ref\" data-start-ref=\"06004019\" data-end-ref=\"06004019\">4.19</data>), il est possible qu’elles aient été étalées sur le toit pour sécher.  Sinon, elles auraient sûrement été rassemblées et entassées en gerbes.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002006",
+"start_ref_usfm": "JOS 2:6",
+"end_ref": "06002006",
+"end_ref_usfm": "JOS 2:6"
+},
+{
+"start_ref": "06004019",
+"start_ref_usfm": "JOS 4:19",
+"end_ref": "06004019",
+"end_ref_usfm": "JOS 4:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.7 (#1)",
+"media_type": "Text",
+"index_reference": "06002007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Les gens de Jéricho envoyés par le roi poursuivent les deux espions israélites.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002007",
+"start_ref_usfm": "JOS 2:7",
+"end_ref": "06002007",
+"end_ref_usfm": "JOS 2:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002007-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.7 (#2)",
+"media_type": "Text",
+"index_reference": "06002007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Un gué est un endroit dans un cours d’eau où il est possible de le traverser à pied.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002007",
+"start_ref_usfm": "JOS 2:7",
+"end_ref": "06002007",
+"end_ref_usfm": "JOS 2:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002007-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.7 (#3)",
+"media_type": "Text",
+"index_reference": "06002007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « et ils fermèrent la porte après que ceux qui les poursuivaient furent sortis ». </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002007",
+"start_ref_usfm": "JOS 2:7",
+"end_ref": "06002007",
+"end_ref_usfm": "JOS 2:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.10 (#1)",
+"media_type": "Text",
+"index_reference": "06002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « a asséché ».  Le verbe hébreu traduit « a mis à sec » (H3001) signifie sécher, mettre à sec, assécher, dessécher, tarir ou même flétrir (pour une plante), c’est-à-dire faire perdre le liquide ou l’humidité de quelque chose, que la cause soit interne ou externe.  Ce verbe apparaît 6 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06002010\" data-end-ref=\"06002010\">2.10</data> ; <data class=\"bible-ref\" data-start-ref=\"06004023\" data-end-ref=\"06004023\">4.23</data> (2x) ; <data class=\"bible-ref\" data-start-ref=\"06005001\" data-end-ref=\"06005001\">5.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06009005\" data-end-ref=\"06009005\">9.5</data>, 12.  Noter que dans <data class=\"bible-ref\" data-start-ref=\"06009005\" data-end-ref=\"06009005\">9.5</data>, <data class=\"bible-ref\" data-start-ref=\"06009012\" data-end-ref=\"06009012\">12</data>, il décrit du pain sec.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002010",
+"start_ref_usfm": "JOS 2:10",
+"end_ref": "06002010",
+"end_ref_usfm": "JOS 2:10"
+},
+{
+"start_ref": "06004023",
+"start_ref_usfm": "JOS 4:23",
+"end_ref": "06004023",
+"end_ref_usfm": "JOS 4:23"
+},
+{
+"start_ref": "06005001",
+"start_ref_usfm": "JOS 5:1",
+"end_ref": "06005001",
+"end_ref_usfm": "JOS 5:1"
+},
+{
+"start_ref": "06009005",
+"start_ref_usfm": "JOS 9:5",
+"end_ref": "06009005",
+"end_ref_usfm": "JOS 9:5"
+},
+{
+"start_ref": "06009012",
+"start_ref_usfm": "JOS 9:12",
+"end_ref": "06009012",
+"end_ref_usfm": "JOS 9:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002010-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.10 (#2)",
+"media_type": "Text",
+"index_reference": "06002010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « avez dévoués par interdit » (H2763) signifie vouer à Dieu de façon permanente.  Dans certains contextes (comme ici), cette consécration à Dieu prend la forme de destruction.  Rahab dit aux espions que les habitants de Canaan ont entendu comment les Israélites ont voué Sihon et Og à l’Éternel et les ont exterminés.  Les verbes « détruire » et « exterminer » ont le mérite d’être clairs en français, mais ils n’ont pas cette dimension de consécration à Dieu qui fait partie du sens du verbe en hébreu.  Dans les versions et paraphrases françaises, ce verbe est traduit de diverses façons : « dévouer / vouer par interdit », « vouer à l’interdit », « frapper d’anathème », « vouer à l’anathème », ou plus simplement « exterminer », « détruire complètement / entièrement » ou encore « dévouer ».  Ce verbe est utilisé 14 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06002010\" data-end-ref=\"06002010\">2.10</data> ; <data class=\"bible-ref\" data-start-ref=\"06006018\" data-end-ref=\"06006018\">6.18</data>, <data class=\"bible-ref\" data-start-ref=\"06006021\" data-end-ref=\"06006021\">21</data> ; <data class=\"bible-ref\" data-start-ref=\"06008026\" data-end-ref=\"06008026\">8.26</data> ; <data class=\"bible-ref\" data-start-ref=\"06010001\" data-end-ref=\"06010001\">10.1</data>, <data class=\"bible-ref\" data-start-ref=\"06010028\" data-end-ref=\"06010028\">28</data>, <data class=\"bible-ref\" data-start-ref=\"06010035\" data-end-ref=\"06010035\">35</data>, <data class=\"bible-ref\" data-start-ref=\"06010037\" data-end-ref=\"06010037\">37</data>, <data class=\"bible-ref\" data-start-ref=\"06010039\" data-end-ref=\"06010039\">39</data>, <data class=\"bible-ref\" data-start-ref=\"06010040\" data-end-ref=\"06010040\">40</data> ; <data class=\"bible-ref\" data-start-ref=\"06011011\" data-end-ref=\"06011011\">11.11</data>, <data class=\"bible-ref\" data-start-ref=\"06011012\" data-end-ref=\"06011012\">12</data>, <data class=\"bible-ref\" data-start-ref=\"06011020\" data-end-ref=\"06011020\">20</data>, 21.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002010",
+"start_ref_usfm": "JOS 2:10",
+"end_ref": "06002010",
+"end_ref_usfm": "JOS 2:10"
+},
+{
+"start_ref": "06006018",
+"start_ref_usfm": "JOS 6:18",
+"end_ref": "06006018",
+"end_ref_usfm": "JOS 6:18"
+},
+{
+"start_ref": "06006021",
+"start_ref_usfm": "JOS 6:21",
+"end_ref": "06006021",
+"end_ref_usfm": "JOS 6:21"
+},
+{
+"start_ref": "06008026",
+"start_ref_usfm": "JOS 8:26",
+"end_ref": "06008026",
+"end_ref_usfm": "JOS 8:26"
+},
+{
+"start_ref": "06010001",
+"start_ref_usfm": "JOS 10:1",
+"end_ref": "06010001",
+"end_ref_usfm": "JOS 10:1"
+},
+{
+"start_ref": "06010028",
+"start_ref_usfm": "JOS 10:28",
+"end_ref": "06010028",
+"end_ref_usfm": "JOS 10:28"
+},
+{
+"start_ref": "06010035",
+"start_ref_usfm": "JOS 10:35",
+"end_ref": "06010035",
+"end_ref_usfm": "JOS 10:35"
+},
+{
+"start_ref": "06010037",
+"start_ref_usfm": "JOS 10:37",
+"end_ref": "06010037",
+"end_ref_usfm": "JOS 10:37"
+},
+{
+"start_ref": "06010039",
+"start_ref_usfm": "JOS 10:39",
+"end_ref": "06010039",
+"end_ref_usfm": "JOS 10:39"
+},
+{
+"start_ref": "06010040",
+"start_ref_usfm": "JOS 10:40",
+"end_ref": "06010040",
+"end_ref_usfm": "JOS 10:40"
+},
+{
+"start_ref": "06011011",
+"start_ref_usfm": "JOS 11:11",
+"end_ref": "06011011",
+"end_ref_usfm": "JOS 11:11"
+},
+{
+"start_ref": "06011012",
+"start_ref_usfm": "JOS 11:12",
+"end_ref": "06011012",
+"end_ref_usfm": "JOS 11:12"
+},
+{
+"start_ref": "06011020",
+"start_ref_usfm": "JOS 11:20",
+"end_ref": "06011020",
+"end_ref_usfm": "JOS 11:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.11 (#1)",
+"media_type": "Text",
+"index_reference": "06002011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « l’esprit d’aucun homme ne se lève plus [en lui] devant vous ».  Le sens est que les habitants du pays ont tous perdu courage devant les Israélites.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002011",
+"start_ref_usfm": "JOS 2:11",
+"end_ref": "06002011",
+"end_ref_usfm": "JOS 2:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.17 (#1)",
+"media_type": "Text",
+"index_reference": "06002017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ce qui suit inclut les conditions sous lesquelles les espions tiendront leur promesse.  Ainsi, si Rahab respecte ces conditions, ils tiendront leur promesse en la protégeant ainsi que toute la famille de son père.  Toutefois, si un membre de sa famille ne respecte pas ces conditions, ils seront libres de leur propre obligation envers cette personne.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002017",
+"start_ref_usfm": "JOS 2:17",
+"end_ref": "06002017",
+"end_ref_usfm": "JOS 2:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06002019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 2.19 (#1)",
+"media_type": "Text",
+"index_reference": "06002019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que la personne qui sortira de la maison de Rahab sera responsable de sa propre mort, et que les espions ne seront pas responsables de sa mort dans ce cas-là, malgré leur serment.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002019",
+"start_ref_usfm": "JOS 2:19",
+"end_ref": "06002019",
+"end_ref_usfm": "JOS 2:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.2 (#1)",
+"media_type": "Text",
+"index_reference": "06003002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Cette expression est également utilisée dans <data class=\"bible-ref\" data-start-ref=\"06001011\" data-end-ref=\"06001011\">1.11</data>, <data class=\"resource-ref\" data-content-id=\"06001011-01\" data-resource-code=\"AFBRTTranslationNotes\">voir note correspondante.</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003002",
+"start_ref_usfm": "JOS 3:2",
+"end_ref": "06003002",
+"end_ref_usfm": "JOS 3:2"
+},
+{
+"start_ref": "06001011",
+"start_ref_usfm": "JOS 1:11",
+"end_ref": "06001011",
+"end_ref_usfm": "JOS 1:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.3 (#1)",
+"media_type": "Text",
+"index_reference": "06003003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « alliance » (H1285) désigne un accord entre deux parties (parfois plus).  L’accord définit les obligations et les privilèges de chaque partie.  Ces parties peuvent être égales ou non.  Par exemple : </p>\n      <ul>\n      <li>Dieu et Noé, ses fils, ainsi que toute l’humanité et les êtres vivants sur terre (<data class=\"bible-ref\" data-start-ref=\"01009008\" data-end-ref=\"01009017\">Genèse 9.8–17</data>)</li>\n      <li>Dieu et Abram / Abraham (<data class=\"bible-ref\" data-start-ref=\"01015018\" data-end-ref=\"01015018\">Genèse 15.18</data> ; <data class=\"bible-ref\" data-start-ref=\"01017002\" data-end-ref=\"01017002\">17.2</data>ss)</li>\n      <li>Abram et des chefs amoréens (<data class=\"bible-ref\" data-start-ref=\"01014013\" data-end-ref=\"01014013\">Genèse 14.13</data>)</li>\n      <li>Abraham et Abimélec (<data class=\"bible-ref\" data-start-ref=\"01021022\" data-end-ref=\"01021032\">Genèse 21.22–32</data>)</li>\n      <li>Dieu et Israël (Exode 19, voir verset 5 ; <data class=\"bible-ref\" data-start-ref=\"02024008\" data-end-ref=\"02024008\">24.8</data> ; <data class=\"bible-ref\" data-start-ref=\"03002013\" data-end-ref=\"03002013\">Lévitique 2.13</data> ; <data class=\"bible-ref\" data-start-ref=\"03026009\" data-end-ref=\"03026009\">26.9</data>, <data class=\"bible-ref\" data-start-ref=\"03026015\" data-end-ref=\"03026015\">15</data>) </li>\n      <li>David et Jonathan (<data class=\"bible-ref\" data-start-ref=\"09018003\" data-end-ref=\"09018003\">1 Samuel 18.3</data> ; <data class=\"bible-ref\" data-start-ref=\"09020008\" data-end-ref=\"09020008\">20.8</data> ; <data class=\"bible-ref\" data-start-ref=\"09023018\" data-end-ref=\"09023018\">23.18</data>)</li>\n      </ul>\n      <p>Il s’agit d’un mot très important dans l’Ancien Testament.  Il définit les termes de la relation entre Dieu et les êtres humains, entre Dieu et Israël, et aussi parfois entre groupes, peuples ou nations, ou même entre personnes.  Ce mot apparaît 22 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06003003\" data-end-ref=\"06003003\">3.3</data>, <data class=\"bible-ref\" data-start-ref=\"06003006\" data-end-ref=\"06003006\">6</data> (2x), 8, 11, 14, 17 ; <data class=\"bible-ref\" data-start-ref=\"06004007\" data-end-ref=\"06004007\">4.7</data>, <data class=\"bible-ref\" data-start-ref=\"06004009\" data-end-ref=\"06004009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"06004018\" data-end-ref=\"06004018\">18</data> ; <data class=\"bible-ref\" data-start-ref=\"06006006\" data-end-ref=\"06006006\">6.6</data>, <data class=\"bible-ref\" data-start-ref=\"06006008\" data-end-ref=\"06006008\">8</data> ; <data class=\"bible-ref\" data-start-ref=\"06007011\" data-end-ref=\"06007011\">7.11</data>, <data class=\"bible-ref\" data-start-ref=\"06007015\" data-end-ref=\"06007015\">15</data> ; <data class=\"bible-ref\" data-start-ref=\"06008033\" data-end-ref=\"06008033\">8.33</data> ; <data class=\"bible-ref\" data-start-ref=\"06009006\" data-end-ref=\"06009006\">9.6</data>, <data class=\"bible-ref\" data-start-ref=\"06009007\" data-end-ref=\"06009007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06009011\" data-end-ref=\"06009011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06009015\" data-end-ref=\"06009015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"06009016\" data-end-ref=\"06009016\">16</data> ; <data class=\"bible-ref\" data-start-ref=\"06023016\" data-end-ref=\"06023016\">23.16</data> ; <data class=\"bible-ref\" data-start-ref=\"06024025\" data-end-ref=\"06024025\">24.25</data>.  </p>\n      <p>Noter que dans Josué, il qualifie le plus souvent l’arche (« l’arche de l’alliance » [comme ici]).  En effet, c’était dans l’arche qu’étaient placées les tables des dix commandements écrites par le doigt de Dieu, et l’arche représentait l’alliance entre Dieu et Israël, y compris la présence de Dieu parmi son peuple.  Cependant, noter les passages suivants :</p>\n      <ul>\n      <li>Dans <data class=\"bible-ref\" data-start-ref=\"06007011\" data-end-ref=\"06007011\">7.11</data>, <data class=\"bible-ref\" data-start-ref=\"06007015\" data-end-ref=\"06007015\">15</data> et <data class=\"bible-ref\" data-start-ref=\"06023016\" data-end-ref=\"06023016\">23.16</data> le mot « alliance » fait référence à l’alliance même entre Dieu et Israël.  Dans <data class=\"bible-ref\" data-start-ref=\"06024025\" data-end-ref=\"06024025\">24.25</data>, il fait référence au renouvellement de cette alliance sous la direction de Josué.</li>\n      <li>Dans <data class=\"bible-ref\" data-start-ref=\"06009006\" data-end-ref=\"06009006\">Josué 9.6</data>, <data class=\"bible-ref\" data-start-ref=\"06009007\" data-end-ref=\"06009007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06009011\" data-end-ref=\"06009011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06009015\" data-end-ref=\"06009015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"06009016\" data-end-ref=\"06009016\">16</data>, ce mot fait référence à l’alliance entre Israël et les Gabaonites.</li>\n      </ul>\n      <p>En français, le mot « alliance » décrit un accord solennel.  Le sérieux et la finalité que ce mot sous-entend n’est pas forcément présent dans les mots « accord », « engagement », ou même « traité » ou « pacte ».  Ces mots peuvent en effet être compris comme décrivant des accords qui pourraient être relativement facilement changés par l’une des parties.  C’est pourquoi en français, le mot « alliance » est presque toujours choisi pour traduire ce mot hébreu quand il s’agit d’une alliance avec Dieu.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003003",
+"start_ref_usfm": "JOS 3:3",
+"end_ref": "06003003",
+"end_ref_usfm": "JOS 3:3"
+},
+{
+"start_ref": "01009008",
+"start_ref_usfm": "GEN 9:8",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "01015018",
+"start_ref_usfm": "GEN 15:18",
+"end_ref": "01015018",
+"end_ref_usfm": "GEN 15:18"
+},
+{
+"start_ref": "01017002",
+"start_ref_usfm": "GEN 17:2",
+"end_ref": "01017002",
+"end_ref_usfm": "GEN 17:2"
+},
+{
+"start_ref": "01014013",
+"start_ref_usfm": "GEN 14:13",
+"end_ref": "01014013",
+"end_ref_usfm": "GEN 14:13"
+},
+{
+"start_ref": "01021022",
+"start_ref_usfm": "GEN 21:22",
+"end_ref": "01021032",
+"end_ref_usfm": "GEN 21:32"
+},
+{
+"start_ref": "02019001",
+"start_ref_usfm": "EXO 19:1",
+"end_ref": "02019999",
+"end_ref_usfm": "EXO 19:999"
+},
+{
+"start_ref": "02024008",
+"start_ref_usfm": "EXO 24:8",
+"end_ref": "02024008",
+"end_ref_usfm": "EXO 24:8"
+},
+{
+"start_ref": "03002013",
+"start_ref_usfm": "LEV 2:13",
+"end_ref": "03002013",
+"end_ref_usfm": "LEV 2:13"
+},
+{
+"start_ref": "03026009",
+"start_ref_usfm": "LEV 26:9",
+"end_ref": "03026009",
+"end_ref_usfm": "LEV 26:9"
+},
+{
+"start_ref": "03026015",
+"start_ref_usfm": "LEV 26:15",
+"end_ref": "03026015",
+"end_ref_usfm": "LEV 26:15"
+},
+{
+"start_ref": "09018003",
+"start_ref_usfm": "1SA 18:3",
+"end_ref": "09018003",
+"end_ref_usfm": "1SA 18:3"
+},
+{
+"start_ref": "09020008",
+"start_ref_usfm": "1SA 20:8",
+"end_ref": "09020008",
+"end_ref_usfm": "1SA 20:8"
+},
+{
+"start_ref": "09023018",
+"start_ref_usfm": "1SA 23:18",
+"end_ref": "09023018",
+"end_ref_usfm": "1SA 23:18"
+},
+{
+"start_ref": "06003006",
+"start_ref_usfm": "JOS 3:6",
+"end_ref": "06003006",
+"end_ref_usfm": "JOS 3:6"
+},
+{
+"start_ref": "06004007",
+"start_ref_usfm": "JOS 4:7",
+"end_ref": "06004007",
+"end_ref_usfm": "JOS 4:7"
+},
+{
+"start_ref": "06004009",
+"start_ref_usfm": "JOS 4:9",
+"end_ref": "06004009",
+"end_ref_usfm": "JOS 4:9"
+},
+{
+"start_ref": "06004018",
+"start_ref_usfm": "JOS 4:18",
+"end_ref": "06004018",
+"end_ref_usfm": "JOS 4:18"
+},
+{
+"start_ref": "06006006",
+"start_ref_usfm": "JOS 6:6",
+"end_ref": "06006006",
+"end_ref_usfm": "JOS 6:6"
+},
+{
+"start_ref": "06006008",
+"start_ref_usfm": "JOS 6:8",
+"end_ref": "06006008",
+"end_ref_usfm": "JOS 6:8"
+},
+{
+"start_ref": "06007011",
+"start_ref_usfm": "JOS 7:11",
+"end_ref": "06007011",
+"end_ref_usfm": "JOS 7:11"
+},
+{
+"start_ref": "06007015",
+"start_ref_usfm": "JOS 7:15",
+"end_ref": "06007015",
+"end_ref_usfm": "JOS 7:15"
+},
+{
+"start_ref": "06008033",
+"start_ref_usfm": "JOS 8:33",
+"end_ref": "06008033",
+"end_ref_usfm": "JOS 8:33"
+},
+{
+"start_ref": "06009006",
+"start_ref_usfm": "JOS 9:6",
+"end_ref": "06009006",
+"end_ref_usfm": "JOS 9:6"
+},
+{
+"start_ref": "06009007",
+"start_ref_usfm": "JOS 9:7",
+"end_ref": "06009007",
+"end_ref_usfm": "JOS 9:7"
+},
+{
+"start_ref": "06009011",
+"start_ref_usfm": "JOS 9:11",
+"end_ref": "06009011",
+"end_ref_usfm": "JOS 9:11"
+},
+{
+"start_ref": "06009015",
+"start_ref_usfm": "JOS 9:15",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06009016",
+"start_ref_usfm": "JOS 9:16",
+"end_ref": "06009016",
+"end_ref_usfm": "JOS 9:16"
+},
+{
+"start_ref": "06023016",
+"start_ref_usfm": "JOS 23:16",
+"end_ref": "06023016",
+"end_ref_usfm": "JOS 23:16"
+},
+{
+"start_ref": "06024025",
+"start_ref_usfm": "JOS 24:25",
+"end_ref": "06024025",
+"end_ref_usfm": "JOS 24:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.4 (#1)",
+"media_type": "Text",
+"index_reference": "06003004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Les experts pensent que deux mille coudées sont l’équivalent d’environ un kilomètre.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003004",
+"start_ref_usfm": "JOS 3:4",
+"end_ref": "06003004",
+"end_ref_usfm": "JOS 3:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.5 (#1)",
+"media_type": "Text",
+"index_reference": "06003005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « des merveilles ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003005",
+"start_ref_usfm": "JOS 3:5",
+"end_ref": "06003005",
+"end_ref_usfm": "JOS 3:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.13 (#1)",
+"media_type": "Text",
+"index_reference": "06003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « les plantes des pieds des sacrificateurs ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003013",
+"start_ref_usfm": "JOS 3:13",
+"end_ref": "06003013",
+"end_ref_usfm": "JOS 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003013-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.13 (#2)",
+"media_type": "Text",
+"index_reference": "06003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « En haut » désigne la direction de laquelle les eaux du Jourdain coulaient.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003013",
+"start_ref_usfm": "JOS 3:13",
+"end_ref": "06003013",
+"end_ref_usfm": "JOS 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003013-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.13 (#3)",
+"media_type": "Text",
+"index_reference": "06003013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « en une seule masse ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003013",
+"start_ref_usfm": "JOS 3:13",
+"end_ref": "06003013",
+"end_ref_usfm": "JOS 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003016-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.16 (#1)",
+"media_type": "Text",
+"index_reference": "06003016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Les « eaux qui descendaient » désigne la direction vers laquelle les eaux du Jourdain coulaient.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003016",
+"start_ref_usfm": "JOS 3:16",
+"end_ref": "06003016",
+"end_ref_usfm": "JOS 3:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.17 (#1)",
+"media_type": "Text",
+"index_reference": "06003017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « se tinrent immobiles sur le sec ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003017",
+"start_ref_usfm": "JOS 3:17",
+"end_ref": "06003017",
+"end_ref_usfm": "JOS 3:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06003017-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 3.17 (#2)",
+"media_type": "Text",
+"index_reference": "06003017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter que six versets parlent des enfants d’Israël traversant le Jourdain : <data class=\"bible-ref\" data-start-ref=\"06003016\" data-end-ref=\"06003016\">3.16</data>, <data class=\"bible-ref\" data-start-ref=\"06003017\" data-end-ref=\"06003017\">17</data> ; <data class=\"bible-ref\" data-start-ref=\"06004001\" data-end-ref=\"06004001\">4.1</data>, <data class=\"bible-ref\" data-start-ref=\"06004010\" data-end-ref=\"06004010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06004011\" data-end-ref=\"06004011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06004019\" data-end-ref=\"06004019\">19</data> :</p>\n      <ul>\n      <li>Le verset <data class=\"bible-ref\" data-start-ref=\"06003016\" data-end-ref=\"06003016\">3.16</data> informe le lecteur que c’est <em>en face de Jéricho </em>qu’Israël a traversé le Jourdain. </li>\n      <li>Le verset <data class=\"bible-ref\" data-start-ref=\"06003017\" data-end-ref=\"06003017\">3.17</data> définit le temps que les sacrificateurs ont passé au milieu du Jourdain sur la terre sèche : c’est-à-dire qu’ils y sont restés <em>jusqu’à ce que toute la nation ait fini de le traverser</em>.  </li>\n      <li>Le verset <data class=\"bible-ref\" data-start-ref=\"06004001\" data-end-ref=\"06004001\">4.1</data> présente ce qui doit se passer <em>une fois le peuple de l’autre côté du Jourdain</em> : l’Éternel donne des ordres à Josué concernant les hommes qui doivent prendre des pierres de l’endroit où les sacrificateurs se sont tenus au milieu du Jourdain.  </li>\n      <li>Les versets <data class=\"bible-ref\" data-start-ref=\"06004010\" data-end-ref=\"06004011\">4.10–11</data> : ces versets décrivent la traversée du peuple d’Israël en tant que telle.</li>\n      <li>Le verset <data class=\"bible-ref\" data-start-ref=\"06004019\" data-end-ref=\"06004019\">4.19</data> informe le lecteur de <em>la date</em> à laquelle la traversée du Jourdain s’est faite et donne la perspective finale : la traversée achevée, le Jourdain reprend son cours normal.</li>\n      </ul>\n      <p>Les éléments décrits dans <data class=\"bible-ref\" data-start-ref=\"06003016\" data-end-ref=\"06003016\">3.16</data>, <data class=\"bible-ref\" data-start-ref=\"06003017\" data-end-ref=\"06003017\">17</data> ; <data class=\"bible-ref\" data-start-ref=\"06004001\" data-end-ref=\"06004001\">4.1</data>, <data class=\"bible-ref\" data-start-ref=\"06004019\" data-end-ref=\"06004019\">19</data> font partie de l’événement dans son ensemble : la traversée du Jourdain par le peuple d’Israël.  Cependant, c’est seulement dans <data class=\"bible-ref\" data-start-ref=\"06004010\" data-end-ref=\"06004011\">4.10–11</data> que le peuple traverse le Jourdain (« Et le peuple se dépêcha de traverser. Lorsque tout le peuple eut fini de traverser… »).</p>\n      <p>Ainsi, les chapitres 3 et 4 doivent être lus comme un tout : ils font le récit de la traversée du Jourdain par les enfants d’Israël tout en soulignant plusieurs aspects de cet incroyable événement : le peuple se mettant en marche (<data class=\"bible-ref\" data-start-ref=\"06003002\" data-end-ref=\"06003004\">3.2–4</data>), le rôle des sacrificateurs (<data class=\"bible-ref\" data-start-ref=\"06003006\" data-end-ref=\"06003006\">3.6</data> ; <data class=\"bible-ref\" data-start-ref=\"06004014\" data-end-ref=\"06004014\">4.14</data>), la façon dont les sacrificateurs et le peuple adaptent leurs mouvements à l’arche de l’alliance de l’Éternel et à son rôle (<data class=\"bible-ref\" data-start-ref=\"06003003\" data-end-ref=\"06003003\">3.3</data>, <data class=\"bible-ref\" data-start-ref=\"06003004\" data-end-ref=\"06003004\">4</data>, <data class=\"bible-ref\" data-start-ref=\"06003005\" data-end-ref=\"06003005\">5</data> ; <data class=\"bible-ref\" data-start-ref=\"06004011\" data-end-ref=\"06004011\">4.11</data>), la confirmation de Josué comme serviteur de l’Éternel et dirigeant de la nation (<data class=\"bible-ref\" data-start-ref=\"06003007\" data-end-ref=\"06003007\">3.7</data> ; <data class=\"bible-ref\" data-start-ref=\"06004014\" data-end-ref=\"06004014\">4.14</data>), le prodige des eaux coupées et son rapport à l’arche de l’alliance (<data class=\"bible-ref\" data-start-ref=\"06003008\" data-end-ref=\"06003008\">3.8</data>, <data class=\"bible-ref\" data-start-ref=\"06003011\" data-end-ref=\"06003011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06003013\" data-end-ref=\"06003013\">13</data>, <data class=\"bible-ref\" data-start-ref=\"06003015\" data-end-ref=\"06003016\">15–16</data>), les douze pierres prises du milieu du Jourdain où se sont tenus les sacrificateurs (comme souvenir pour les générations à venir, <data class=\"bible-ref\" data-start-ref=\"06004005\" data-end-ref=\"06004005\">4.5</data>), les douze pierres que Josué place au milieu du Jourdain (<data class=\"bible-ref\" data-start-ref=\"06004009\" data-end-ref=\"06004009\">4.9</data>), le Jourdain reprenant son cours dès que l’arche de l’alliance en sort (<data class=\"bible-ref\" data-start-ref=\"06004018\" data-end-ref=\"06004018\">4.18</data>).  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06003017",
+"start_ref_usfm": "JOS 3:17",
+"end_ref": "06003017",
+"end_ref_usfm": "JOS 3:17"
+},
+{
+"start_ref": "06003016",
+"start_ref_usfm": "JOS 3:16",
+"end_ref": "06003016",
+"end_ref_usfm": "JOS 3:16"
+},
+{
+"start_ref": "06004001",
+"start_ref_usfm": "JOS 4:1",
+"end_ref": "06004001",
+"end_ref_usfm": "JOS 4:1"
+},
+{
+"start_ref": "06004010",
+"start_ref_usfm": "JOS 4:10",
+"end_ref": "06004010",
+"end_ref_usfm": "JOS 4:10"
+},
+{
+"start_ref": "06004011",
+"start_ref_usfm": "JOS 4:11",
+"end_ref": "06004011",
+"end_ref_usfm": "JOS 4:11"
+},
+{
+"start_ref": "06004019",
+"start_ref_usfm": "JOS 4:19",
+"end_ref": "06004019",
+"end_ref_usfm": "JOS 4:19"
+},
+{
+"start_ref": "06004010",
+"start_ref_usfm": "JOS 4:10",
+"end_ref": "06004011",
+"end_ref_usfm": "JOS 4:11"
+},
+{
+"start_ref": "06003002",
+"start_ref_usfm": "JOS 3:2",
+"end_ref": "06003004",
+"end_ref_usfm": "JOS 3:4"
+},
+{
+"start_ref": "06003006",
+"start_ref_usfm": "JOS 3:6",
+"end_ref": "06003006",
+"end_ref_usfm": "JOS 3:6"
+},
+{
+"start_ref": "06004014",
+"start_ref_usfm": "JOS 4:14",
+"end_ref": "06004014",
+"end_ref_usfm": "JOS 4:14"
+},
+{
+"start_ref": "06003003",
+"start_ref_usfm": "JOS 3:3",
+"end_ref": "06003003",
+"end_ref_usfm": "JOS 3:3"
+},
+{
+"start_ref": "06003004",
+"start_ref_usfm": "JOS 3:4",
+"end_ref": "06003004",
+"end_ref_usfm": "JOS 3:4"
+},
+{
+"start_ref": "06003005",
+"start_ref_usfm": "JOS 3:5",
+"end_ref": "06003005",
+"end_ref_usfm": "JOS 3:5"
+},
+{
+"start_ref": "06003007",
+"start_ref_usfm": "JOS 3:7",
+"end_ref": "06003007",
+"end_ref_usfm": "JOS 3:7"
+},
+{
+"start_ref": "06003008",
+"start_ref_usfm": "JOS 3:8",
+"end_ref": "06003008",
+"end_ref_usfm": "JOS 3:8"
+},
+{
+"start_ref": "06003011",
+"start_ref_usfm": "JOS 3:11",
+"end_ref": "06003011",
+"end_ref_usfm": "JOS 3:11"
+},
+{
+"start_ref": "06003013",
+"start_ref_usfm": "JOS 3:13",
+"end_ref": "06003013",
+"end_ref_usfm": "JOS 3:13"
+},
+{
+"start_ref": "06003015",
+"start_ref_usfm": "JOS 3:15",
+"end_ref": "06003016",
+"end_ref_usfm": "JOS 3:16"
+},
+{
+"start_ref": "06004005",
+"start_ref_usfm": "JOS 4:5",
+"end_ref": "06004005",
+"end_ref_usfm": "JOS 4:5"
+},
+{
+"start_ref": "06004009",
+"start_ref_usfm": "JOS 4:9",
+"end_ref": "06004009",
+"end_ref_usfm": "JOS 4:9"
+},
+{
+"start_ref": "06004018",
+"start_ref_usfm": "JOS 4:18",
+"end_ref": "06004018",
+"end_ref_usfm": "JOS 4:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06004003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 4.3 (#1)",
+"media_type": "Text",
+"index_reference": "06004003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire le lieu où le peuple dormira la nuit.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06004003",
+"start_ref_usfm": "JOS 4:3",
+"end_ref": "06004003",
+"end_ref_usfm": "JOS 4:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06004014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 4.14 (#1)",
+"media_type": "Text",
+"index_reference": "06004014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « craignirent » signifie craindre, avoir peur.  Il est utilisé 13 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06004014\" data-end-ref=\"06004014\">4.14</data>, <data class=\"bible-ref\" data-start-ref=\"06004024\" data-end-ref=\"06004024\">24</data> ; <data class=\"bible-ref\" data-start-ref=\"06008001\" data-end-ref=\"06008001\">8.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06009024\" data-end-ref=\"06009024\">9.24</data> ; <data class=\"bible-ref\" data-start-ref=\"06010002\" data-end-ref=\"06010002\">10.2</data>, <data class=\"bible-ref\" data-start-ref=\"06010008\" data-end-ref=\"06010008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06010025\" data-end-ref=\"06010025\">25</data> ; <data class=\"bible-ref\" data-start-ref=\"06011006\" data-end-ref=\"06011006\">11.6</data> ; <data class=\"bible-ref\" data-start-ref=\"06022025\" data-end-ref=\"06022025\">22.25</data> ; <data class=\"bible-ref\" data-start-ref=\"06024014\" data-end-ref=\"06024014\">24.14</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06004014",
+"start_ref_usfm": "JOS 4:14",
+"end_ref": "06004014",
+"end_ref_usfm": "JOS 4:14"
+},
+{
+"start_ref": "06004024",
+"start_ref_usfm": "JOS 4:24",
+"end_ref": "06004024",
+"end_ref_usfm": "JOS 4:24"
+},
+{
+"start_ref": "06008001",
+"start_ref_usfm": "JOS 8:1",
+"end_ref": "06008001",
+"end_ref_usfm": "JOS 8:1"
+},
+{
+"start_ref": "06009024",
+"start_ref_usfm": "JOS 9:24",
+"end_ref": "06009024",
+"end_ref_usfm": "JOS 9:24"
+},
+{
+"start_ref": "06010002",
+"start_ref_usfm": "JOS 10:2",
+"end_ref": "06010002",
+"end_ref_usfm": "JOS 10:2"
+},
+{
+"start_ref": "06010008",
+"start_ref_usfm": "JOS 10:8",
+"end_ref": "06010008",
+"end_ref_usfm": "JOS 10:8"
+},
+{
+"start_ref": "06010025",
+"start_ref_usfm": "JOS 10:25",
+"end_ref": "06010025",
+"end_ref_usfm": "JOS 10:25"
+},
+{
+"start_ref": "06011006",
+"start_ref_usfm": "JOS 11:6",
+"end_ref": "06011006",
+"end_ref_usfm": "JOS 11:6"
+},
+{
+"start_ref": "06022025",
+"start_ref_usfm": "JOS 22:25",
+"end_ref": "06022025",
+"end_ref_usfm": "JOS 22:25"
+},
+{
+"start_ref": "06024014",
+"start_ref_usfm": "JOS 24:14",
+"end_ref": "06024014",
+"end_ref_usfm": "JOS 24:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06004014-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 4.14 (#2)",
+"media_type": "Text",
+"index_reference": "06004014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il n’est pas clair si l’expression « tous les jours de sa vie » s’applique à Moïse ou à Josué.  Les versions françaises sont partagées, la plupart traduisant de façon à laisser la porte ouverte aux deux interprétations :</p>\n      <ul>\n      <li>« et ils le craignirent comme ils avaient craint Moïse, tous les jours de sa vie » (Darby).</li>\n      <li>« et ils le craignirent comme ils avaient craint Moïse tous les jours de sa vie » (Bible annotée).</li>\n      <li>« et, durant toute sa vie, ils le respectèrent comme ils avaient respecté Moïse » (Nouvelle français courant).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06004014",
+"start_ref_usfm": "JOS 4:14",
+"end_ref": "06004014",
+"end_ref_usfm": "JOS 4:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06004018-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 4.18 (#1)",
+"media_type": "Text",
+"index_reference": "06004018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « les plantes de leurs pieds se posèrent ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06004018",
+"start_ref_usfm": "JOS 4:18",
+"end_ref": "06004018",
+"end_ref_usfm": "JOS 4:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.1 (#1)",
+"media_type": "Text",
+"index_reference": "06005001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Certains manuscrits ont « nous ayons traversé » plutôt que « ils aient traversé ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005001",
+"start_ref_usfm": "JOS 5:1",
+"end_ref": "06005001",
+"end_ref_usfm": "JOS 5:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.2 (#1)",
+"media_type": "Text",
+"index_reference": "06005002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La « deuxième » circoncision dont il est question n’est pas une deuxième circoncision de mêmes personnes.  Les hommes de cette génération n’étaient pas encore circoncis ; il s’agit donc de la seule et unique fois où ils ont été circoncis.  Les hommes d’Israël qui avaient quitté l’Égypte étaient circoncis (voir verset 5).  Ces hommes circoncis de la première génération étaient les pères de la génération qui est circoncise ici.  La référence à la circoncision des enfants d’Israël « une deuxième fois » est comprise comme s’appliquant à la nation en tant que groupe et non pas aux individus qui la composent.  C’est-à-dire que la nation d’Israël était circoncise quand elle est sortie d’Égypte (elle avait donc été circoncise « une première fois »), mais les hommes de cette génération-là étaient morts, et la génération qui entre en Terre sainte n’est pas encore circoncise.  C’est pour cela que le texte parle de circoncire toute la nation (voir verset 8), et qu’il précise « de nouveau… une deuxième fois » (verset 2).  Il ne s’agit pas des mêmes hommes ; la perspective est plutôt sur la nation en tant que groupe.</p>\n      <p>Noter que dans Exode, la première circoncision est implicite dans <data class=\"bible-ref\" data-start-ref=\"02012043\" data-end-ref=\"02012051\">Exode 12.43–51</data>, voir en particulier les versets 48–49 : les Israélites étaient obligatoirement circoncis quand ils ont mangé la première Pâque.  Ici aussi, il est question de célébration de la Pâque juste après la circoncision de la nation (voir verset 10).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005002",
+"start_ref_usfm": "JOS 5:2",
+"end_ref": "06005002",
+"end_ref_usfm": "JOS 5:2"
+},
+{
+"start_ref": "02012043",
+"start_ref_usfm": "EXO 12:43",
+"end_ref": "02012051",
+"end_ref_usfm": "EXO 12:51"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.3 (#1)",
+"media_type": "Text",
+"index_reference": "06005003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire « colline des prépuces ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005003",
+"start_ref_usfm": "JOS 5:3",
+"end_ref": "06005003",
+"end_ref_usfm": "JOS 5:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.6 (#1)",
+"media_type": "Text",
+"index_reference": "06005006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire où le lait et le miel sont abondants.  Cette description donne une image d’abondance et de richesse.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005006",
+"start_ref_usfm": "JOS 5:6",
+"end_ref": "06005006",
+"end_ref_usfm": "JOS 5:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.8 (#1)",
+"media_type": "Text",
+"index_reference": "06005008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire tous les hommes israélites.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005008",
+"start_ref_usfm": "JOS 5:8",
+"end_ref": "06005008",
+"end_ref_usfm": "JOS 5:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005008-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.8 (#2)",
+"media_type": "Text",
+"index_reference": "06005008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Leur guérison aurait probablement pris quelques jours.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005008",
+"start_ref_usfm": "JOS 5:8",
+"end_ref": "06005008",
+"end_ref_usfm": "JOS 5:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005009-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.9 (#1)",
+"media_type": "Text",
+"index_reference": "06005009",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Cette famille de mot signifie « rouler » ou « faire rouler ».  Le nom de ce lieu a été choisi en référence aux paroles de l’Éternel qui « a enlevé » ou « fait rouler » la honte de l’Égypte.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005009",
+"start_ref_usfm": "JOS 5:9",
+"end_ref": "06005009",
+"end_ref_usfm": "JOS 5:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06005013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 5.13 (#1)",
+"media_type": "Text",
+"index_reference": "06005013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que son épée était dans sa main, tirée de son fourreau, prête à être utilisée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06005013",
+"start_ref_usfm": "JOS 5:13",
+"end_ref": "06005013",
+"end_ref_usfm": "JOS 5:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.1 (#1)",
+"media_type": "Text",
+"index_reference": "06006001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La description de la situation de Jéricho varie selon les versions.  Certaines comprennent ces mots comme décrivant une ou deux des options suivantes :</p>\n      <ul>\n      <li>une fortification (« fermée » + « barricadée », comme dans la LSG et d’autres),</li>\n      <li>le fait que les portes étaient non seulement fermées, mais barrées également (« fermée » + « avait barré ses portes », voir Darby),</li>\n      <li>le fait qu’elle était complètement fermée et/ou soigneusement fermée (« close » + « fermée ou complètement fermée », voir Ostervald, Nouvelle Bible Segond, Semeur),</li>\n      <li>le fait que personne ne pouvait entrer ou sortir (« fermée » + « enfermée », voir Traduction officielle liturgique, Traduction œcuménique), comme le dit la deuxième partie du verset.</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006001",
+"start_ref_usfm": "JOS 6:1",
+"end_ref": "06006001",
+"end_ref_usfm": "JOS 6:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.2 (#1)",
+"media_type": "Text",
+"index_reference": "06006002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire les guerriers, les soldats qui font partie de l’armée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006002",
+"start_ref_usfm": "JOS 6:2",
+"end_ref": "06006002",
+"end_ref_usfm": "JOS 6:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.3 (#1)",
+"media_type": "Text",
+"index_reference": "06006003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que les hommes de guerre devaient faire le tour de la ville de Jéricho une fois par jour pendant six jours.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006003",
+"start_ref_usfm": "JOS 6:3",
+"end_ref": "06006003",
+"end_ref_usfm": "JOS 6:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.4 (#1)",
+"media_type": "Text",
+"index_reference": "06006004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le premier mot hébreu, traduit « trompettes », désigne un instrument à vent fait à partir d’une corne d’animal (probablement celle d’un bélier).  Le son était produit en soufflant dans la petite extrémité.  Noter qu’il ne s’agit pas d’un instrument de musique comme les autres ; il était seulement utilisé à l’occasion des fêtes ou pendant une guerre ou une bataille, afin de signaler au peuple ou aux troupes ce qu’il fallait faire (comme ici).</p>\n      <p>Le deuxième mot hébreu, traduit « corne de bélier », désigne la partie de l’animal à partir de laquelle l’instrument était fabriqué, c’est-à-dire la corne.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006004",
+"start_ref_usfm": "JOS 6:4",
+"end_ref": "06006004",
+"end_ref_usfm": "JOS 6:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.5 (#1)",
+"media_type": "Text",
+"index_reference": "06006005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il s’agit des hommes de guerre (voir verset 3).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006005",
+"start_ref_usfm": "JOS 6:5",
+"end_ref": "06006005",
+"end_ref_usfm": "JOS 6:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.10 (#1)",
+"media_type": "Text",
+"index_reference": "06006010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est sous-entendu que cet ordre doit être appliqué lorsqu’ils font le tour de la ville.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006010",
+"start_ref_usfm": "JOS 6:10",
+"end_ref": "06006010",
+"end_ref_usfm": "JOS 6:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006018-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.18 (#1)",
+"media_type": "Text",
+"index_reference": "06006018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire qu’ils ne doivent pas le prendre pour eux-mêmes.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006018",
+"start_ref_usfm": "JOS 6:18",
+"end_ref": "06006018",
+"end_ref_usfm": "JOS 6:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006021-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.21 (#1)",
+"media_type": "Text",
+"index_reference": "06006021",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « par la bouche de l’épée ».  En français, on parle de « passer au fil de l’épée » ou de « frapper du tranchant de l’épée ».  Cette expression est utilisée 13 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06006021\" data-end-ref=\"06006021\">6.21</data> ; <data class=\"bible-ref\" data-start-ref=\"06008024\" data-end-ref=\"06008024\">8.24</data> ; <data class=\"bible-ref\" data-start-ref=\"06010028\" data-end-ref=\"06010028\">10.28</data>, <data class=\"bible-ref\" data-start-ref=\"06010030\" data-end-ref=\"06010030\">30</data>, <data class=\"bible-ref\" data-start-ref=\"06010032\" data-end-ref=\"06010032\">32</data>, <data class=\"bible-ref\" data-start-ref=\"06010035\" data-end-ref=\"06010035\">35</data>, <data class=\"bible-ref\" data-start-ref=\"06010037\" data-end-ref=\"06010037\">37</data>, <data class=\"bible-ref\" data-start-ref=\"06010039\" data-end-ref=\"06010039\">39</data> ; <data class=\"bible-ref\" data-start-ref=\"06011011\" data-end-ref=\"06011011\">11.11</data>, <data class=\"bible-ref\" data-start-ref=\"06011012\" data-end-ref=\"06011012\">12</data>, <data class=\"bible-ref\" data-start-ref=\"06011014\" data-end-ref=\"06011014\">14</data> ; <data class=\"bible-ref\" data-start-ref=\"06019047\" data-end-ref=\"06019047\">19.47</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006021",
+"start_ref_usfm": "JOS 6:21",
+"end_ref": "06006021",
+"end_ref_usfm": "JOS 6:21"
+},
+{
+"start_ref": "06008024",
+"start_ref_usfm": "JOS 8:24",
+"end_ref": "06008024",
+"end_ref_usfm": "JOS 8:24"
+},
+{
+"start_ref": "06010028",
+"start_ref_usfm": "JOS 10:28",
+"end_ref": "06010028",
+"end_ref_usfm": "JOS 10:28"
+},
+{
+"start_ref": "06010030",
+"start_ref_usfm": "JOS 10:30",
+"end_ref": "06010030",
+"end_ref_usfm": "JOS 10:30"
+},
+{
+"start_ref": "06010032",
+"start_ref_usfm": "JOS 10:32",
+"end_ref": "06010032",
+"end_ref_usfm": "JOS 10:32"
+},
+{
+"start_ref": "06010035",
+"start_ref_usfm": "JOS 10:35",
+"end_ref": "06010035",
+"end_ref_usfm": "JOS 10:35"
+},
+{
+"start_ref": "06010037",
+"start_ref_usfm": "JOS 10:37",
+"end_ref": "06010037",
+"end_ref_usfm": "JOS 10:37"
+},
+{
+"start_ref": "06010039",
+"start_ref_usfm": "JOS 10:39",
+"end_ref": "06010039",
+"end_ref_usfm": "JOS 10:39"
+},
+{
+"start_ref": "06011011",
+"start_ref_usfm": "JOS 11:11",
+"end_ref": "06011011",
+"end_ref_usfm": "JOS 11:11"
+},
+{
+"start_ref": "06011012",
+"start_ref_usfm": "JOS 11:12",
+"end_ref": "06011012",
+"end_ref_usfm": "JOS 11:12"
+},
+{
+"start_ref": "06011014",
+"start_ref_usfm": "JOS 11:14",
+"end_ref": "06011014",
+"end_ref_usfm": "JOS 11:14"
+},
+{
+"start_ref": "06019047",
+"start_ref_usfm": "JOS 19:47",
+"end_ref": "06019047",
+"end_ref_usfm": "JOS 19:47"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06006026-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 6.26 (#1)",
+"media_type": "Text",
+"index_reference": "06006026",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que l’homme qui décidera de rebâtir Jéricho le paiera avec la vie de son premier-né au début de son entreprise et celle de son plus jeune fils à la fin.  Cette malédiction se réalise plusieurs siècles plus tard : Hiel de Béthel rebâtit Jéricho, au prix des vies de son fils aîné Abiram et de son plus jeune fils Segub (<data class=\"bible-ref\" data-start-ref=\"11016034\" data-end-ref=\"11016034\">1 Rois 16.34</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06006026",
+"start_ref_usfm": "JOS 6:26",
+"end_ref": "06006026",
+"end_ref_usfm": "JOS 6:26"
+},
+{
+"start_ref": "11016034",
+"start_ref_usfm": "1KI 16:34",
+"end_ref": "11016034",
+"end_ref_usfm": "1KI 16:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.5 (#1)",
+"media_type": "Text",
+"index_reference": "06007005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « et le cœur du peuple fondit et il devint de l’eau ».  Le mot hébreu traduit « fondit » ( H4549) signifie au sens propre fondre, se dissoudre.  Au sens figuré, il signifie perdre courage (dans le sens d’être effrayé), défaillir.  Ce mot est utilisé trois fois dans Josué, les trois fois au sens figuré : <data class=\"bible-ref\" data-start-ref=\"06002011\" data-end-ref=\"06002011\">2.11</data> ; <data class=\"bible-ref\" data-start-ref=\"06005011\" data-end-ref=\"06005011\">5.11</data> ; <data class=\"bible-ref\" data-start-ref=\"06007005\" data-end-ref=\"06007005\">7.5</data>.  À titre d’exemple, ce mot est également utilisé dans les passages suivants :</p>\n      <ul>\n      <li>De la manne qui <em>fond</em> au soleil (<data class=\"bible-ref\" data-start-ref=\"02016021\" data-end-ref=\"02016021\">Exode 16.21</data>).</li>\n      <li>Des espions qui donnent un rapport négatif sur le pays et qui <em>font perdre courage</em> au peuple (<data class=\"bible-ref\" data-start-ref=\"05001028\" data-end-ref=\"05001028\">Deutéronome 1.28</data>).</li>\n      <li>Des liens de Samson qui <em>tombent</em> de ses mains (<data class=\"bible-ref\" data-start-ref=\"07015014\" data-end-ref=\"07015014\">Juges 15.14</data>).</li>\n      <li>De la cire qui <em>fond</em> au feu (<data class=\"bible-ref\" data-start-ref=\"19068003\" data-end-ref=\"19068003\">Psaumes 68.3</data>).</li>\n      </ul>\n      <p>L’image est celle du cœur des Israélites qui défaille, qui fond au point de devenir comme de l’eau, c’est-à-dire qu’ils perdent tout courage ; c’est tout le contraire d’un cœur qui se fortifie ou s’affermit (voir <data class=\"bible-ref\" data-start-ref=\"06001007\" data-end-ref=\"06001007\">1.7</data>, <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">9</data>, etc.).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007005",
+"start_ref_usfm": "JOS 7:5",
+"end_ref": "06007005",
+"end_ref_usfm": "JOS 7:5"
+},
+{
+"start_ref": "06002011",
+"start_ref_usfm": "JOS 2:11",
+"end_ref": "06002011",
+"end_ref_usfm": "JOS 2:11"
+},
+{
+"start_ref": "06005011",
+"start_ref_usfm": "JOS 5:11",
+"end_ref": "06005011",
+"end_ref_usfm": "JOS 5:11"
+},
+{
+"start_ref": "02016021",
+"start_ref_usfm": "EXO 16:21",
+"end_ref": "02016021",
+"end_ref_usfm": "EXO 16:21"
+},
+{
+"start_ref": "05001028",
+"start_ref_usfm": "DEU 1:28",
+"end_ref": "05001028",
+"end_ref_usfm": "DEU 1:28"
+},
+{
+"start_ref": "07015014",
+"start_ref_usfm": "JDG 15:14",
+"end_ref": "07015014",
+"end_ref_usfm": "JDG 15:14"
+},
+{
+"start_ref": "19068003",
+"start_ref_usfm": "PSA 68:3",
+"end_ref": "19068003",
+"end_ref_usfm": "PSA 68:3"
+},
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+},
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.6 (#1)",
+"media_type": "Text",
+"index_reference": "06007006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Déchirer ses vêtements et se couvrir la tête de poussière était un signe de deuil et/ou de repentance.  Ces actions reflétaient une profonde tristesse ou le fait de s’humilier soi-même.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007006",
+"start_ref_usfm": "JOS 7:6",
+"end_ref": "06007006",
+"end_ref_usfm": "JOS 7:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.11 (#1)",
+"media_type": "Text",
+"index_reference": "06007011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « ont cachées » peut signifier cacher, dissimuler, tromper, mentir.  Certaines versions françaises comprennent ce verbe comme faisant référence à un mensonge de la part d’Acan (« et même ils ont volé, et même ils sont menti » (Darby, voir aussi Bible annotée).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007011",
+"start_ref_usfm": "JOS 7:11",
+"end_ref": "06007011",
+"end_ref_usfm": "JOS 7:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007012-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.12 (#1)",
+"media_type": "Text",
+"index_reference": "06007012",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ne pas avoir respecté les termes de l’interdit les place eux-mêmes sous cet interdit (<data class=\"resource-ref\" data-content-id=\"06003016-01\" data-resource-code=\"AFBRTTranslationNotes\">voir note correspondante à 3.16</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007012",
+"start_ref_usfm": "JOS 7:12",
+"end_ref": "06007012",
+"end_ref_usfm": "JOS 7:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007015-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.15 (#1)",
+"media_type": "Text",
+"index_reference": "06007015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « infamie » décrit une action honteuse, un péché qui est une folie.  C’est un péché qui est considéré comme une offense contre Dieu en particulier.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007015",
+"start_ref_usfm": "JOS 7:15",
+"end_ref": "06007015",
+"end_ref_usfm": "JOS 7:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.19 (#1)",
+"media_type": "Text",
+"index_reference": "06007019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « donne-lui louanges » ou « rends-lui grâces ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007019",
+"start_ref_usfm": "JOS 7:19",
+"end_ref": "06007019",
+"end_ref_usfm": "JOS 7:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007021-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.21 (#1)",
+"media_type": "Text",
+"index_reference": "06007021",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « Schinear » est l’ancien nom du territoire qui est devenu la Babylonie.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007021",
+"start_ref_usfm": "JOS 7:21",
+"end_ref": "06007021",
+"end_ref_usfm": "JOS 7:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007021-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.21 (#2)",
+"media_type": "Text",
+"index_reference": "06007021",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « langue d’or ».  Le mot « langue » est utilisé au sens figuré ici : le lingot a une forme qui ressemble à celle d’une langue (voir aussi verset 24).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007021",
+"start_ref_usfm": "JOS 7:21",
+"end_ref": "06007021",
+"end_ref_usfm": "JOS 7:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06007026-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 7.26 (#1)",
+"media_type": "Text",
+"index_reference": "06007026",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le nom hébreu traduit « Acor » signifie « trouble » (voir en particulier le verset 25).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007026",
+"start_ref_usfm": "JOS 7:26",
+"end_ref": "06007026",
+"end_ref_usfm": "JOS 7:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.1 (#1)",
+"media_type": "Text",
+"index_reference": "06008001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « sa terre » (Lausanne), « ses terres », « son territoire » (Bible du Rabbinat français).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008001",
+"start_ref_usfm": "JOS 8:1",
+"end_ref": "06008001",
+"end_ref_usfm": "JOS 8:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.2 (#1)",
+"media_type": "Text",
+"index_reference": "06008002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter que ce qui a fait des actions d’Acan un péché n’est pas le fait de prendre du butin, mais le fait de prendre du butin qui était dévoué par interdit.  Ici, l’Éternel permet à Israël de prendre « pour eux-mêmes » le butin et le bétail.  Il n’ordonne pas de les dévouer par interdit : ce n’est donc pas un péché pour Israël d’en prendre possession.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008002",
+"start_ref_usfm": "JOS 8:2",
+"end_ref": "06008002",
+"end_ref_usfm": "JOS 8:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.3 (#1)",
+"media_type": "Text",
+"index_reference": "06008003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire des guerriers.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008003",
+"start_ref_usfm": "JOS 8:3",
+"end_ref": "06008003",
+"end_ref_usfm": "JOS 8:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.10 (#1)",
+"media_type": "Text",
+"index_reference": "06008010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que Josué inspecte ou examine les troupes avec lesquelles il va partir en guerre contre Aï.  Le texte ne précise pas en quoi cette inspection consiste.  Il pourrait s’agir d’un dénombrement (c’est-à-dire compter le nombre de soldats qui vont participer à l’attaque sous ses ordres, voir Ostervald).  La plupart des versions françaises traduisent en termes généraux (« passer en revue » ou « inspecter »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008010",
+"start_ref_usfm": "JOS 8:10",
+"end_ref": "06008010",
+"end_ref_usfm": "JOS 8:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008016-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.16 (#1)",
+"media_type": "Text",
+"index_reference": "06008016",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire tout le peuple d’Aï.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008016",
+"start_ref_usfm": "JOS 8:16",
+"end_ref": "06008016",
+"end_ref_usfm": "JOS 8:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.17 (#1)",
+"media_type": "Text",
+"index_reference": "06008017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Et il ne resta pas un homme dans Aï et Béthel qui ne sortirent pas après Israël ».  Le sens est que pas un homme ne reste dans ces villes : ils sortent tous jusqu’au dernier afin de poursuivre Israël.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008017",
+"start_ref_usfm": "JOS 8:17",
+"end_ref": "06008017",
+"end_ref_usfm": "JOS 8:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008018-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.18 (#1)",
+"media_type": "Text",
+"index_reference": "06008018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « javelot » peut désigner un javelot, une épée courte, un dard ou une lance.  Il n’est donc pas clair de quelle arme il s’agit exactement.  Une lance est plus grande qu’un javelot et est généralement désignée par un autre mot en hébreu.  Les versions et paraphrases françaises traduisent le plus souvent par « javelot ».  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008018",
+"start_ref_usfm": "JOS 8:18",
+"end_ref": "06008018",
+"end_ref_usfm": "JOS 8:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008020-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.20 (#1)",
+"media_type": "Text",
+"index_reference": "06008020",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire le peuple israélite qui était avec Josué.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008020",
+"start_ref_usfm": "JOS 8:20",
+"end_ref": "06008020",
+"end_ref_usfm": "JOS 8:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008022-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.22 (#1)",
+"media_type": "Text",
+"index_reference": "06008022",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire les autres Israélites qui se sont tenus en embuscade.  Après avoir mis le feu à Aï, ils en sortent pour se battre contre les habitants de la ville qui poursuivent Josué et le peuple avec lui.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008022",
+"start_ref_usfm": "JOS 8:22",
+"end_ref": "06008022",
+"end_ref_usfm": "JOS 8:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008030-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.30 (#1)",
+"media_type": "Text",
+"index_reference": "06008030",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Un autel était une structure dont la surface était plane et sur laquelle on offrait en général des sacrifices à une divinité (noter cependant que les autels pouvaient avoir une autre fonction, voir <data class=\"bible-ref\" data-start-ref=\"06022023\" data-end-ref=\"06022029\">22.23–29</data>).  Les autels étaient souvent faits de pierres (à l’origine, les autels à l’Éternel devaient être faits de pierres non taillées, comme ici ; voir <data class=\"bible-ref\" data-start-ref=\"05027005\" data-end-ref=\"05027006\">Deutéronome 27.5–6</data>).  Toutefois, l’autel que Salomon a fait bâtir était de cèdre et était recouvert d’or (voir <data class=\"bible-ref\" data-start-ref=\"11006020\" data-end-ref=\"11006020\">1 Rois 6.20</data>).  </p>\n      <p>Le mot « autel » apparaît 15 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06008030\" data-end-ref=\"06008030\">8.30</data>, <data class=\"bible-ref\" data-start-ref=\"06008031\" data-end-ref=\"06008031\">31</data> ; <data class=\"bible-ref\" data-start-ref=\"06009027\" data-end-ref=\"06009027\">9.27</data> ; <data class=\"bible-ref\" data-start-ref=\"06022010\" data-end-ref=\"06022010\">22.10</data> (x2), 11, 16, 19 (x2), 23, 26, 28, 29 (x2), 34.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008030",
+"end_ref_usfm": "JOS 8:30"
+},
+{
+"start_ref": "06022023",
+"start_ref_usfm": "JOS 22:23",
+"end_ref": "06022029",
+"end_ref_usfm": "JOS 22:29"
+},
+{
+"start_ref": "05027005",
+"start_ref_usfm": "DEU 27:5",
+"end_ref": "05027006",
+"end_ref_usfm": "DEU 27:6"
+},
+{
+"start_ref": "11006020",
+"start_ref_usfm": "1KI 6:20",
+"end_ref": "11006020",
+"end_ref_usfm": "1KI 6:20"
+},
+{
+"start_ref": "06008031",
+"start_ref_usfm": "JOS 8:31",
+"end_ref": "06008031",
+"end_ref_usfm": "JOS 8:31"
+},
+{
+"start_ref": "06009027",
+"start_ref_usfm": "JOS 9:27",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "06022010",
+"start_ref_usfm": "JOS 22:10",
+"end_ref": "06022010",
+"end_ref_usfm": "JOS 22:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008031-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.31 (#1)",
+"media_type": "Text",
+"index_reference": "06008031",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ici, « brutes » décrit des pierres qui n’ont pas été taillées par main d’homme avec un instrument, comme l’indique la fin du verset.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008031",
+"start_ref_usfm": "JOS 8:31",
+"end_ref": "06008031",
+"end_ref_usfm": "JOS 8:31"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06008035-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 8.35 (#1)",
+"media_type": "Text",
+"index_reference": "06008035",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ce passage (<data class=\"bible-ref\" data-start-ref=\"06008030\" data-end-ref=\"06008035\">8.30–35</data>) détaille la façon dont Josué a obéi à toutes les instructions de l’Éternel par Moïse qui se trouvent dans <data class=\"bible-ref\" data-start-ref=\"05027002\" data-end-ref=\"05027026\">Deutéronome 27.2–26</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06008035",
+"start_ref_usfm": "JOS 8:35",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "05027002",
+"start_ref_usfm": "DEU 27:2",
+"end_ref": "05027026",
+"end_ref_usfm": "DEU 27:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06009001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 9.1 (#1)",
+"media_type": "Text",
+"index_reference": "06009001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire à l’ouest du Jourdain.  Il y a accord sur la signification de cette expression, mais elle est traduite différemment selon les versions et paraphrases françaises : </p>\n      <ul>\n      <li>« en-deçà » ou « au-delà » : LSG, Ostervald, Darby, Bible annotée, Nouvelle Bible Segond, Nouvelle édition de Genève, Traduction œcuménique, Traduction officielle liturgique</li>\n      <li>« à l’ouest du Jourdain » : Segond 21, Bible juive complète, Semeur, Parole de vie, Nouvelle français courant, Français courant</li>\n      <li>« de l’autre côté du Jourdain » : Colombe</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009001",
+"end_ref_usfm": "JOS 9:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06009001-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 9.1 (#2)",
+"media_type": "Text",
+"index_reference": "06009001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire la mer Méditerranée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009001",
+"end_ref_usfm": "JOS 9:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06009006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 9.6 (#1)",
+"media_type": "Text",
+"index_reference": "06009006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « maintenant coupez une alliance avec nous ».  En hébreu, on parle de « couper » une alliance, tandis qu’en français, on parle de « conclure » ou de faire une alliance.  Le verbe hébreu traduit « couper » est utilisé dans cette expression dans <data class=\"bible-ref\" data-start-ref=\"06009006\" data-end-ref=\"06009006\">9.6</data>, <data class=\"bible-ref\" data-start-ref=\"06009007\" data-end-ref=\"06009007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06009011\" data-end-ref=\"06009011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"06009015\" data-end-ref=\"06009015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"06009016\" data-end-ref=\"06009016\">16</data> ; <data class=\"bible-ref\" data-start-ref=\"06024025\" data-end-ref=\"06024025\">24.25</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06009006",
+"start_ref_usfm": "JOS 9:6",
+"end_ref": "06009006",
+"end_ref_usfm": "JOS 9:6"
+},
+{
+"start_ref": "06009007",
+"start_ref_usfm": "JOS 9:7",
+"end_ref": "06009007",
+"end_ref_usfm": "JOS 9:7"
+},
+{
+"start_ref": "06009011",
+"start_ref_usfm": "JOS 9:11",
+"end_ref": "06009011",
+"end_ref_usfm": "JOS 9:11"
+},
+{
+"start_ref": "06009015",
+"start_ref_usfm": "JOS 9:15",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06009016",
+"start_ref_usfm": "JOS 9:16",
+"end_ref": "06009016",
+"end_ref_usfm": "JOS 9:16"
+},
+{
+"start_ref": "06024025",
+"start_ref_usfm": "JOS 24:25",
+"end_ref": "06024025",
+"end_ref_usfm": "JOS 24:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06009019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 9.19 (#1)",
+"media_type": "Text",
+"index_reference": "06009019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire leur faire du mal et les tuer.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06009019",
+"start_ref_usfm": "JOS 9:19",
+"end_ref": "06009019",
+"end_ref_usfm": "JOS 9:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06009021-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 9.21 (#1)",
+"media_type": "Text",
+"index_reference": "06009021",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est possible de comprendre cette partie de la phrase de deux façons :</p>\n      <ul>\n      <li>« Mais ils furent employés à couper le bois et à puiser l’eau pour toute l’assemblée » ne fait pas partie de la citation des chefs d’Israël : il s’agit d’une remarque qui clarifie le fait que même s’ils vivraient, ils seraient réduits à l’esclavage. La citation des paroles des chefs d’Israël prend donc fin à « Ils vivront ! ».  C’est le choix de traduction de la plupart des versions françaises.</li>\n      <li>Ces mots font partie de la citation des paroles des chefs d’Israël : « Qu’ils vivent, mais qu’ils coupent du bois et puisent de l’eau pour toute la communauté ! ». Certaines versions modernes et paraphrases traduisent selon cette option (Traduction officielle liturgique, Bible juive complète, Semeur, Parole de vie, Français courant, Nouvelle français courant).</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06009021",
+"start_ref_usfm": "JOS 9:21",
+"end_ref": "06009021",
+"end_ref_usfm": "JOS 9:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.13 (#1)",
+"media_type": "Text",
+"index_reference": "06010013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le verbe hébreu traduit « ait tiré vengeance » signifie venger, se venger, punir.  L’idée de vengeance est très souvent négative en français : il est présupposé qu’il s’agit simplement de faire du mal en retour d’un mal perçu.  Les idées d’injustice et d’excès sont souvent associées au concept de vengeance.  Le verbe hébreu présuppose au contraire que la « vengeance » dont il est question rétablit ce qui est juste et droit.  Ici, par exemple, en plus d’avoir déjà été condamnés à être tués par l’Éternel, ces rois ont attaqué Gabaon dans le but de nuire aux enfants d’Israël.  Ainsi, ces rois sont en tort d’avoir choisi d'attaquer des gens alliés à Israël.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010013",
+"start_ref_usfm": "JOS 10:13",
+"end_ref": "06010013",
+"end_ref_usfm": "JOS 10:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.19 (#1)",
+"media_type": "Text",
+"index_reference": "06010019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « Attaquer par derrière » ne signifie pas les attaquer par surprise de façon déloyale comme cette expression peut parfois signifier en français.  Il s’agit de les rattraper en les poursuivant pour pouvoir les attaquer : puisqu’Israël poursuit ses ennemis qui sont en train de fuir, il les rattrapera nécessairement par derrière (ils arriveront « par derrière » quand ils les rattraperont).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010019",
+"start_ref_usfm": "JOS 10:19",
+"end_ref": "06010019",
+"end_ref_usfm": "JOS 10:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010025-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.25 (#1)",
+"media_type": "Text",
+"index_reference": "06010025",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter les parallèles entre (1) les paroles de Josué aux chefs des gens de guerre sous ses ordres et (2) les paroles de l’Éternel à Josué au premier chapitre (voir <data class=\"bible-ref\" data-start-ref=\"06001006\" data-end-ref=\"06001007\">1.6–7</data>, <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">9</data>).  Les verbes traduits « se fortifier » et « avoir du courage » sont les mêmes dans <data class=\"bible-ref\" data-start-ref=\"06001006\" data-end-ref=\"06001006\">1.6</data>, <data class=\"bible-ref\" data-start-ref=\"06001007\" data-end-ref=\"06001007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">9</data> et <data class=\"bible-ref\" data-start-ref=\"06010025\" data-end-ref=\"06010025\">10.25</data>.  Le verbe traduit « être terrifié » dans <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">1.9</data> et <data class=\"bible-ref\" data-start-ref=\"06010025\" data-end-ref=\"06010025\">10.25</data> est le même également.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010025",
+"start_ref_usfm": "JOS 10:25",
+"end_ref": "06010025",
+"end_ref_usfm": "JOS 10:25"
+},
+{
+"start_ref": "06001006",
+"start_ref_usfm": "JOS 1:6",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+},
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+},
+{
+"start_ref": "06001006",
+"start_ref_usfm": "JOS 1:6",
+"end_ref": "06001006",
+"end_ref_usfm": "JOS 1:6"
+},
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010032-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.32 (#1)",
+"media_type": "Text",
+"index_reference": "06010032",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire le peuple d’Israël.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010032",
+"start_ref_usfm": "JOS 10:32",
+"end_ref": "06010032",
+"end_ref_usfm": "JOS 10:32"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010034-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.34 (#1)",
+"media_type": "Text",
+"index_reference": "06010034",
+"language": "fra",
+"review_level": "None",
+"content": "<p> En hébreu, les villes sont toujours au féminin.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010034",
+"start_ref_usfm": "JOS 10:34",
+"end_ref": "06010034",
+"end_ref_usfm": "JOS 10:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010037-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.37 (#1)",
+"media_type": "Text",
+"index_reference": "06010037",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « toutes ses villes ».  Les plus petites villes autour d’une plus grande en dépendaient ; c’est-à-dire que la plus grande ville les dirigeait et les protégeait.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010037",
+"start_ref_usfm": "JOS 10:37",
+"end_ref": "06010037",
+"end_ref_usfm": "JOS 10:37"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010040-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.40 (#1)",
+"media_type": "Text",
+"index_reference": "06010040",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « Néguev » (H5045) peut désigner : </p>\n      <ul>\n      <li>le sud (ou midi)</li>\n      <li>une terre aride ou un désert</li>\n      <li>le désert qui se trouve dans la région sud de la Terre sainte, dans le territoire de la tribu de Juda. C’est une région désertique qui a peu de végétation et qui reçoit peu de pluie. Noter que dans ce cas, il est souvent traduit comme un nom propre en français : le Néguev (comme ici).</li>\n      </ul>\n      <p>Dans les versions françaises anciennes, ce mot est souvent traduit « midi » ou « Midi ».  Il est utilisé 26 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06010040\" data-end-ref=\"06010040\">10.40</data> ; <data class=\"bible-ref\" data-start-ref=\"06011002\" data-end-ref=\"06011002\">11.2</data>, <data class=\"bible-ref\" data-start-ref=\"06011016\" data-end-ref=\"06011016\">16</data> ; <data class=\"bible-ref\" data-start-ref=\"06012008\" data-end-ref=\"06012008\">12.8</data> ; <data class=\"bible-ref\" data-start-ref=\"06015001\" data-end-ref=\"06015001\">15.1</data>, <data class=\"bible-ref\" data-start-ref=\"06015002\" data-end-ref=\"06015002\">2</data>, <data class=\"bible-ref\" data-start-ref=\"06015003\" data-end-ref=\"06015003\">3</data>, <data class=\"bible-ref\" data-start-ref=\"06015004\" data-end-ref=\"06015004\">4</data>, <data class=\"bible-ref\" data-start-ref=\"06015007\" data-end-ref=\"06015007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06015008\" data-end-ref=\"06015008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06015019\" data-end-ref=\"06015019\">19</data>, <data class=\"bible-ref\" data-start-ref=\"06015021\" data-end-ref=\"06015021\">21</data> ; <data class=\"bible-ref\" data-start-ref=\"06017009\" data-end-ref=\"06017009\">17.9</data>, <data class=\"bible-ref\" data-start-ref=\"06017010\" data-end-ref=\"06017010\">10</data> ; <data class=\"bible-ref\" data-start-ref=\"06018005\" data-end-ref=\"06018005\">18.5</data>, <data class=\"bible-ref\" data-start-ref=\"06018013\" data-end-ref=\"06018013\">13</data>, <data class=\"bible-ref\" data-start-ref=\"06018014\" data-end-ref=\"06018014\">14</data>, <data class=\"bible-ref\" data-start-ref=\"06018015\" data-end-ref=\"06018015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"06018016\" data-end-ref=\"06018016\">16</data>, <data class=\"bible-ref\" data-start-ref=\"06018019\" data-end-ref=\"06018019\">19</data> ; <data class=\"bible-ref\" data-start-ref=\"06019034\" data-end-ref=\"06019034\">19.34</data>.  Il est traduit « Néguev » ou « sud » dans le texte biblique de comparaison Aquifer.</p>\n      <p>Noter qu’un autre mot hébreu peut désigner le sud en tant que point cardinal (H8486).  Ce mot est utilisé trois fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06012003\" data-end-ref=\"06012003\">12.3</data> ; <data class=\"bible-ref\" data-start-ref=\"06013004\" data-end-ref=\"06013004\">13.4</data> ; <data class=\"bible-ref\" data-start-ref=\"06015001\" data-end-ref=\"06015001\">15.1</data>. </p>\n      <p>Noter également qu’un autre mot hébreu peut désigner un désert (<data class=\"resource-ref\" data-content-id=\"06001004-01\" data-resource-code=\"AFBRTTranslationNotes\">voir note correspondante à 1.4</data>, « désert »).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010040",
+"start_ref_usfm": "JOS 10:40",
+"end_ref": "06010040",
+"end_ref_usfm": "JOS 10:40"
+},
+{
+"start_ref": "06011002",
+"start_ref_usfm": "JOS 11:2",
+"end_ref": "06011002",
+"end_ref_usfm": "JOS 11:2"
+},
+{
+"start_ref": "06011016",
+"start_ref_usfm": "JOS 11:16",
+"end_ref": "06011016",
+"end_ref_usfm": "JOS 11:16"
+},
+{
+"start_ref": "06012008",
+"start_ref_usfm": "JOS 12:8",
+"end_ref": "06012008",
+"end_ref_usfm": "JOS 12:8"
+},
+{
+"start_ref": "06015001",
+"start_ref_usfm": "JOS 15:1",
+"end_ref": "06015001",
+"end_ref_usfm": "JOS 15:1"
+},
+{
+"start_ref": "06015002",
+"start_ref_usfm": "JOS 15:2",
+"end_ref": "06015002",
+"end_ref_usfm": "JOS 15:2"
+},
+{
+"start_ref": "06015003",
+"start_ref_usfm": "JOS 15:3",
+"end_ref": "06015003",
+"end_ref_usfm": "JOS 15:3"
+},
+{
+"start_ref": "06015004",
+"start_ref_usfm": "JOS 15:4",
+"end_ref": "06015004",
+"end_ref_usfm": "JOS 15:4"
+},
+{
+"start_ref": "06015007",
+"start_ref_usfm": "JOS 15:7",
+"end_ref": "06015007",
+"end_ref_usfm": "JOS 15:7"
+},
+{
+"start_ref": "06015008",
+"start_ref_usfm": "JOS 15:8",
+"end_ref": "06015008",
+"end_ref_usfm": "JOS 15:8"
+},
+{
+"start_ref": "06015019",
+"start_ref_usfm": "JOS 15:19",
+"end_ref": "06015019",
+"end_ref_usfm": "JOS 15:19"
+},
+{
+"start_ref": "06015021",
+"start_ref_usfm": "JOS 15:21",
+"end_ref": "06015021",
+"end_ref_usfm": "JOS 15:21"
+},
+{
+"start_ref": "06017009",
+"start_ref_usfm": "JOS 17:9",
+"end_ref": "06017009",
+"end_ref_usfm": "JOS 17:9"
+},
+{
+"start_ref": "06017010",
+"start_ref_usfm": "JOS 17:10",
+"end_ref": "06017010",
+"end_ref_usfm": "JOS 17:10"
+},
+{
+"start_ref": "06018005",
+"start_ref_usfm": "JOS 18:5",
+"end_ref": "06018005",
+"end_ref_usfm": "JOS 18:5"
+},
+{
+"start_ref": "06018013",
+"start_ref_usfm": "JOS 18:13",
+"end_ref": "06018013",
+"end_ref_usfm": "JOS 18:13"
+},
+{
+"start_ref": "06018014",
+"start_ref_usfm": "JOS 18:14",
+"end_ref": "06018014",
+"end_ref_usfm": "JOS 18:14"
+},
+{
+"start_ref": "06018015",
+"start_ref_usfm": "JOS 18:15",
+"end_ref": "06018015",
+"end_ref_usfm": "JOS 18:15"
+},
+{
+"start_ref": "06018016",
+"start_ref_usfm": "JOS 18:16",
+"end_ref": "06018016",
+"end_ref_usfm": "JOS 18:16"
+},
+{
+"start_ref": "06018019",
+"start_ref_usfm": "JOS 18:19",
+"end_ref": "06018019",
+"end_ref_usfm": "JOS 18:19"
+},
+{
+"start_ref": "06019034",
+"start_ref_usfm": "JOS 19:34",
+"end_ref": "06019034",
+"end_ref_usfm": "JOS 19:34"
+},
+{
+"start_ref": "06012003",
+"start_ref_usfm": "JOS 12:3",
+"end_ref": "06012003",
+"end_ref_usfm": "JOS 12:3"
+},
+{
+"start_ref": "06013004",
+"start_ref_usfm": "JOS 13:4",
+"end_ref": "06013004",
+"end_ref_usfm": "JOS 13:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010040-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.40 (#2)",
+"media_type": "Text",
+"index_reference": "06010040",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ce mot désigne le flanc, la pente ou le bas d’une montagne.  Il est utilisé quatre fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06010040\" data-end-ref=\"06010040\">10.40</data> ; <data class=\"bible-ref\" data-start-ref=\"06012003\" data-end-ref=\"06012003\">12.3</data> (« pied »), 8 ; <data class=\"bible-ref\" data-start-ref=\"06013020\" data-end-ref=\"06013020\">13.20</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010040",
+"start_ref_usfm": "JOS 10:40",
+"end_ref": "06010040",
+"end_ref_usfm": "JOS 10:40"
+},
+{
+"start_ref": "06012003",
+"start_ref_usfm": "JOS 12:3",
+"end_ref": "06012003",
+"end_ref_usfm": "JOS 12:3"
+},
+{
+"start_ref": "06013020",
+"start_ref_usfm": "JOS 13:20",
+"end_ref": "06013020",
+"end_ref_usfm": "JOS 13:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06010041-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 10.41 (#1)",
+"media_type": "Text",
+"index_reference": "06010041",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter que Josué n’a pas combattu <em>contre</em> Gabaon, mais qu’il a combattu <em>jusqu’à</em> Gabaon pour la défendre contre les cinq rois alliés qui l'avaient attaquée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010041",
+"start_ref_usfm": "JOS 10:41",
+"end_ref": "06010041",
+"end_ref_usfm": "JOS 10:41"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06011006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 11.6 (#1)",
+"media_type": "Text",
+"index_reference": "06011006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il n’est pas clair si la blessure infligée aux chevaux les aurait tués ou les aurait juste rendus boiteux (et donc inutiles pour la guerre).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06011006",
+"start_ref_usfm": "JOS 11:6",
+"end_ref": "06011006",
+"end_ref_usfm": "JOS 11:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06011006-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 11.6 (#2)",
+"media_type": "Text",
+"index_reference": "06011006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu (également au verset 9) : « brûleras <em>au feu</em> ».  Cette précision n’est pas nécessaire en français.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06011006",
+"start_ref_usfm": "JOS 11:6",
+"end_ref": "06011006",
+"end_ref_usfm": "JOS 11:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06011014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 11.14 (#1)",
+"media_type": "Text",
+"index_reference": "06011014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire tous les êtres humains.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06011014",
+"start_ref_usfm": "JOS 11:14",
+"end_ref": "06011014",
+"end_ref_usfm": "JOS 11:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06011017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 11.17 (#1)",
+"media_type": "Text",
+"index_reference": "06011017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il n’est pas clair si l’expression « montagne nue » désigne une montagne qui est « dénudée » ou « lisse » (signification du mot hébreu « halaq » utilisé ici), ou s’il s’agit du nom de la montagne :</p>\n      <ul>\n      <li>« le mont Halak » (Darby, Ostervald)</li>\n      <li>« montagne nue » (Bible annotée et de nombreuses versions françaises)</li>\n      <li>« Mont Chauve » (Colombe)</li>\n      <li>« montagne pelée » (Segond 21)</li>\n      <li>« montagne dénudée » (Français courant)</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06011017",
+"start_ref_usfm": "JOS 11:17",
+"end_ref": "06011017",
+"end_ref_usfm": "JOS 11:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06012001-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 12.1 (#1)",
+"media_type": "Text",
+"index_reference": "06012001",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « torrent » peut désigner un cours d’eau (rivière, fleuve, torrent), mais aussi la vallée qui suit ce cours d’eau.  Ce mot apparaît 16 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06012001\" data-end-ref=\"06012001\">12.1</data>, <data class=\"bible-ref\" data-start-ref=\"06012002\" data-end-ref=\"06012002\">2</data> (x3) ; <data class=\"bible-ref\" data-start-ref=\"06013009\" data-end-ref=\"06013009\">13.9</data> (x2), 16 (x2) : <data class=\"bible-ref\" data-start-ref=\"06015004\" data-end-ref=\"06015004\">15.4</data>, <data class=\"bible-ref\" data-start-ref=\"06015007\" data-end-ref=\"06015007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06015047\" data-end-ref=\"06015047\">47</data> ; <data class=\"bible-ref\" data-start-ref=\"06016008\" data-end-ref=\"06016008\">16.8</data> ; <data class=\"bible-ref\" data-start-ref=\"06017009\" data-end-ref=\"06017009\">17.9</data> (x2) ; <data class=\"bible-ref\" data-start-ref=\"06019011\" data-end-ref=\"06019011\">19.11</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06012001",
+"start_ref_usfm": "JOS 12:1",
+"end_ref": "06012001",
+"end_ref_usfm": "JOS 12:1"
+},
+{
+"start_ref": "06012002",
+"start_ref_usfm": "JOS 12:2",
+"end_ref": "06012002",
+"end_ref_usfm": "JOS 12:2"
+},
+{
+"start_ref": "06013009",
+"start_ref_usfm": "JOS 13:9",
+"end_ref": "06013009",
+"end_ref_usfm": "JOS 13:9"
+},
+{
+"start_ref": "06015004",
+"start_ref_usfm": "JOS 15:4",
+"end_ref": "06015004",
+"end_ref_usfm": "JOS 15:4"
+},
+{
+"start_ref": "06015007",
+"start_ref_usfm": "JOS 15:7",
+"end_ref": "06015007",
+"end_ref_usfm": "JOS 15:7"
+},
+{
+"start_ref": "06015047",
+"start_ref_usfm": "JOS 15:47",
+"end_ref": "06015047",
+"end_ref_usfm": "JOS 15:47"
+},
+{
+"start_ref": "06016008",
+"start_ref_usfm": "JOS 16:8",
+"end_ref": "06016008",
+"end_ref_usfm": "JOS 16:8"
+},
+{
+"start_ref": "06017009",
+"start_ref_usfm": "JOS 17:9",
+"end_ref": "06017009",
+"end_ref_usfm": "JOS 17:9"
+},
+{
+"start_ref": "06019011",
+"start_ref_usfm": "JOS 19:11",
+"end_ref": "06019011",
+"end_ref_usfm": "JOS 19:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06012007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 12.7 (#1)",
+"media_type": "Text",
+"index_reference": "06012007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <data class=\"resource-ref\" data-content-id=\"06011017-01\" data-resource-code=\"AFBRTTranslationNotes\">Voir note correspondante à 11.17.</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06012007",
+"start_ref_usfm": "JOS 12:7",
+"end_ref": "06012007",
+"end_ref_usfm": "JOS 12:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06014002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 14.2 (#1)",
+"media_type": "Text",
+"index_reference": "06014002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « sort » désigne la pratique de lancer un objet (jeter <em>le</em> sort) pour déterminer un choix par la façon dont il tombe.  Noter que le mot « sort » ne désigne pas ici la pratique de sorcellerie (comme dans l’expression française « jeter <em>un</em> sort »).  Le sort était utilisé pour faire un choix « au hasard », sachant que l’Éternel est souverain et détermine même ce genre de chose (sachant aussi que c’est Dieu lui-même qui avait donné l’ordre à Josué de déterminer la part de chaque tribu par le sort, voir la fin du verset, ainsi que le verset <data class=\"bible-ref\" data-start-ref=\"06021008\" data-end-ref=\"06021008\">21.8</data>).</p>\n      <p>Ce mot est utilisé 29 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06014002\" data-end-ref=\"06014002\">14.2</data> ; <data class=\"bible-ref\" data-start-ref=\"06015001\" data-end-ref=\"06015001\">15.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06016001\" data-end-ref=\"06016001\">16.1</data> ; <data class=\"bible-ref\" data-start-ref=\"06017001\" data-end-ref=\"06017001\">17.1</data>, <data class=\"bible-ref\" data-start-ref=\"06017014\" data-end-ref=\"06017014\">14</data>, <data class=\"bible-ref\" data-start-ref=\"06017017\" data-end-ref=\"06017017\">17</data> ; <data class=\"bible-ref\" data-start-ref=\"06018006\" data-end-ref=\"06018006\">18.6</data>, <data class=\"bible-ref\" data-start-ref=\"06018008\" data-end-ref=\"06018008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06018010\" data-end-ref=\"06018010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06018011\" data-end-ref=\"06018011\">11</data> ; <data class=\"bible-ref\" data-start-ref=\"06019001\" data-end-ref=\"06019001\">19.1</data>, <data class=\"bible-ref\" data-start-ref=\"06019010\" data-end-ref=\"06019010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06019017\" data-end-ref=\"06019017\">17</data>, <data class=\"bible-ref\" data-start-ref=\"06019024\" data-end-ref=\"06019024\">24</data>, <data class=\"bible-ref\" data-start-ref=\"06019032\" data-end-ref=\"06019032\">32</data>, <data class=\"bible-ref\" data-start-ref=\"06019040\" data-end-ref=\"06019040\">40</data>, <data class=\"bible-ref\" data-start-ref=\"06019051\" data-end-ref=\"06019051\">51</data> ; <data class=\"bible-ref\" data-start-ref=\"06021004\" data-end-ref=\"06021004\">21.4</data>, <data class=\"bible-ref\" data-start-ref=\"06021005\" data-end-ref=\"06021005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"06021006\" data-end-ref=\"06021006\">6</data>, <data class=\"bible-ref\" data-start-ref=\"06021008\" data-end-ref=\"06021008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"06021010\" data-end-ref=\"06021010\">10</data>, <data class=\"bible-ref\" data-start-ref=\"06021020\" data-end-ref=\"06021020\">20</data>, 40.</p>\n      <p>Noter que ce mot est également utilisé deux fois dans Esther : <data class=\"bible-ref\" data-start-ref=\"17003007\" data-end-ref=\"17003007\">3.7</data> ; <data class=\"bible-ref\" data-start-ref=\"17009024\" data-end-ref=\"17009024\">9.24</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06014002",
+"start_ref_usfm": "JOS 14:2",
+"end_ref": "06014002",
+"end_ref_usfm": "JOS 14:2"
+},
+{
+"start_ref": "06021008",
+"start_ref_usfm": "JOS 21:8",
+"end_ref": "06021008",
+"end_ref_usfm": "JOS 21:8"
+},
+{
+"start_ref": "06015001",
+"start_ref_usfm": "JOS 15:1",
+"end_ref": "06015001",
+"end_ref_usfm": "JOS 15:1"
+},
+{
+"start_ref": "06016001",
+"start_ref_usfm": "JOS 16:1",
+"end_ref": "06016001",
+"end_ref_usfm": "JOS 16:1"
+},
+{
+"start_ref": "06017001",
+"start_ref_usfm": "JOS 17:1",
+"end_ref": "06017001",
+"end_ref_usfm": "JOS 17:1"
+},
+{
+"start_ref": "06017014",
+"start_ref_usfm": "JOS 17:14",
+"end_ref": "06017014",
+"end_ref_usfm": "JOS 17:14"
+},
+{
+"start_ref": "06017017",
+"start_ref_usfm": "JOS 17:17",
+"end_ref": "06017017",
+"end_ref_usfm": "JOS 17:17"
+},
+{
+"start_ref": "06018006",
+"start_ref_usfm": "JOS 18:6",
+"end_ref": "06018006",
+"end_ref_usfm": "JOS 18:6"
+},
+{
+"start_ref": "06018008",
+"start_ref_usfm": "JOS 18:8",
+"end_ref": "06018008",
+"end_ref_usfm": "JOS 18:8"
+},
+{
+"start_ref": "06018010",
+"start_ref_usfm": "JOS 18:10",
+"end_ref": "06018010",
+"end_ref_usfm": "JOS 18:10"
+},
+{
+"start_ref": "06018011",
+"start_ref_usfm": "JOS 18:11",
+"end_ref": "06018011",
+"end_ref_usfm": "JOS 18:11"
+},
+{
+"start_ref": "06019001",
+"start_ref_usfm": "JOS 19:1",
+"end_ref": "06019001",
+"end_ref_usfm": "JOS 19:1"
+},
+{
+"start_ref": "06019010",
+"start_ref_usfm": "JOS 19:10",
+"end_ref": "06019010",
+"end_ref_usfm": "JOS 19:10"
+},
+{
+"start_ref": "06019017",
+"start_ref_usfm": "JOS 19:17",
+"end_ref": "06019017",
+"end_ref_usfm": "JOS 19:17"
+},
+{
+"start_ref": "06019024",
+"start_ref_usfm": "JOS 19:24",
+"end_ref": "06019024",
+"end_ref_usfm": "JOS 19:24"
+},
+{
+"start_ref": "06019032",
+"start_ref_usfm": "JOS 19:32",
+"end_ref": "06019032",
+"end_ref_usfm": "JOS 19:32"
+},
+{
+"start_ref": "06019040",
+"start_ref_usfm": "JOS 19:40",
+"end_ref": "06019040",
+"end_ref_usfm": "JOS 19:40"
+},
+{
+"start_ref": "06019051",
+"start_ref_usfm": "JOS 19:51",
+"end_ref": "06019051",
+"end_ref_usfm": "JOS 19:51"
+},
+{
+"start_ref": "06021004",
+"start_ref_usfm": "JOS 21:4",
+"end_ref": "06021004",
+"end_ref_usfm": "JOS 21:4"
+},
+{
+"start_ref": "06021005",
+"start_ref_usfm": "JOS 21:5",
+"end_ref": "06021005",
+"end_ref_usfm": "JOS 21:5"
+},
+{
+"start_ref": "06021006",
+"start_ref_usfm": "JOS 21:6",
+"end_ref": "06021006",
+"end_ref_usfm": "JOS 21:6"
+},
+{
+"start_ref": "06021010",
+"start_ref_usfm": "JOS 21:10",
+"end_ref": "06021010",
+"end_ref_usfm": "JOS 21:10"
+},
+{
+"start_ref": "06021020",
+"start_ref_usfm": "JOS 21:20",
+"end_ref": "06021020",
+"end_ref_usfm": "JOS 21:20"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003007",
+"end_ref_usfm": "EST 3:7"
+},
+{
+"start_ref": "17009024",
+"start_ref_usfm": "EST 9:24",
+"end_ref": "17009024",
+"end_ref_usfm": "EST 9:24"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06014004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 14.4 (#1)",
+"media_type": "Text",
+"index_reference": "06014004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « environs » désigne l’espace ouvert qui entoure une ville en dehors de ses murs.  Ce territoire est considéré comme appartenant à la ville.  Il était souvent utilisé comme pâturage pour le bétail.  Ce mot apparaît 58 fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06014004\" data-end-ref=\"06014004\">14.4</data>, et 57 fois au chapitre 21.  Ce mot est systématiquement traduit « environs » dans le texte biblique de comparaison Aquifer.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06014004",
+"start_ref_usfm": "JOS 14:4",
+"end_ref": "06014004",
+"end_ref_usfm": "JOS 14:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06014011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 14.11 (#1)",
+"media_type": "Text",
+"index_reference": "06014011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « pour la guerre et pour sortir et pour entrer ».  Il n’est pas clair si les verbes « aller / sortir » et « venir / entrer » s’appliquent à la guerre, où à d’autres activités plus générales.  Ainsi, les versions et paraphrases françaises sont partagées entre les deux options ; certaines préfèrent une traduction qui laisse la porte ouverte aux deux interprétations :</p>\n      <ul>\n      <li>« pour partir au combat et en revenir » (Traduction officielle liturgique), « pour le combat, pour partir en campagne et en revenir  » (Nouvelle Bible Segond, voir aussi Segond 21)</li>\n      <li>« soit pour combattre, soit pour sortir et pour entrer » (Nouvelle édition de Genève), « pour le combat, comme pour sortir ou revenir » (Colombe)</li>\n      <li>« pour le combat, et pour aller et venir » (Ostervald), « pour la guerre, et pour sortir et entrer » (Darby, voir aussi Bible annotée et d’autres)</li>\n      <li>« que ce soit pour la guerre ou pour toute autre activité » (Français courant, Parole de vie)</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06014011",
+"start_ref_usfm": "JOS 14:11",
+"end_ref": "06014011",
+"end_ref_usfm": "JOS 14:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015002-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.2 (#1)",
+"media_type": "Text",
+"index_reference": "06015002",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « la langue ».  Il s’agit d’un large bras de mer qui rentre jusqu’à l’intérieur des terres et qui a une forme comparable à celle d’une langue.  Ce mot est utilisé avec ce sens trois fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06015002\" data-end-ref=\"06015002\">15.2</data>, <data class=\"bible-ref\" data-start-ref=\"06015005\" data-end-ref=\"06015005\">5</data> ; <data class=\"bible-ref\" data-start-ref=\"06018019\" data-end-ref=\"06018019\">18.19</data>.  Voir aussi l’utilisation de ce mot pour désigner un lingot d’or dans <data class=\"bible-ref\" data-start-ref=\"06007021\" data-end-ref=\"06007021\">7.21</data>, 24.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015002",
+"start_ref_usfm": "JOS 15:2",
+"end_ref": "06015002",
+"end_ref_usfm": "JOS 15:2"
+},
+{
+"start_ref": "06015005",
+"start_ref_usfm": "JOS 15:5",
+"end_ref": "06015005",
+"end_ref_usfm": "JOS 15:5"
+},
+{
+"start_ref": "06018019",
+"start_ref_usfm": "JOS 18:19",
+"end_ref": "06018019",
+"end_ref_usfm": "JOS 18:19"
+},
+{
+"start_ref": "06007021",
+"start_ref_usfm": "JOS 7:21",
+"end_ref": "06007021",
+"end_ref_usfm": "JOS 7:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015005-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.5 (#1)",
+"media_type": "Text",
+"index_reference": "06015005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « limite à l’est ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015005",
+"start_ref_usfm": "JOS 15:5",
+"end_ref": "06015005",
+"end_ref_usfm": "JOS 15:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015005-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.5 (#2)",
+"media_type": "Text",
+"index_reference": "06015005",
+"language": "fra",
+"review_level": "None",
+"content": "<p> L’embouchure est l’endroit où un cours d’eau se jette dans un plus grand cours d’eau ou dans une étendue d’eau comme un lac, une mer ou un océan.  Ici, le Jourdain se jette dans la mer Méditerranée.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015005",
+"start_ref_usfm": "JOS 15:5",
+"end_ref": "06015005",
+"end_ref_usfm": "JOS 15:5"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.8 (#1)",
+"media_type": "Text",
+"index_reference": "06015008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Jebus est l’ancien nom de la ville de Jérusalem, et ses habitants s’appelaient les Jébusiens (voir verset 63, <data class=\"bible-ref\" data-start-ref=\"07001021\" data-end-ref=\"07001021\">Juges 1.21</data>, <data class=\"bible-ref\" data-start-ref=\"10005006\" data-end-ref=\"10005006\">2 Samuel 5.6</data> et <data class=\"bible-ref\" data-start-ref=\"13011004\" data-end-ref=\"13011004\">1 Chroniques 11.4</data> ; voir aussi <data class=\"bible-ref\" data-start-ref=\"01010016\" data-end-ref=\"01010016\">Genèse 10.16</data> ; <data class=\"bible-ref\" data-start-ref=\"01015021\" data-end-ref=\"01015021\">15.21</data>).  Cette clarification apparaît également dans <data class=\"bible-ref\" data-start-ref=\"06018028\" data-end-ref=\"06018028\">18.28</data>, <data class=\"bible-ref\" data-start-ref=\"07019010\" data-end-ref=\"07019011\">Juges 19.10–11</data> et <data class=\"bible-ref\" data-start-ref=\"13011004\" data-end-ref=\"13011005\">1 Chroniques 11.4–5</data> (où l’auteur parle de la conquête de Jebus par David).  Il semble que le nom de la ville ait été changé après la capture de la ville par David, même si elle est souvent appelée « Jérusalem » dans les passages qui la mentionnent avant cet événement.  Noter que dans Josué, les références précédentes à Jérusalem (<data class=\"bible-ref\" data-start-ref=\"06010001\" data-end-ref=\"06010001\">10.1</data>, <data class=\"bible-ref\" data-start-ref=\"06010003\" data-end-ref=\"06010003\">3</data>, <data class=\"bible-ref\" data-start-ref=\"06010005\" data-end-ref=\"06010005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"06010023\" data-end-ref=\"06010023\">23</data> ; <data class=\"bible-ref\" data-start-ref=\"06012010\" data-end-ref=\"06012010\">12.10</data>) font partie de l’expression « roi de Jérusalem » pour décrire Adoni-Tsédek (voir <data class=\"bible-ref\" data-start-ref=\"06010001\" data-end-ref=\"06010001\">10.1</data>). </p>\n      <p>Le nom « Jebus » fait référence à une aire de battage (voir Lexique Strong).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015008",
+"start_ref_usfm": "JOS 15:8",
+"end_ref": "06015008",
+"end_ref_usfm": "JOS 15:8"
+},
+{
+"start_ref": "07001021",
+"start_ref_usfm": "JDG 1:21",
+"end_ref": "07001021",
+"end_ref_usfm": "JDG 1:21"
+},
+{
+"start_ref": "10005006",
+"start_ref_usfm": "2SA 5:6",
+"end_ref": "10005006",
+"end_ref_usfm": "2SA 5:6"
+},
+{
+"start_ref": "13011004",
+"start_ref_usfm": "1CH 11:4",
+"end_ref": "13011004",
+"end_ref_usfm": "1CH 11:4"
+},
+{
+"start_ref": "01010016",
+"start_ref_usfm": "GEN 10:16",
+"end_ref": "01010016",
+"end_ref_usfm": "GEN 10:16"
+},
+{
+"start_ref": "01015021",
+"start_ref_usfm": "GEN 15:21",
+"end_ref": "01015021",
+"end_ref_usfm": "GEN 15:21"
+},
+{
+"start_ref": "06018028",
+"start_ref_usfm": "JOS 18:28",
+"end_ref": "06018028",
+"end_ref_usfm": "JOS 18:28"
+},
+{
+"start_ref": "07019010",
+"start_ref_usfm": "JDG 19:10",
+"end_ref": "07019011",
+"end_ref_usfm": "JDG 19:11"
+},
+{
+"start_ref": "13011004",
+"start_ref_usfm": "1CH 11:4",
+"end_ref": "13011005",
+"end_ref_usfm": "1CH 11:5"
+},
+{
+"start_ref": "06010001",
+"start_ref_usfm": "JOS 10:1",
+"end_ref": "06010001",
+"end_ref_usfm": "JOS 10:1"
+},
+{
+"start_ref": "06010003",
+"start_ref_usfm": "JOS 10:3",
+"end_ref": "06010003",
+"end_ref_usfm": "JOS 10:3"
+},
+{
+"start_ref": "06010005",
+"start_ref_usfm": "JOS 10:5",
+"end_ref": "06010005",
+"end_ref_usfm": "JOS 10:5"
+},
+{
+"start_ref": "06010023",
+"start_ref_usfm": "JOS 10:23",
+"end_ref": "06010023",
+"end_ref_usfm": "JOS 10:23"
+},
+{
+"start_ref": "06012010",
+"start_ref_usfm": "JOS 12:10",
+"end_ref": "06012010",
+"end_ref_usfm": "JOS 12:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.13 (#1)",
+"media_type": "Text",
+"index_reference": "06015013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Kirjath-Arba est l’ancien nom de la ville d’Hébron.  « Kirjath-Arba » signifie littéralement « ville d’Arba ». </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015013",
+"start_ref_usfm": "JOS 15:13",
+"end_ref": "06015013",
+"end_ref_usfm": "JOS 15:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015015-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.15 (#1)",
+"media_type": "Text",
+"index_reference": "06015015",
+"language": "fra",
+"review_level": "None",
+"content": "<p> « Kirjath-Sépher » signifie littéralement « ville du livre ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015015",
+"start_ref_usfm": "JOS 15:15",
+"end_ref": "06015015",
+"end_ref_usfm": "JOS 15:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015017-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.17 (#1)",
+"media_type": "Text",
+"index_reference": "06015017",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter qu’il s’agit du premier juge d’Israël (voir <data class=\"bible-ref\" data-start-ref=\"07003009\" data-end-ref=\"07003011\">Juges 3.9–11</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015017",
+"start_ref_usfm": "JOS 15:17",
+"end_ref": "06015017",
+"end_ref_usfm": "JOS 15:17"
+},
+{
+"start_ref": "07003009",
+"start_ref_usfm": "JDG 3:9",
+"end_ref": "07003011",
+"end_ref_usfm": "JDG 3:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015018-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.18 (#1)",
+"media_type": "Text",
+"index_reference": "06015018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire lorsqu’elle devint son épouse.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015018",
+"start_ref_usfm": "JOS 15:18",
+"end_ref": "06015018",
+"end_ref_usfm": "JOS 15:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015018-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.18 (#2)",
+"media_type": "Text",
+"index_reference": "06015018",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu « Qu’as-tu ? »</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015018",
+"start_ref_usfm": "JOS 15:18",
+"end_ref": "06015018",
+"end_ref_usfm": "JOS 15:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06015019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 15.19 (#1)",
+"media_type": "Text",
+"index_reference": "06015019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « Donne-moi une bénédiction ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06015019",
+"start_ref_usfm": "JOS 15:19",
+"end_ref": "06015019",
+"end_ref_usfm": "JOS 15:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06016003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 16.3 (#1)",
+"media_type": "Text",
+"index_reference": "06016003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Deux villes portant le même nom, elles étaient différenciées par les mots « la basse » et « la haute » (voir verset 5).  Ces mots font partie de leur nom.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06016003",
+"start_ref_usfm": "JOS 16:3",
+"end_ref": "06016003",
+"end_ref_usfm": "JOS 16:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06017004-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 17.4 (#1)",
+"media_type": "Text",
+"index_reference": "06017004",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Voir le récit concernant les filles de Tselophchad dans <data class=\"bible-ref\" data-start-ref=\"04026033\" data-end-ref=\"04026033\">Nombres 26.33</data> ; <data class=\"bible-ref\" data-start-ref=\"04027001\" data-end-ref=\"04027007\">27.1–7</data> ; <data class=\"bible-ref\" data-start-ref=\"04036010\" data-end-ref=\"04036012\">36.10–12</data>.  Une loi est donnée à Israël par l’Éternel à l’occasion de la requête de Machla, Noa, Hogla, Milca et Thirtsa, filles de Tselophchad, voir <data class=\"bible-ref\" data-start-ref=\"04027008\" data-end-ref=\"04027011\">Nombres 27.8–11</data> ; <data class=\"bible-ref\" data-start-ref=\"04036002\" data-end-ref=\"04036009\">36.2–9</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06017004",
+"start_ref_usfm": "JOS 17:4",
+"end_ref": "06017004",
+"end_ref_usfm": "JOS 17:4"
+},
+{
+"start_ref": "04026033",
+"start_ref_usfm": "NUM 26:33",
+"end_ref": "04026033",
+"end_ref_usfm": "NUM 26:33"
+},
+{
+"start_ref": "04027001",
+"start_ref_usfm": "NUM 27:1",
+"end_ref": "04027007",
+"end_ref_usfm": "NUM 27:7"
+},
+{
+"start_ref": "04036010",
+"start_ref_usfm": "NUM 36:10",
+"end_ref": "04036012",
+"end_ref_usfm": "NUM 36:12"
+},
+{
+"start_ref": "04027008",
+"start_ref_usfm": "NUM 27:8",
+"end_ref": "04027011",
+"end_ref_usfm": "NUM 27:11"
+},
+{
+"start_ref": "04036002",
+"start_ref_usfm": "NUM 36:2",
+"end_ref": "04036009",
+"end_ref_usfm": "NUM 36:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06017008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 17.8 (#1)",
+"media_type": "Text",
+"index_reference": "06017008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire les terres aux alentours de Tappuach.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06017008",
+"start_ref_usfm": "JOS 17:8",
+"end_ref": "06017008",
+"end_ref_usfm": "JOS 17:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06018007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 18.7 (#1)",
+"media_type": "Text",
+"index_reference": "06018007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire le service de l’Éternel en tant que sacrificateurs et en tant que lévites (assistants des sacrificateurs).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06018007",
+"start_ref_usfm": "JOS 18:7",
+"end_ref": "06018007",
+"end_ref_usfm": "JOS 18:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06018019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 18.19 (#1)",
+"media_type": "Text",
+"index_reference": "06018019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> <data class=\"resource-ref\" data-content-id=\"06015005-01\" data-resource-code=\"AFBRTTranslationNotes\">Voir note correspondante à 15.5.</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06018019",
+"start_ref_usfm": "JOS 18:19",
+"end_ref": "06018019",
+"end_ref_usfm": "JOS 18:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06020003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 20.3 (#1)",
+"media_type": "Text",
+"index_reference": "06020003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « le racheteur du sang ».  Lorsque quelqu’un était victime de meurtre, son plus proche parent (fils, frère, etc.) avait la responsabilité de le venger, c’est-à-dire de tuer celui qui était responsable de sa mort (celui qui avait « fait couler son sang »), voir <data class=\"bible-ref\" data-start-ref=\"04035019\" data-end-ref=\"04035019\">Nombres 35.19</data>.  Le mot traduit « vengeur » (« racheteur » ou « rédempteur ») dans cette expression exprime un devoir général des proches parents les uns envers les autres.  Ici, il s’agit de venger le meurtre d’un membre de la famille ou du clan.  </p>\n      <p>Noter que les devoirs du « rédempteur » (celui qui a « droit de rachat ») s’étendent à la responsabilité de racheter un parent qui est devenu pauvre et s’est vendu en tant que serviteur, ou de racheter sa propriété (voir <data class=\"bible-ref\" data-start-ref=\"03025025\" data-end-ref=\"03025025\">Lévitique 25.25</data>, <data class=\"bible-ref\" data-start-ref=\"03025049\" data-end-ref=\"03025049\">49</data> ; <data class=\"bible-ref\" data-start-ref=\"05025005\" data-end-ref=\"05025006\">Deutéronome 25.5–6</data>).  Tous ces actes (venger, racheter, affranchir) peuvent être considérés comme un acte de rachat.  Le concept est exploré en profondeur dans le livre de Ruth, où le mot apparaît 22 fois entre la fin du chapitre 2 et celle du chapitre 4.</p>\n      <p>Cette expression apparaît trois fois dans Josué : <data class=\"bible-ref\" data-start-ref=\"06020003\" data-end-ref=\"06020003\">20.3</data>, <data class=\"bible-ref\" data-start-ref=\"06020005\" data-end-ref=\"06020005\">5</data>, 9.  Les villes de refuge sont choisies pour permettre à quelqu’un qui a tué son prochain de façon accidentelle d’échapper au vengeur du sang (voir <data class=\"bible-ref\" data-start-ref=\"04035015\" data-end-ref=\"04035029\">Nombres 35.15–29</data>, en particulier les versets 15, 22–25).  Noter les versets suivants ici dans ce chapitre, où il est clair que le meurtrier doit comparaître devant l’assemblée pour déterminer s’il est coupable de meurtre ou s’il s’agit d’un accident : « il s’arrêtera à l’entrée de la porte de la ville et exposera son cas aux anciens de cette ville » (verset 4) ; ses relations avec la victime et son intention seront examinées (verset 5, voir aussi verset 9) ; et il passera « devant l’assemblée pour être jugé » (verset 6, voir aussi verset 9).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06020003",
+"start_ref_usfm": "JOS 20:3",
+"end_ref": "06020003",
+"end_ref_usfm": "JOS 20:3"
+},
+{
+"start_ref": "04035019",
+"start_ref_usfm": "NUM 35:19",
+"end_ref": "04035019",
+"end_ref_usfm": "NUM 35:19"
+},
+{
+"start_ref": "03025025",
+"start_ref_usfm": "LEV 25:25",
+"end_ref": "03025025",
+"end_ref_usfm": "LEV 25:25"
+},
+{
+"start_ref": "03025049",
+"start_ref_usfm": "LEV 25:49",
+"end_ref": "03025049",
+"end_ref_usfm": "LEV 25:49"
+},
+{
+"start_ref": "05025005",
+"start_ref_usfm": "DEU 25:5",
+"end_ref": "05025006",
+"end_ref_usfm": "DEU 25:6"
+},
+{
+"start_ref": "06020005",
+"start_ref_usfm": "JOS 20:5",
+"end_ref": "06020005",
+"end_ref_usfm": "JOS 20:5"
+},
+{
+"start_ref": "04035015",
+"start_ref_usfm": "NUM 35:15",
+"end_ref": "04035029",
+"end_ref_usfm": "NUM 35:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06020006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 20.6 (#1)",
+"media_type": "Text",
+"index_reference": "06020006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que le meurtrier doit rester dans la ville de refuge jusqu’à ce qu’il soit jugé.  S’il est trouvé innocent (s’il n’a pas prémédité de tuer son prochain), il devra rester dans la ville de refuge jusqu’à la mort du souverain sacrificateur qui était en fonction quand il y est arrivé.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06020006",
+"start_ref_usfm": "JOS 20:6",
+"end_ref": "06020006",
+"end_ref_usfm": "JOS 20:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06020006-02",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 20.6 (#2)",
+"media_type": "Text",
+"index_reference": "06020006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « jusqu’à la mort du souverain sacrificateur qui sera dans ces jours-là ».  Il est sous-entendu qu’il s’agit des jours où le souverain sacrificateur sera <em>en service</em> ou <em>en fonction</em>.  À la mort de ce souverain sacrificateur, le meurtrier pourra retourner chez lui (voir aussi <data class=\"bible-ref\" data-start-ref=\"04035028\" data-end-ref=\"04035028\">Nombres 35.28</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06020006",
+"start_ref_usfm": "JOS 20:6",
+"end_ref": "06020006",
+"end_ref_usfm": "JOS 20:6"
+},
+{
+"start_ref": "04035028",
+"start_ref_usfm": "NUM 35:28",
+"end_ref": "04035028",
+"end_ref_usfm": "NUM 35:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06020006-03",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 20.6 (#3)",
+"media_type": "Text",
+"index_reference": "06020006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire à l’époque où le souverain sacrificateur qui était en fonction lorsque le meurtrier est arrivé mourra.  En temps normal (c’est-à-dire sauf en cas d’exception), le nouveau souverain sacrificateur n’entre en fonction que quand le précédent meurt.  Le meurtrier doit donc rester dans la ville de refuge jusqu’à l’entrée en fonction du nouveau souverain sacrificateur.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06020006",
+"start_ref_usfm": "JOS 20:6",
+"end_ref": "06020006",
+"end_ref_usfm": "JOS 20:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06021045-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 21.45 (#1)",
+"media_type": "Text",
+"index_reference": "06021045",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « aucun mot ne tomba ».  Le sens est que tout ce que l’Éternel avait promis à Israël est arrivé.  Voir aussi <data class=\"bible-ref\" data-start-ref=\"06023014\" data-end-ref=\"06023014\">23.14</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06021045",
+"start_ref_usfm": "JOS 21:45",
+"end_ref": "06021045",
+"end_ref_usfm": "JOS 21:45"
+},
+{
+"start_ref": "06023014",
+"start_ref_usfm": "JOS 23:14",
+"end_ref": "06023014",
+"end_ref_usfm": "JOS 23:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022003-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.3 (#1)",
+"media_type": "Text",
+"index_reference": "06022003",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire qu’ils ont combattu aux côtés de leurs frères pour qu’ils puissent prendre possession de leurs terres à l’ouest du Jourdain.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022003",
+"start_ref_usfm": "JOS 22:3",
+"end_ref": "06022003",
+"end_ref_usfm": "JOS 22:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.7 (#1)",
+"media_type": "Text",
+"index_reference": "06022007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ceux qui avaient pour héritage une terre à l’est du Jourdain.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022007",
+"start_ref_usfm": "JOS 22:7",
+"end_ref": "06022007",
+"end_ref_usfm": "JOS 22:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022008-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.8 (#1)",
+"media_type": "Text",
+"index_reference": "06022008",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire ceux des tribus de Ruben et de Gad et de la demi-tribu de Manassé, car ils sont restés sur leurs terres à l’est du Jourdain.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022008",
+"start_ref_usfm": "JOS 22:8",
+"end_ref": "06022008",
+"end_ref_usfm": "JOS 22:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022010-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.10 (#1)",
+"media_type": "Text",
+"index_reference": "06022010",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Littéralement en hébreu : « grand d’apparence ».  Le sens est que l’autel était très grand et bien visible.  Les versions et paraphrases françaises proposent différentes traductions :</p>\n      <ul>\n      <li>« un autel de grande apparence » (Darby)</li>\n      <li>« un autel d’une grandeur remarquable » (Bible annotée)</li>\n      <li>« un autel imposant » (Nouvelle Bible Segond, Traduction officielle liturgique)</li>\n      <li>« un autel d’aspect grandiose » (Colombe)</li>\n      <li>« un fort grand autel » (Ostervald)</li>\n      <li>« un autel immense » (Parole de vie)</li>\n      <li>« un autel d’aspect impressionnant » (Nouvelle français courant)</li>\n      <li>« un autel monumental » (Parole vivante)</li>\n      </ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022010",
+"start_ref_usfm": "JOS 22:10",
+"end_ref": "06022010",
+"end_ref_usfm": "JOS 22:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022011-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.11 (#1)",
+"media_type": "Text",
+"index_reference": "06022011",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « qui fait face au pays de Canaan » (Segond 21) ou « face au pays de Canaan » (Traduction officielle liturgique, Traduction œcuménique).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022011",
+"start_ref_usfm": "JOS 22:11",
+"end_ref": "06022011",
+"end_ref_usfm": "JOS 22:11"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.13 (#1)",
+"media_type": "Text",
+"index_reference": "06022013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Phinées et les dix chefs d'Israël sont envoyés pour tenter de raisonner avec les tribus de Ruben et de Gad et avec la demi-tribu de Manassé de l’autre côté du Jourdain.  Les dix tribus sont prêtes à leur faire la guerre, car elles présupposent que les tribus de Ruben et de Gad et la demi-tribu de Manassé ont gravement péché contre l’Éternel.  Cependant, les dix tribus ne souhaitent pas leur faire la guerre si cela peut être évité (elles sont même prêtes à partager leurs terres à l’ouest du Jourdain avec les tribus de Ruben et de Gad et avec la demi-tribu de Manassé).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022013",
+"start_ref_usfm": "JOS 22:13",
+"end_ref": "06022013",
+"end_ref_usfm": "JOS 22:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.19 (#1)",
+"media_type": "Text",
+"index_reference": "06022019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Si les tribus de Ruben et de Gad et la demi-tribu de Manassé s’étaient effectivement révoltées contre l’Éternel, cela aurait entraîné leur séparation d’avec les autres tribus à l’ouest du Jourdain, qui désirent suivre l’Éternel et lui obéir.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022019",
+"start_ref_usfm": "JOS 22:19",
+"end_ref": "06022019",
+"end_ref_usfm": "JOS 22:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022020-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.20 (#1)",
+"media_type": "Text",
+"index_reference": "06022020",
+"language": "fra",
+"review_level": "None",
+"content": "<p> La famille entière d’Acan, mais également 36 hommes des soldats d’Israël sont morts à cause de son crime (voir <data class=\"bible-ref\" data-start-ref=\"06007001\" data-end-ref=\"06007006\">7.1–6</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022020",
+"start_ref_usfm": "JOS 22:20",
+"end_ref": "06022020",
+"end_ref_usfm": "JOS 22:20"
+},
+{
+"start_ref": "06007001",
+"start_ref_usfm": "JOS 7:1",
+"end_ref": "06007006",
+"end_ref_usfm": "JOS 7:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06022034-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 22.34 (#1)",
+"media_type": "Text",
+"index_reference": "06022034",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu « ed » signifie témoin, témoignage.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06022034",
+"start_ref_usfm": "JOS 22:34",
+"end_ref": "06022034",
+"end_ref_usfm": "JOS 22:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06023006-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 23.6 (#1)",
+"media_type": "Text",
+"index_reference": "06023006",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Noter les parallèles entre les versets <data class=\"bible-ref\" data-start-ref=\"06001004\" data-end-ref=\"06001007\">1.4–7</data> et les versets <data class=\"bible-ref\" data-start-ref=\"06023004\" data-end-ref=\"06023006\">23.4–6</data> :</p>\n      <ul>\n      <li>« jusqu’à la grande mer vers le soleil couchant » (<data class=\"bible-ref\" data-start-ref=\"06001004\" data-end-ref=\"06001004\">1.4</data> ; <data class=\"bible-ref\" data-start-ref=\"06023004\" data-end-ref=\"06023004\">23.4</data>).</li>\n      <li>« Fortifie-toi » (<data class=\"bible-ref\" data-start-ref=\"06001006\" data-end-ref=\"06001006\">1.6</data>, <data class=\"bible-ref\" data-start-ref=\"06001007\" data-end-ref=\"06001007\">7</data>, <data class=\"bible-ref\" data-start-ref=\"06001009\" data-end-ref=\"06001009\">9</data>) et « Appliquez-vous avec force » (<data class=\"bible-ref\" data-start-ref=\"06023006\" data-end-ref=\"06023006\">23.6</data>) ; noter qu’il s’agit du même verbe hébreu.</li>\n      <li>« en agissant fidèlement selon toute la loi que Moïse, mon serviteur, t’a prescrite » (<data class=\"bible-ref\" data-start-ref=\"06001007\" data-end-ref=\"06001007\">1.7</data>) et « mettre en pratique tout ce qui est écrit dans le livre de la loi de Moïse » (<data class=\"bible-ref\" data-start-ref=\"06023006\" data-end-ref=\"06023006\">23.6</data>).  Noter que les deux mêmes verbes sont utilisés dans ces versets : garder, faire (voir note correspondante à « en agissant fidèlement » dans <data class=\"bible-ref\" data-start-ref=\"06001007\" data-end-ref=\"06001007\">1.7</data>).</li>\n      <li>« Ne t’en détourne ni à droite ni à gauche » (<data class=\"bible-ref\" data-start-ref=\"16001007\" data-end-ref=\"16001007\">1.7</data>) et « sans vous en détourner ni à droite ni à gauche » (<data class=\"bible-ref\" data-start-ref=\"16023006\" data-end-ref=\"16023006\">23.6</data>).</li>\n      </ul>\n      <p>Le parallélisme est un aspect essentiel des textes hébraïques.  Le parallélisme peut être présent à l’échelle d’un verset (par exemple : « fortifie-toi » + « prends courage »), mais il peut également être présent à une plus grande échelle : au niveau d’une section, de plusieurs sections (voir par exemple note sur les expressions parallèles entre <data class=\"bible-ref\" data-start-ref=\"16010025\" data-end-ref=\"16010025\">10.25</data> et <data class=\"bible-ref\" data-start-ref=\"16001006\" data-end-ref=\"16001009\">1.6–9</data> au verset <data class=\"bible-ref\" data-start-ref=\"16010025\" data-end-ref=\"16010025\">10.25</data>), ou d’un livre dans son entièreté.  Les éléments parallèles notés ci-dessus apparaissent à l’échelle du récit dans son ensemble (au début et à la fin du livre de Josué).  Cet aspect du texte permet (entre autres choses) de marquer le début et la fin d’une section qui forme un tout.  Ici, le « tout » dont il est question est le récit du livre de Josué.  D’une certaine façon, ce procédé littéraire peut remplir une fonction comparable à celle de formules telles que « Cette histoire commence au temps de… » et « Ainsi s’achève l’histoire de… » dans un texte français.  </p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06023006",
+"start_ref_usfm": "JOS 23:6",
+"end_ref": "06023006",
+"end_ref_usfm": "JOS 23:6"
+},
+{
+"start_ref": "06001004",
+"start_ref_usfm": "JOS 1:4",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+},
+{
+"start_ref": "06023004",
+"start_ref_usfm": "JOS 23:4",
+"end_ref": "06023006",
+"end_ref_usfm": "JOS 23:6"
+},
+{
+"start_ref": "06001004",
+"start_ref_usfm": "JOS 1:4",
+"end_ref": "06001004",
+"end_ref_usfm": "JOS 1:4"
+},
+{
+"start_ref": "06023004",
+"start_ref_usfm": "JOS 23:4",
+"end_ref": "06023004",
+"end_ref_usfm": "JOS 23:4"
+},
+{
+"start_ref": "06001006",
+"start_ref_usfm": "JOS 1:6",
+"end_ref": "06001006",
+"end_ref_usfm": "JOS 1:6"
+},
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001007",
+"end_ref_usfm": "JOS 1:7"
+},
+{
+"start_ref": "06001009",
+"start_ref_usfm": "JOS 1:9",
+"end_ref": "06001009",
+"end_ref_usfm": "JOS 1:9"
+},
+{
+"start_ref": "16001007",
+"start_ref_usfm": "NEH 1:7",
+"end_ref": "16001007",
+"end_ref_usfm": "NEH 1:7"
+},
+{
+"start_ref": "16023006",
+"start_ref_usfm": "NEH 23:6",
+"end_ref": "16023006",
+"end_ref_usfm": "NEH 23:6"
+},
+{
+"start_ref": "16010025",
+"start_ref_usfm": "NEH 10:25",
+"end_ref": "16010025",
+"end_ref_usfm": "NEH 10:25"
+},
+{
+"start_ref": "16001006",
+"start_ref_usfm": "NEH 1:6",
+"end_ref": "16001009",
+"end_ref_usfm": "NEH 1:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06023007-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 23.7 (#1)",
+"media_type": "Text",
+"index_reference": "06023007",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Jurer par le nom d’un dieu signifiait jurer devant ce dieu, l’appelant comme témoin du serment qui était ainsi fait.  L’interdiction de « jurer » par le nom d’autres dieux signifie ne pas avoir d’autres dieux, ne pas les adorer, ne pas les craindre, ne pas les suivre.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06023007",
+"start_ref_usfm": "JOS 23:7",
+"end_ref": "06023007",
+"end_ref_usfm": "JOS 23:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06023013-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 23.13 (#1)",
+"media_type": "Text",
+"index_reference": "06023013",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Le mot hébreu traduit « filet » décrit un piège, un filet, une trappe.  Il semble être associé en particulier aux oiseaux (voir <data class=\"bible-ref\" data-start-ref=\"19091003\" data-end-ref=\"19091003\">Psaumes 91.3</data> ; <data class=\"bible-ref\" data-start-ref=\"19124007\" data-end-ref=\"19124007\">124.7</data> ; <data class=\"bible-ref\" data-start-ref=\"20007023\" data-end-ref=\"20007023\">Proverbes 7.23</data> ; Ecclésiaste <data class=\"bible-ref\" data-start-ref=\"20009012\" data-end-ref=\"20009012\">9.12</data> ; <data class=\"bible-ref\" data-start-ref=\"28009008\" data-end-ref=\"28009008\">Osée 9.8</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06023013",
+"start_ref_usfm": "JOS 23:13",
+"end_ref": "06023013",
+"end_ref_usfm": "JOS 23:13"
+},
+{
+"start_ref": "19091003",
+"start_ref_usfm": "PSA 91:3",
+"end_ref": "19091003",
+"end_ref_usfm": "PSA 91:3"
+},
+{
+"start_ref": "19124007",
+"start_ref_usfm": "PSA 124:7",
+"end_ref": "19124007",
+"end_ref_usfm": "PSA 124:7"
+},
+{
+"start_ref": "20007023",
+"start_ref_usfm": "PRO 7:23",
+"end_ref": "20007023",
+"end_ref_usfm": "PRO 7:23"
+},
+{
+"start_ref": "20009012",
+"start_ref_usfm": "PRO 9:12",
+"end_ref": "20009012",
+"end_ref_usfm": "PRO 9:12"
+},
+{
+"start_ref": "28009008",
+"start_ref_usfm": "HOS 9:8",
+"end_ref": "28009008",
+"end_ref_usfm": "HOS 9:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06023014-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 23.14 (#1)",
+"media_type": "Text",
+"index_reference": "06023014",
+"language": "fra",
+"review_level": "None",
+"content": "<p> C’est-à-dire que le temps de sa mort approche : il va mourir, comme tous les êtres humains doivent un jour passer par la mort.  Voir la Nouvelle Bible Segond : « Je m’en vais aujourd’hui selon le sort commun à tous » et la Colombe : « Voici que je m’en vais aujourd’hui où va tout ce qui est terrestre ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06023014",
+"start_ref_usfm": "JOS 23:14",
+"end_ref": "06023014",
+"end_ref_usfm": "JOS 23:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06024019-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 24.19 (#1)",
+"media_type": "Text",
+"index_reference": "06024019",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ou « votre rébellion ».</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06024019",
+"start_ref_usfm": "JOS 24:19",
+"end_ref": "06024019",
+"end_ref_usfm": "JOS 24:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06024023-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 24.23 (#1)",
+"media_type": "Text",
+"index_reference": "06024023",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Il est sous-entendu qu’il s’agit des paroles de Josué.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06024023",
+"start_ref_usfm": "JOS 24:23",
+"end_ref": "06024023",
+"end_ref_usfm": "JOS 24:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "06024032-01",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Josué 24.32 (#1)",
+"media_type": "Text",
+"index_reference": "06024032",
+"language": "fra",
+"review_level": "None",
+"content": "<p> Ce verset lie explicitement le récit du livre de Josué à l’histoire des patriarches (voir <data class=\"bible-ref\" data-start-ref=\"01050024\" data-end-ref=\"01050025\">Genèse 50.24–25</data> ; <data class=\"bible-ref\" data-start-ref=\"02013019\" data-end-ref=\"02013019\">Exode 13.19</data>).</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06024032",
+"start_ref_usfm": "JOS 24:32",
+"end_ref": "06024032",
+"end_ref_usfm": "JOS 24:32"
+},
+{
+"start_ref": "01050024",
+"start_ref_usfm": "GEN 50:24",
+"end_ref": "01050025",
+"end_ref_usfm": "GEN 50:25"
+},
+{
+"start_ref": "02013019",
+"start_ref_usfm": "EXO 13:19",
+"end_ref": "02013019",
+"end_ref_usfm": "EXO 13:19"
+}
+],
+"resource": []
+}
+}
+]
