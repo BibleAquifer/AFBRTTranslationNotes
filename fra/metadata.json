@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "AFBRTTranslationNotes",
-"date_created": "2026-09-01",
+"date_created": "2026-09-04",
 "language": "fra",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-01T09:55:40.995897"
+"dateCreated": "2026-09-04T15:49:20.600394"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "AFBRTTranslationNotes": {
-"timestamp": "2026-09-01T09:55:40.995897"
+"timestamp": "2026-09-04T15:49:20.600394"
 }
 }
 },
