@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-04T15:49:20.600394"
+"dateCreated": "2026-09-04T15:52:06.949945"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "AFBRTTranslationNotes": {
-"timestamp": "2026-09-04T15:49:20.600394"
+"timestamp": "2026-09-04T15:52:06.949945"
 }
 }
 },
@@ -85,6 +85,156 @@
 }
 },
 "ingredients": {
+"json/06.content.json": {
+"mimeType": "text/json",
+"size": 180336,
+"scope": {
+"JOS": [
+"Josué 1.2 (#1)",
+"Josué 1.3 (#1)",
+"Josué 1.4 (#1)",
+"Josué 1.4 (#2)",
+"Josué 1.4 (#3)",
+"Josué 1.4 (#4)",
+"Josué 1.5 (#1)",
+"Josué 1.5 (#2)",
+"Josué 1.7 (#1)",
+"Josué 1.7 (#2)",
+"Josué 1.7 (#3)",
+"Josué 1.8 (#1)",
+"Josué 1.8 (#2)",
+"Josué 1.8 (#3)",
+"Josué 1.8 (#4)",
+"Josué 1.9 (#1)",
+"Josué 1.9 (#2)",
+"Josué 1.9 (#3)",
+"Josué 1.9 (#4)",
+"Josué 1.11 (#1)",
+"Josué 1.14 (#1)",
+"Josué 1.15 (#1)",
+"Josué 2.6 (#1)",
+"Josué 2.7 (#1)",
+"Josué 2.7 (#2)",
+"Josué 2.7 (#3)",
+"Josué 2.10 (#1)",
+"Josué 2.10 (#2)",
+"Josué 2.11 (#1)",
+"Josué 2.17 (#1)",
+"Josué 2.19 (#1)",
+"Josué 3.2 (#1)",
+"Josué 3.3 (#1)",
+"Josué 3.4 (#1)",
+"Josué 3.5 (#1)",
+"Josué 3.13 (#1)",
+"Josué 3.13 (#2)",
+"Josué 3.13 (#3)",
+"Josué 3.16 (#1)",
+"Josué 3.17 (#1)",
+"Josué 3.17 (#2)",
+"Josué 4.3 (#1)",
+"Josué 4.14 (#1)",
+"Josué 4.14 (#2)",
+"Josué 4.18 (#1)",
+"Josué 5.1 (#1)",
+"Josué 5.2 (#1)",
+"Josué 5.3 (#1)",
+"Josué 5.6 (#1)",
+"Josué 5.8 (#1)",
+"Josué 5.8 (#2)",
+"Josué 5.9 (#1)",
+"Josué 5.13 (#1)",
+"Josué 6.1 (#1)",
+"Josué 6.2 (#1)",
+"Josué 6.3 (#1)",
+"Josué 6.4 (#1)",
+"Josué 6.5 (#1)",
+"Josué 6.10 (#1)",
+"Josué 6.18 (#1)",
+"Josué 6.21 (#1)",
+"Josué 6.26 (#1)",
+"Josué 7.5 (#1)",
+"Josué 7.6 (#1)",
+"Josué 7.11 (#1)",
+"Josué 7.12 (#1)",
+"Josué 7.15 (#1)",
+"Josué 7.19 (#1)",
+"Josué 7.21 (#1)",
+"Josué 7.21 (#2)",
+"Josué 7.26 (#1)",
+"Josué 8.1 (#1)",
+"Josué 8.2 (#1)",
+"Josué 8.3 (#1)",
+"Josué 8.10 (#1)",
+"Josué 8.16 (#1)",
+"Josué 8.17 (#1)",
+"Josué 8.18 (#1)",
+"Josué 8.20 (#1)",
+"Josué 8.22 (#1)",
+"Josué 8.30 (#1)",
+"Josué 8.31 (#1)",
+"Josué 8.35 (#1)",
+"Josué 9.1 (#1)",
+"Josué 9.1 (#2)",
+"Josué 9.6 (#1)",
+"Josué 9.19 (#1)",
+"Josué 9.21 (#1)",
+"Josué 10.13 (#1)",
+"Josué 10.19 (#1)",
+"Josué 10.25 (#1)",
+"Josué 10.32 (#1)",
+"Josué 10.34 (#1)",
+"Josué 10.37 (#1)",
+"Josué 10.40 (#1)",
+"Josué 10.40 (#2)",
+"Josué 10.41 (#1)",
+"Josué 11.6 (#1)",
+"Josué 11.6 (#2)",
+"Josué 11.14 (#1)",
+"Josué 11.17 (#1)",
+"Josué 12.1 (#1)",
+"Josué 12.7 (#1)",
+"Josué 14.2 (#1)",
+"Josué 14.4 (#1)",
+"Josué 14.11 (#1)",
+"Josué 15.2 (#1)",
+"Josué 15.5 (#1)",
+"Josué 15.5 (#2)",
+"Josué 15.8 (#1)",
+"Josué 15.13 (#1)",
+"Josué 15.15 (#1)",
+"Josué 15.17 (#1)",
+"Josué 15.18 (#1)",
+"Josué 15.18 (#2)",
+"Josué 15.19 (#1)",
+"Josué 16.3 (#1)",
+"Josué 17.4 (#1)",
+"Josué 17.8 (#1)",
+"Josué 18.7 (#1)",
+"Josué 18.19 (#1)",
+"Josué 20.3 (#1)",
+"Josué 20.6 (#1)",
+"Josué 20.6 (#2)",
+"Josué 20.6 (#3)",
+"Josué 21.45 (#1)",
+"Josué 22.3 (#1)",
+"Josué 22.7 (#1)",
+"Josué 22.8 (#1)",
+"Josué 22.10 (#1)",
+"Josué 22.11 (#1)",
+"Josué 22.13 (#1)",
+"Josué 22.19 (#1)",
+"Josué 22.20 (#1)",
+"Josué 22.34 (#1)",
+"Josué 23.6 (#1)",
+"Josué 23.7 (#1)",
+"Josué 23.13 (#1)",
+"Josué 23.14 (#1)",
+"Josué 24.19 (#1)",
+"Josué 24.23 (#1)",
+"Josué 24.32 (#1)"
+]
+}
+},
 "json/08.content.json": {
 "mimeType": "text/json",
 "size": 49071,
@@ -2238,6 +2388,13 @@
 "2TH": []
 }
 },
+"md/06.content.md": {
+"mimeType": "text/markdown",
+"size": 64560,
+"scope": {
+"JOS": []
+}
+},
 "md/54.content.md": {
 "mimeType": "text/markdown",
 "size": 127230,
@@ -2294,6 +2451,10 @@
 "RUT": []
 }
 },
+"docx/06.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 63643
+},
 "docx/08.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48993
@@ -2333,6 +2494,10 @@
 "docx/64.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 51229
+},
+"pdf/06.content.pdf": {
+"mimeType": "application/pdf",
+"size": 236656
 },
 "pdf/08.content.pdf": {
 "mimeType": "application/pdf",
@@ -2391,6 +2556,858 @@
 }
 },
 "article_metadata": {
+"06001002-01": {
+"content_id": "06001002-01",
+"reference_id": 0,
+"index_reference": "06001002",
+"localizations": {}
+},
+"06001003-01": {
+"content_id": "06001003-01",
+"reference_id": 0,
+"index_reference": "06001003",
+"localizations": {}
+},
+"06001004-01": {
+"content_id": "06001004-01",
+"reference_id": 0,
+"index_reference": "06001004",
+"localizations": {}
+},
+"06001004-02": {
+"content_id": "06001004-02",
+"reference_id": 0,
+"index_reference": "06001004",
+"localizations": {}
+},
+"06001004-03": {
+"content_id": "06001004-03",
+"reference_id": 0,
+"index_reference": "06001004",
+"localizations": {}
+},
+"06001004-04": {
+"content_id": "06001004-04",
+"reference_id": 0,
+"index_reference": "06001004",
+"localizations": {}
+},
+"06001005-01": {
+"content_id": "06001005-01",
+"reference_id": 0,
+"index_reference": "06001005",
+"localizations": {}
+},
+"06001005-02": {
+"content_id": "06001005-02",
+"reference_id": 0,
+"index_reference": "06001005",
+"localizations": {}
+},
+"06001007-01": {
+"content_id": "06001007-01",
+"reference_id": 0,
+"index_reference": "06001007",
+"localizations": {}
+},
+"06001007-02": {
+"content_id": "06001007-02",
+"reference_id": 0,
+"index_reference": "06001007",
+"localizations": {}
+},
+"06001007-03": {
+"content_id": "06001007-03",
+"reference_id": 0,
+"index_reference": "06001007",
+"localizations": {}
+},
+"06001008-01": {
+"content_id": "06001008-01",
+"reference_id": 0,
+"index_reference": "06001008",
+"localizations": {}
+},
+"06001008-02": {
+"content_id": "06001008-02",
+"reference_id": 0,
+"index_reference": "06001008",
+"localizations": {}
+},
+"06001008-03": {
+"content_id": "06001008-03",
+"reference_id": 0,
+"index_reference": "06001008",
+"localizations": {}
+},
+"06001008-04": {
+"content_id": "06001008-04",
+"reference_id": 0,
+"index_reference": "06001008",
+"localizations": {}
+},
+"06001009-01": {
+"content_id": "06001009-01",
+"reference_id": 0,
+"index_reference": "06001009",
+"localizations": {}
+},
+"06001009-02": {
+"content_id": "06001009-02",
+"reference_id": 0,
+"index_reference": "06001009",
+"localizations": {}
+},
+"06001009-03": {
+"content_id": "06001009-03",
+"reference_id": 0,
+"index_reference": "06001009",
+"localizations": {}
+},
+"06001009-04": {
+"content_id": "06001009-04",
+"reference_id": 0,
+"index_reference": "06001009",
+"localizations": {}
+},
+"06001011-01": {
+"content_id": "06001011-01",
+"reference_id": 0,
+"index_reference": "06001011",
+"localizations": {}
+},
+"06001014-01": {
+"content_id": "06001014-01",
+"reference_id": 0,
+"index_reference": "06001014",
+"localizations": {}
+},
+"06001015-01": {
+"content_id": "06001015-01",
+"reference_id": 0,
+"index_reference": "06001015",
+"localizations": {}
+},
+"06002006-01": {
+"content_id": "06002006-01",
+"reference_id": 0,
+"index_reference": "06002006",
+"localizations": {}
+},
+"06002007-01": {
+"content_id": "06002007-01",
+"reference_id": 0,
+"index_reference": "06002007",
+"localizations": {}
+},
+"06002007-02": {
+"content_id": "06002007-02",
+"reference_id": 0,
+"index_reference": "06002007",
+"localizations": {}
+},
+"06002007-03": {
+"content_id": "06002007-03",
+"reference_id": 0,
+"index_reference": "06002007",
+"localizations": {}
+},
+"06002010-01": {
+"content_id": "06002010-01",
+"reference_id": 0,
+"index_reference": "06002010",
+"localizations": {}
+},
+"06002010-02": {
+"content_id": "06002010-02",
+"reference_id": 0,
+"index_reference": "06002010",
+"localizations": {}
+},
+"06002011-01": {
+"content_id": "06002011-01",
+"reference_id": 0,
+"index_reference": "06002011",
+"localizations": {}
+},
+"06002017-01": {
+"content_id": "06002017-01",
+"reference_id": 0,
+"index_reference": "06002017",
+"localizations": {}
+},
+"06002019-01": {
+"content_id": "06002019-01",
+"reference_id": 0,
+"index_reference": "06002019",
+"localizations": {}
+},
+"06003002-01": {
+"content_id": "06003002-01",
+"reference_id": 0,
+"index_reference": "06003002",
+"localizations": {}
+},
+"06003003-01": {
+"content_id": "06003003-01",
+"reference_id": 0,
+"index_reference": "06003003",
+"localizations": {}
+},
+"06003004-01": {
+"content_id": "06003004-01",
+"reference_id": 0,
+"index_reference": "06003004",
+"localizations": {}
+},
+"06003005-01": {
+"content_id": "06003005-01",
+"reference_id": 0,
+"index_reference": "06003005",
+"localizations": {}
+},
+"06003013-01": {
+"content_id": "06003013-01",
+"reference_id": 0,
+"index_reference": "06003013",
+"localizations": {}
+},
+"06003013-02": {
+"content_id": "06003013-02",
+"reference_id": 0,
+"index_reference": "06003013",
+"localizations": {}
+},
+"06003013-03": {
+"content_id": "06003013-03",
+"reference_id": 0,
+"index_reference": "06003013",
+"localizations": {}
+},
+"06003016-01": {
+"content_id": "06003016-01",
+"reference_id": 0,
+"index_reference": "06003016",
+"localizations": {}
+},
+"06003017-01": {
+"content_id": "06003017-01",
+"reference_id": 0,
+"index_reference": "06003017",
+"localizations": {}
+},
+"06003017-02": {
+"content_id": "06003017-02",
+"reference_id": 0,
+"index_reference": "06003017",
+"localizations": {}
+},
+"06004003-01": {
+"content_id": "06004003-01",
+"reference_id": 0,
+"index_reference": "06004003",
+"localizations": {}
+},
+"06004014-01": {
+"content_id": "06004014-01",
+"reference_id": 0,
+"index_reference": "06004014",
+"localizations": {}
+},
+"06004014-02": {
+"content_id": "06004014-02",
+"reference_id": 0,
+"index_reference": "06004014",
+"localizations": {}
+},
+"06004018-01": {
+"content_id": "06004018-01",
+"reference_id": 0,
+"index_reference": "06004018",
+"localizations": {}
+},
+"06005001-01": {
+"content_id": "06005001-01",
+"reference_id": 0,
+"index_reference": "06005001",
+"localizations": {}
+},
+"06005002-01": {
+"content_id": "06005002-01",
+"reference_id": 0,
+"index_reference": "06005002",
+"localizations": {}
+},
+"06005003-01": {
+"content_id": "06005003-01",
+"reference_id": 0,
+"index_reference": "06005003",
+"localizations": {}
+},
+"06005006-01": {
+"content_id": "06005006-01",
+"reference_id": 0,
+"index_reference": "06005006",
+"localizations": {}
+},
+"06005008-01": {
+"content_id": "06005008-01",
+"reference_id": 0,
+"index_reference": "06005008",
+"localizations": {}
+},
+"06005008-02": {
+"content_id": "06005008-02",
+"reference_id": 0,
+"index_reference": "06005008",
+"localizations": {}
+},
+"06005009-01": {
+"content_id": "06005009-01",
+"reference_id": 0,
+"index_reference": "06005009",
+"localizations": {}
+},
+"06005013-01": {
+"content_id": "06005013-01",
+"reference_id": 0,
+"index_reference": "06005013",
+"localizations": {}
+},
+"06006001-01": {
+"content_id": "06006001-01",
+"reference_id": 0,
+"index_reference": "06006001",
+"localizations": {}
+},
+"06006002-01": {
+"content_id": "06006002-01",
+"reference_id": 0,
+"index_reference": "06006002",
+"localizations": {}
+},
+"06006003-01": {
+"content_id": "06006003-01",
+"reference_id": 0,
+"index_reference": "06006003",
+"localizations": {}
+},
+"06006004-01": {
+"content_id": "06006004-01",
+"reference_id": 0,
+"index_reference": "06006004",
+"localizations": {}
+},
+"06006005-01": {
+"content_id": "06006005-01",
+"reference_id": 0,
+"index_reference": "06006005",
+"localizations": {}
+},
+"06006010-01": {
+"content_id": "06006010-01",
+"reference_id": 0,
+"index_reference": "06006010",
+"localizations": {}
+},
+"06006018-01": {
+"content_id": "06006018-01",
+"reference_id": 0,
+"index_reference": "06006018",
+"localizations": {}
+},
+"06006021-01": {
+"content_id": "06006021-01",
+"reference_id": 0,
+"index_reference": "06006021",
+"localizations": {}
+},
+"06006026-01": {
+"content_id": "06006026-01",
+"reference_id": 0,
+"index_reference": "06006026",
+"localizations": {}
+},
+"06007005-01": {
+"content_id": "06007005-01",
+"reference_id": 0,
+"index_reference": "06007005",
+"localizations": {}
+},
+"06007006-01": {
+"content_id": "06007006-01",
+"reference_id": 0,
+"index_reference": "06007006",
+"localizations": {}
+},
+"06007011-01": {
+"content_id": "06007011-01",
+"reference_id": 0,
+"index_reference": "06007011",
+"localizations": {}
+},
+"06007012-01": {
+"content_id": "06007012-01",
+"reference_id": 0,
+"index_reference": "06007012",
+"localizations": {}
+},
+"06007015-01": {
+"content_id": "06007015-01",
+"reference_id": 0,
+"index_reference": "06007015",
+"localizations": {}
+},
+"06007019-01": {
+"content_id": "06007019-01",
+"reference_id": 0,
+"index_reference": "06007019",
+"localizations": {}
+},
+"06007021-01": {
+"content_id": "06007021-01",
+"reference_id": 0,
+"index_reference": "06007021",
+"localizations": {}
+},
+"06007021-02": {
+"content_id": "06007021-02",
+"reference_id": 0,
+"index_reference": "06007021",
+"localizations": {}
+},
+"06007026-01": {
+"content_id": "06007026-01",
+"reference_id": 0,
+"index_reference": "06007026",
+"localizations": {}
+},
+"06008001-01": {
+"content_id": "06008001-01",
+"reference_id": 0,
+"index_reference": "06008001",
+"localizations": {}
+},
+"06008002-01": {
+"content_id": "06008002-01",
+"reference_id": 0,
+"index_reference": "06008002",
+"localizations": {}
+},
+"06008003-01": {
+"content_id": "06008003-01",
+"reference_id": 0,
+"index_reference": "06008003",
+"localizations": {}
+},
+"06008010-01": {
+"content_id": "06008010-01",
+"reference_id": 0,
+"index_reference": "06008010",
+"localizations": {}
+},
+"06008016-01": {
+"content_id": "06008016-01",
+"reference_id": 0,
+"index_reference": "06008016",
+"localizations": {}
+},
+"06008017-01": {
+"content_id": "06008017-01",
+"reference_id": 0,
+"index_reference": "06008017",
+"localizations": {}
+},
+"06008018-01": {
+"content_id": "06008018-01",
+"reference_id": 0,
+"index_reference": "06008018",
+"localizations": {}
+},
+"06008020-01": {
+"content_id": "06008020-01",
+"reference_id": 0,
+"index_reference": "06008020",
+"localizations": {}
+},
+"06008022-01": {
+"content_id": "06008022-01",
+"reference_id": 0,
+"index_reference": "06008022",
+"localizations": {}
+},
+"06008030-01": {
+"content_id": "06008030-01",
+"reference_id": 0,
+"index_reference": "06008030",
+"localizations": {}
+},
+"06008031-01": {
+"content_id": "06008031-01",
+"reference_id": 0,
+"index_reference": "06008031",
+"localizations": {}
+},
+"06008035-01": {
+"content_id": "06008035-01",
+"reference_id": 0,
+"index_reference": "06008035",
+"localizations": {}
+},
+"06009001-01": {
+"content_id": "06009001-01",
+"reference_id": 0,
+"index_reference": "06009001",
+"localizations": {}
+},
+"06009001-02": {
+"content_id": "06009001-02",
+"reference_id": 0,
+"index_reference": "06009001",
+"localizations": {}
+},
+"06009006-01": {
+"content_id": "06009006-01",
+"reference_id": 0,
+"index_reference": "06009006",
+"localizations": {}
+},
+"06009019-01": {
+"content_id": "06009019-01",
+"reference_id": 0,
+"index_reference": "06009019",
+"localizations": {}
+},
+"06009021-01": {
+"content_id": "06009021-01",
+"reference_id": 0,
+"index_reference": "06009021",
+"localizations": {}
+},
+"06010013-01": {
+"content_id": "06010013-01",
+"reference_id": 0,
+"index_reference": "06010013",
+"localizations": {}
+},
+"06010019-01": {
+"content_id": "06010019-01",
+"reference_id": 0,
+"index_reference": "06010019",
+"localizations": {}
+},
+"06010025-01": {
+"content_id": "06010025-01",
+"reference_id": 0,
+"index_reference": "06010025",
+"localizations": {}
+},
+"06010032-01": {
+"content_id": "06010032-01",
+"reference_id": 0,
+"index_reference": "06010032",
+"localizations": {}
+},
+"06010034-01": {
+"content_id": "06010034-01",
+"reference_id": 0,
+"index_reference": "06010034",
+"localizations": {}
+},
+"06010037-01": {
+"content_id": "06010037-01",
+"reference_id": 0,
+"index_reference": "06010037",
+"localizations": {}
+},
+"06010040-01": {
+"content_id": "06010040-01",
+"reference_id": 0,
+"index_reference": "06010040",
+"localizations": {}
+},
+"06010040-02": {
+"content_id": "06010040-02",
+"reference_id": 0,
+"index_reference": "06010040",
+"localizations": {}
+},
+"06010041-01": {
+"content_id": "06010041-01",
+"reference_id": 0,
+"index_reference": "06010041",
+"localizations": {}
+},
+"06011006-01": {
+"content_id": "06011006-01",
+"reference_id": 0,
+"index_reference": "06011006",
+"localizations": {}
+},
+"06011006-02": {
+"content_id": "06011006-02",
+"reference_id": 0,
+"index_reference": "06011006",
+"localizations": {}
+},
+"06011014-01": {
+"content_id": "06011014-01",
+"reference_id": 0,
+"index_reference": "06011014",
+"localizations": {}
+},
+"06011017-01": {
+"content_id": "06011017-01",
+"reference_id": 0,
+"index_reference": "06011017",
+"localizations": {}
+},
+"06012001-01": {
+"content_id": "06012001-01",
+"reference_id": 0,
+"index_reference": "06012001",
+"localizations": {}
+},
+"06012007-01": {
+"content_id": "06012007-01",
+"reference_id": 0,
+"index_reference": "06012007",
+"localizations": {}
+},
+"06014002-01": {
+"content_id": "06014002-01",
+"reference_id": 0,
+"index_reference": "06014002",
+"localizations": {}
+},
+"06014004-01": {
+"content_id": "06014004-01",
+"reference_id": 0,
+"index_reference": "06014004",
+"localizations": {}
+},
+"06014011-01": {
+"content_id": "06014011-01",
+"reference_id": 0,
+"index_reference": "06014011",
+"localizations": {}
+},
+"06015002-01": {
+"content_id": "06015002-01",
+"reference_id": 0,
+"index_reference": "06015002",
+"localizations": {}
+},
+"06015005-01": {
+"content_id": "06015005-01",
+"reference_id": 0,
+"index_reference": "06015005",
+"localizations": {}
+},
+"06015005-02": {
+"content_id": "06015005-02",
+"reference_id": 0,
+"index_reference": "06015005",
+"localizations": {}
+},
+"06015008-01": {
+"content_id": "06015008-01",
+"reference_id": 0,
+"index_reference": "06015008",
+"localizations": {}
+},
+"06015013-01": {
+"content_id": "06015013-01",
+"reference_id": 0,
+"index_reference": "06015013",
+"localizations": {}
+},
+"06015015-01": {
+"content_id": "06015015-01",
+"reference_id": 0,
+"index_reference": "06015015",
+"localizations": {}
+},
+"06015017-01": {
+"content_id": "06015017-01",
+"reference_id": 0,
+"index_reference": "06015017",
+"localizations": {}
+},
+"06015018-01": {
+"content_id": "06015018-01",
+"reference_id": 0,
+"index_reference": "06015018",
+"localizations": {}
+},
+"06015018-02": {
+"content_id": "06015018-02",
+"reference_id": 0,
+"index_reference": "06015018",
+"localizations": {}
+},
+"06015019-01": {
+"content_id": "06015019-01",
+"reference_id": 0,
+"index_reference": "06015019",
+"localizations": {}
+},
+"06016003-01": {
+"content_id": "06016003-01",
+"reference_id": 0,
+"index_reference": "06016003",
+"localizations": {}
+},
+"06017004-01": {
+"content_id": "06017004-01",
+"reference_id": 0,
+"index_reference": "06017004",
+"localizations": {}
+},
+"06017008-01": {
+"content_id": "06017008-01",
+"reference_id": 0,
+"index_reference": "06017008",
+"localizations": {}
+},
+"06018007-01": {
+"content_id": "06018007-01",
+"reference_id": 0,
+"index_reference": "06018007",
+"localizations": {}
+},
+"06018019-01": {
+"content_id": "06018019-01",
+"reference_id": 0,
+"index_reference": "06018019",
+"localizations": {}
+},
+"06020003-01": {
+"content_id": "06020003-01",
+"reference_id": 0,
+"index_reference": "06020003",
+"localizations": {}
+},
+"06020006-01": {
+"content_id": "06020006-01",
+"reference_id": 0,
+"index_reference": "06020006",
+"localizations": {}
+},
+"06020006-02": {
+"content_id": "06020006-02",
+"reference_id": 0,
+"index_reference": "06020006",
+"localizations": {}
+},
+"06020006-03": {
+"content_id": "06020006-03",
+"reference_id": 0,
+"index_reference": "06020006",
+"localizations": {}
+},
+"06021045-01": {
+"content_id": "06021045-01",
+"reference_id": 0,
+"index_reference": "06021045",
+"localizations": {}
+},
+"06022003-01": {
+"content_id": "06022003-01",
+"reference_id": 0,
+"index_reference": "06022003",
+"localizations": {}
+},
+"06022007-01": {
+"content_id": "06022007-01",
+"reference_id": 0,
+"index_reference": "06022007",
+"localizations": {}
+},
+"06022008-01": {
+"content_id": "06022008-01",
+"reference_id": 0,
+"index_reference": "06022008",
+"localizations": {}
+},
+"06022010-01": {
+"content_id": "06022010-01",
+"reference_id": 0,
+"index_reference": "06022010",
+"localizations": {}
+},
+"06022011-01": {
+"content_id": "06022011-01",
+"reference_id": 0,
+"index_reference": "06022011",
+"localizations": {}
+},
+"06022013-01": {
+"content_id": "06022013-01",
+"reference_id": 0,
+"index_reference": "06022013",
+"localizations": {}
+},
+"06022019-01": {
+"content_id": "06022019-01",
+"reference_id": 0,
+"index_reference": "06022019",
+"localizations": {}
+},
+"06022020-01": {
+"content_id": "06022020-01",
+"reference_id": 0,
+"index_reference": "06022020",
+"localizations": {}
+},
+"06022034-01": {
+"content_id": "06022034-01",
+"reference_id": 0,
+"index_reference": "06022034",
+"localizations": {}
+},
+"06023006-01": {
+"content_id": "06023006-01",
+"reference_id": 0,
+"index_reference": "06023006",
+"localizations": {}
+},
+"06023007-01": {
+"content_id": "06023007-01",
+"reference_id": 0,
+"index_reference": "06023007",
+"localizations": {}
+},
+"06023013-01": {
+"content_id": "06023013-01",
+"reference_id": 0,
+"index_reference": "06023013",
+"localizations": {}
+},
+"06023014-01": {
+"content_id": "06023014-01",
+"reference_id": 0,
+"index_reference": "06023014",
+"localizations": {}
+},
+"06024019-01": {
+"content_id": "06024019-01",
+"reference_id": 0,
+"index_reference": "06024019",
+"localizations": {}
+},
+"06024023-01": {
+"content_id": "06024023-01",
+"reference_id": 0,
+"index_reference": "06024023",
+"localizations": {}
+},
+"06024032-01": {
+"content_id": "06024032-01",
+"reference_id": 0,
+"index_reference": "06024032",
+"localizations": {}
+},
 "08001001-01": {
 "content_id": "08001001-01",
 "reference_id": 0,
